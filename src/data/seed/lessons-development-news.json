@@ -1,0 +1,936 @@
+[
+  {
+    "id": "intlnews-1",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "African Sovereign Debt Sustainability",
+      "fr": "La soutenabilité de la dette souveraine africaine"
+    },
+    "simple_definition": {
+      "en": "A government that borrows money must repay part of the capital and pay interest every year — that's debt service. When that bill gets too heavy, money that should fund health or education goes to repay creditors instead.",
+      "fr": "Un État qui emprunte doit chaque année rembourser une partie du capital et payer des intérêts : c'est le service de la dette. Quand cette facture devient trop lourde, l'argent qui devait financer la santé ou l'éducation part rembourser les créanciers à la place."
+    },
+    "why_it_matters": {
+      "en": [
+        "Global interest rates have climbed sharply in recent years.",
+        "The US dollar has strengthened, and much of Africa's debt is denominated in dollars.",
+        "Climate shocks are forcing further borrowing just to cope with emergencies, adding to the pile."
+      ],
+      "fr": [
+        "Les taux d'intérêt mondiaux ont fortement grimpé ces dernières années.",
+        "Le dollar s'est renforcé, alors qu'une grande partie de la dette africaine est libellée en dollars.",
+        "Les chocs climatiques obligent à emprunter encore pour faire face aux urgences, ce qui alourdit la facture."
+      ]
+    },
+    "african_context": {
+      "en": "This plays out directly across AfDB regional member countries: when debt service crowds out the budget, it's health and education spending in African countries that gets squeezed first — precisely the pressure the G20 Common Framework and the Bank's own financing are meant to relieve.",
+      "fr": "Cela se joue directement dans les pays membres régionaux de la BAD : quand le service de la dette étouffe le budget, ce sont les dépenses de santé et d'éducation des pays africains qui en pâtissent en premier — précisément la pression que le G20 Common Framework et les financements de la Banque cherchent à desserrer."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "Debt Sustainability Analysis (DSA)",
+          "fr": "Analyse de soutenabilité de la dette (DSA)"
+        },
+        "explanation": {
+          "en": "The IMF and World Bank's joint assessment that classifies a country's debt risk as low, moderate, high, or already in distress.",
+          "fr": "L'évaluation du FMI et de la Banque mondiale qui classe un pays par niveau de risque (faible, modéré, élevé, ou déjà en surendettement)."
+        }
+      },
+      {
+        "term": {
+          "en": "Restructuring",
+          "fr": "Restructuration"
+        },
+        "explanation": {
+          "en": "Negotiating new loan terms: stretching out repayments, lowering the interest rate, sometimes writing off part of the debt.",
+          "fr": "Négocier de nouvelles conditions de prêt : étaler les remboursements, baisser le taux, parfois effacer une partie de la dette."
+        }
+      },
+      {
+        "term": {
+          "en": "G20 Common Framework",
+          "fr": "G20 Common Framework"
+        },
+        "explanation": {
+          "en": "The official mechanism that coordinates debt-restructuring negotiations across all types of a country's creditors.",
+          "fr": "Le mécanisme officiel qui coordonne cette négociation entre tous les types de créanciers d'un pays."
+        }
+      },
+      {
+        "term": {
+          "en": "Debt swap",
+          "fr": "Échange dette-contre-développement (debt swap)"
+        },
+        "explanation": {
+          "en": "A creditor cancels part of a debt if the country invests the money saved in a specific sector (education, nature...).",
+          "fr": "Un créancier efface une partie de la dette si le pays investit l'argent économisé dans un secteur précis (éducation, nature...)."
+        }
+      },
+      {
+        "term": {
+          "en": "Sovereign credit rating",
+          "fr": "Notation de crédit souveraine"
+        },
+        "explanation": {
+          "en": "The rating given by Moody's, S&P, or Fitch, which determines the interest rate a country will have to pay to borrow.",
+          "fr": "La note donnée par Moody's, S&P ou Fitch, qui détermine le taux d'intérêt qu'un pays devra payer pour emprunter."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "Zambia restructured its debt through the G20 Common Framework; Côte d'Ivoire carried out debt-for-development swaps earmarked for education.",
+      "fr": "La Zambie a restructuré sa dette via le G20 Common Framework ; la Côte d'Ivoire a mené des échanges dette-contre-développement fléchés vers l'éducation."
+    },
+    "one_line_summary": {
+      "en": "Many African countries are paying debt bills that choke their ability to invest, and the international response is trying to loosen that grip without scaring off lenders.",
+      "fr": "Beaucoup de pays africains paient des factures de dette qui étouffent leur capacité à investir, et la réponse internationale cherche à desserrer cet étau sans décourager les prêteurs."
+    },
+    "qcm_reflex": {
+      "en": "Look for the option that connects debt to fiscal space for investment, rather than a purely accounting-style answer.",
+      "fr": "Cherche l'option qui relie dette et espace budgétaire pour investir, plutôt qu'une réponse purement comptable."
+    },
+    "why_you_should_know": {
+      "en": "Debt sustainability sits at the intersection of the AfDB's own mandate and today's headlines — expect it to show up in both the \"AfDB Group\" and \"international development news\" domains of the real assessment.",
+      "fr": "La soutenabilité de la dette se situe au croisement du mandat propre de la BAD et de l'actualité — attends-toi à la voir apparaître à la fois dans le domaine « Groupe BAD » et dans le domaine « actualité du développement international » de l'évaluation réelle."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "What does the G20 Common Framework coordinate?",
+          "fr": "Que coordonne le G20 Common Framework ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "A free-trade agreement between African countries",
+            "fr": "Un accord de libre-échange entre pays africains"
+          },
+          {
+            "key": "B",
+            "en": "The negotiation of a country's debt restructuring across all its creditors",
+            "fr": "La négociation de la restructuration de la dette d'un pays entre tous ses créanciers"
+          },
+          {
+            "key": "C",
+            "en": "A fixed exchange-rate mechanism",
+            "fr": "Un mécanisme de taux de change fixe"
+          },
+          {
+            "key": "D",
+            "en": "An AfDB concessional lending window",
+            "fr": "Un guichet de prêts concessionnels de la BAD"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The G20 Common Framework is the official mechanism that coordinates debt-restructuring negotiations across a country's official and (where applicable) private creditors — as used by Zambia.",
+          "fr": "Le G20 Common Framework est le mécanisme officiel qui coordonne les négociations de restructuration de la dette entre les créanciers officiels (et, le cas échéant, privés) d'un pays — utilisé par la Zambie."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  },
+  {
+    "id": "intlnews-2",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "Climate Finance: Adaptation vs. Mitigation",
+      "fr": "La finance climat : adaptation vs atténuation"
+    },
+    "simple_definition": {
+      "en": "The money needed to help countries live with a changing climate (adaptation) and to cut emissions (mitigation). Africa emits very little CO2 but bears very heavy impacts: droughts, floods, cyclones.",
+      "fr": "L'argent nécessaire pour aider les pays à vivre avec un climat qui change (adaptation) et pour réduire les émissions (atténuation). L'Afrique émet très peu de CO2 mais subit des impacts très lourds : sécheresses, inondations, cyclones."
+    },
+    "why_it_matters": {
+      "en": [
+        "At COP30, commitments for loss and damage landed well below target (around $5.5bn secured against a $25bn goal).",
+        "The AfDB nonetheless mobilized $25bn in climate commitments at its 2026 Annual Meetings, despite a pullback in US climate financing."
+      ],
+      "fr": [
+        "Lors de la COP30, les engagements pour les pertes et dommages sont restés très en dessous de l'objectif (environ 5,5 milliards USD obtenus contre 25 milliards visés).",
+        "La BAD a néanmoins mobilisé 25 milliards USD d'engagements climat lors de ses Assemblées annuelles 2026, malgré le recul du financement climatique américain."
+      ]
+    },
+    "african_context": {
+      "en": "Africa is the clearest case of a mismatch between climate responsibility and climate impact: the continent that pollutes least is the one absorbing the heaviest shocks, which is exactly why the AfDB treats adaptation, not just mitigation, as a first-order priority.",
+      "fr": "L'Afrique illustre le mieux ce décalage entre responsabilité climatique et impact climatique : le continent qui pollue le moins est celui qui encaisse les chocs les plus lourds — c'est précisément pourquoi la BAD traite l'adaptation, et pas seulement l'atténuation, comme une priorité de premier plan."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "Adaptation",
+          "fr": "Adaptation"
+        },
+        "explanation": {
+          "en": "Helping a country live with the already-present effects of climate change (dikes, drought-resistant seeds...).",
+          "fr": "Aider un pays à vivre avec les effets déjà là du changement climatique (digues, semences résistantes à la sécheresse...)."
+        }
+      },
+      {
+        "term": {
+          "en": "Mitigation",
+          "fr": "Atténuation"
+        },
+        "explanation": {
+          "en": "Reducing greenhouse gas emissions (renewable energy, energy efficiency).",
+          "fr": "Réduire les émissions de gaz à effet de serre (énergies renouvelables, efficacité énergétique)."
+        }
+      },
+      {
+        "term": {
+          "en": "Loss and Damage Fund",
+          "fr": "Fonds pertes et dommages (Loss and Damage)"
+        },
+        "explanation": {
+          "en": "A fund created to compensate for damage already suffered, distinct from adaptation, which prepares for the future.",
+          "fr": "Un fonds créé pour compenser les dégâts déjà subis, distinct de l'adaptation qui prépare l'avenir."
+        }
+      },
+      {
+        "term": {
+          "en": "Adaptation/mitigation parity",
+          "fr": "Parité adaptation / atténuation"
+        },
+        "explanation": {
+          "en": "Funding both in equal measure; the AfDB is the only multilateral development bank to have reached it.",
+          "fr": "Financer les deux à parts égales ; la BAD est la seule banque multilatérale à l'avoir atteinte."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "In 2026, a country like Ghana illustrates the problem well: some of the funds earmarked for flood defenses weren't disbursed in time, showing that a lack of money isn't the only cause of delay.",
+      "fr": "En 2026, un pays comme le Ghana illustre bien le problème : une partie des fonds prévus contre les inondations n'a pas été décaissée à temps, montrant que le manque d'argent n'est pas la seule cause du retard."
+    },
+    "one_line_summary": {
+      "en": "Africa suffers the most from climate impacts while receiving the least financing, and the AfDB stands out by balancing adaptation and mitigation where the rest of the world still over-prioritizes mitigation.",
+      "fr": "L'Afrique subit le plus les effets du climat tout en recevant le moins de financement, et la BAD se distingue en équilibrant adaptation et atténuation là où le reste du monde priorise encore trop l'atténuation."
+    },
+    "qcm_reflex": {
+      "en": "If a question pits adaptation against mitigation for Africa, adaptation is almost always the priority answer.",
+      "fr": "Si une question oppose adaptation et atténuation pour l'Afrique, l'adaptation est presque toujours la réponse prioritaire."
+    },
+    "why_you_should_know": {
+      "en": "Climate finance is one of the AfDB's own points of pride (adaptation/mitigation parity) as well as a live global news topic — a natural crossover question for the real assessment.",
+      "fr": "La finance climat est à la fois un motif de fierté propre à la BAD (parité adaptation/atténuation) et un sujet d'actualité mondiale — une question de croisement naturelle pour l'évaluation réelle."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which multilateral development bank is the only one to have reached funding parity between climate adaptation and mitigation?",
+          "fr": "Quelle banque multilatérale de développement est la seule à avoir atteint la parité de financement entre adaptation et atténuation climatiques ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "The World Bank",
+            "fr": "La Banque mondiale"
+          },
+          {
+            "key": "B",
+            "en": "The AfDB",
+            "fr": "La BAD"
+          },
+          {
+            "key": "C",
+            "en": "The IMF",
+            "fr": "Le FMI"
+          },
+          {
+            "key": "D",
+            "en": "The Asian Development Bank",
+            "fr": "La Banque asiatique de développement"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The AfDB is the only multilateral development bank to have achieved parity between adaptation and mitigation financing — a distinction it highlights given Africa's low emissions but high exposure to climate impacts.",
+          "fr": "La BAD est la seule banque multilatérale de développement à avoir atteint la parité entre le financement de l'adaptation et de l'atténuation — une distinction qu'elle met en avant compte tenu des faibles émissions de l'Afrique mais de sa forte exposition aux impacts climatiques."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  },
+  {
+    "id": "intlnews-3",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "Food Security and Agricultural Value Chains",
+      "fr": "La sécurité alimentaire et les chaînes de valeur agricoles"
+    },
+    "simple_definition": {
+      "en": "Making sure the population has access to enough good-quality food, produced locally where possible rather than imported.",
+      "fr": "S'assurer que la population a accès à une nourriture suffisante et de qualité, produite si possible sur place plutôt qu'importée."
+    },
+    "why_it_matters": {
+      "en": [
+        "Africa remains a net food importer: the food import bill, around $35bn in 2015, was on track to exceed $110bn by 2025 if the trend wasn't reversed.",
+        "That is exactly the problem the Bank's \"Feed Africa\" strategy is designed to solve."
+      ],
+      "fr": [
+        "L'Afrique reste un importateur net de nourriture : la facture d'importations alimentaires, environ 35 milliards USD en 2015, risquait de dépasser 110 milliards USD d'ici 2025 si la tendance n'était pas inversée.",
+        "C'est exactement le problème que la stratégie « Feed Africa » de la Banque cherche à résoudre."
+      ]
+    },
+    "african_context": {
+      "en": "This is a continent-wide structural issue, not a country-by-country accident: Africa has the natural resources to feed itself but still spends tens of billions of dollars a year buying food from abroad — which is the gap Feed Africa and TAAT are built to close.",
+      "fr": "C'est un problème structurel à l'échelle du continent, pas un accident pays par pays : l'Afrique a les ressources naturelles pour se nourrir elle-même mais dépense encore des dizaines de milliards de dollars par an pour acheter de la nourriture à l'étranger — c'est précisément l'écart que Feed Africa et TAAT cherchent à combler."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "Agricultural value chain",
+          "fr": "Chaîne de valeur agricole"
+        },
+        "explanation": {
+          "en": "The whole journey of a product from seed to plate: production, processing, transport, sale.",
+          "fr": "Tout le trajet d'un produit, de la semence à l'assiette : production, transformation, transport, vente."
+        }
+      },
+      {
+        "term": {
+          "en": "TAAT programme",
+          "fr": "Programme TAAT"
+        },
+        "explanation": {
+          "en": "Technologies for African Agricultural Transformation — the AfDB programme that spreads modern agricultural technologies to smallholder farmers.",
+          "fr": "Technologies for African Agricultural Transformation, le programme de la BAD qui diffuse des technologies agricoles modernes auprès des petits producteurs."
+        }
+      },
+      {
+        "term": {
+          "en": "Malabo Declaration",
+          "fr": "Déclaration de Malabo"
+        },
+        "explanation": {
+          "en": "African states' commitment to spend at least 10% of their national budget on agriculture.",
+          "fr": "L'engagement des États africains à consacrer au moins 10 % de leur budget national à l'agriculture."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "The TAAT programme has already reached 11 million farmers in 29 countries, with a target of 40 million beneficiaries, and has saved more than $800 million in food imports.",
+      "fr": "Le programme TAAT a déjà touché 11 millions d'agriculteurs dans 29 pays, avec un objectif de 40 millions de bénéficiaires, et a permis d'économiser plus de 800 millions USD d'importations alimentaires."
+    },
+    "one_line_summary": {
+      "en": "Africa still imports too much food it could grow itself, and the answer lies in transforming agricultural value chains rather than emergency aid alone.",
+      "fr": "L'Afrique importe encore trop de nourriture qu'elle pourrait produire elle-même, et la réponse passe par la transformation des chaînes de valeur agricoles plutôt que par la seule aide d'urgence."
+    },
+    "qcm_reflex": {
+      "en": "Think \"process locally\" rather than just \"produce more\": local value addition is the real goal behind Feed Africa.",
+      "fr": "Pense « transformer sur place » plutôt que « produire plus » tout court : la valeur ajoutée locale est le vrai objectif derrière Feed Africa."
+    },
+    "why_you_should_know": {
+      "en": "Feed Africa is one of the five High 5s, so a food-security question tests both your general-knowledge awareness and your recall of the Bank's own strategic priorities.",
+      "fr": "Feed Africa est l'un des cinq High 5, donc une question sur la sécurité alimentaire teste à la fois ta culture générale et ta mémorisation des priorités stratégiques propres à la Banque."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "The AfDB's TAAT programme is best described as:",
+          "fr": "Le programme TAAT de la BAD se décrit le mieux comme :"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "A microfinance fund for urban entrepreneurs",
+            "fr": "Un fonds de microfinance pour les entrepreneurs urbains"
+          },
+          {
+            "key": "B",
+            "en": "A programme that spreads proven agricultural technologies to smallholder farmers",
+            "fr": "Un programme qui diffuse des technologies agricoles éprouvées auprès des petits exploitants"
+          },
+          {
+            "key": "C",
+            "en": "A regional trade facilitation platform",
+            "fr": "Une plateforme de facilitation du commerce régional"
+          },
+          {
+            "key": "D",
+            "en": "A sovereign debt relief mechanism",
+            "fr": "Un mécanisme d'allègement de la dette souveraine"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "TAAT (Technologies for African Agricultural Transformation) diffuses ready-to-use agricultural technologies to smallholder farmers to raise productivity and reduce food-import dependence.",
+          "fr": "TAAT (Technologies for African Agricultural Transformation) diffuse des technologies agricoles prêtes à l'emploi auprès des petits exploitants afin d'accroître la productivité et de réduire la dépendance aux importations alimentaires."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  },
+  {
+    "id": "intlnews-4",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "Youth Employment and the Demographic Dividend",
+      "fr": "L'emploi des jeunes et le dividende démographique"
+    },
+    "simple_definition": {
+      "en": "Africa has the youngest population in the world. A dividend, in finance, is the payoff an investment generates: Africa's youth only becomes an economic \"dividend\" if it is educated, trained, and employed.",
+      "fr": "L'Afrique a la population la plus jeune du monde. Un dividende, en finance, est le gain que rapporte un investissement : la jeunesse africaine ne devient un « dividende » économique que si elle est éduquée, formée et employée."
+    },
+    "why_it_matters": {
+      "en": [
+        "Every year, millions of young Africans enter the labour market, but formal job creation isn't keeping pace.",
+        "Without massive investment in education and skills, that potential can turn into social instability rather than growth."
+      ],
+      "fr": [
+        "Chaque année, des millions de jeunes Africains arrivent sur le marché du travail, mais la création d'emplois formels ne suit pas le rythme.",
+        "Sans investissement massif dans l'éducation et les compétences, ce potentiel peut se transformer en instabilité sociale plutôt qu'en croissance."
+      ]
+    },
+    "african_context": {
+      "en": "This is, almost by definition, an African story: no other region has a population this young and this fast-growing, which is exactly why both the Bank's High 5 \"Improve the Quality of Life\" and President Ould Tah's cardinal point on the demographic dividend target it directly.",
+      "fr": "C'est, presque par définition, une histoire africaine : aucune autre région n'a une population aussi jeune et à la croissance aussi rapide, ce qui explique pourquoi le High 5 « Improve the Quality of Life » de la Banque et le point cardinal du président Ould Tah sur le dividende démographique ciblent directement ce sujet."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "Demographic dividend",
+          "fr": "Dividende démographique"
+        },
+        "explanation": {
+          "en": "The economic gain a country can draw from a young, active population, provided it invests in education, health, and employment.",
+          "fr": "Le gain économique qu'un pays peut tirer d'une population jeune et active, à condition de l'investir en éducation, santé et emploi."
+        }
+      },
+      {
+        "term": {
+          "en": "Skills",
+          "fr": "Compétences (skills)"
+        },
+        "explanation": {
+          "en": "The technical and professional abilities that make a young person employable, beyond the diploma alone.",
+          "fr": "Les capacités techniques et professionnelles qui rendent un jeune employable, au-delà du seul diplôme."
+        }
+      },
+      {
+        "term": {
+          "en": "Youth and women's entrepreneurship",
+          "fr": "Entrepreneuriat des jeunes et des femmes"
+        },
+        "explanation": {
+          "en": "Support for starting a business as an alternative to salaried employment, often via instruments like guarantees or credit lines.",
+          "fr": "L'appui à la création d'entreprise comme alternative à l'emploi salarié classique, souvent via des instruments comme les garanties ou les lignes de crédit."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "President Ould Tah's cardinal point \"Harnessing the demographic dividend\" and the High 5 \"Improve the Quality of Life\" both target this directly, through training, health, and youth-entrepreneur financing programmes.",
+      "fr": "Le point cardinal « Harnessing the demographic dividend » du président Ould Tah, et le High 5 « Improve the Quality of Life », ciblent directement ce sujet à travers des programmes de formation, de santé et de financement des jeunes entrepreneurs."
+    },
+    "one_line_summary": {
+      "en": "Africa's youth is an enormous asset on paper, but it only becomes a growth engine if there's real investment in education, health, and the employment of young people and women.",
+      "fr": "La jeunesse africaine est un atout énorme sur le papier, mais elle ne devient un moteur de croissance que si l'on investit réellement dans l'éducation, la santé et l'emploi des jeunes et des femmes."
+    },
+    "qcm_reflex": {
+      "en": "Don't confuse \"young population\" (a demographic fact) with \"demographic dividend\" (an economic outcome that depends on investment).",
+      "fr": "Ne confonds pas « population jeune » (un fait démographique) et « dividende démographique » (un résultat économique qui dépend de l'investissement)."
+    },
+    "why_you_should_know": {
+      "en": "This exact theme is also one of President Ould Tah's Four Cardinal Points — a question could test either the general-knowledge framing or the institutional one.",
+      "fr": "Ce thème est aussi l'un des Four Cardinal Points du président Ould Tah — une question peut tester aussi bien la version culture générale que la version institutionnelle."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "A country's young population becomes a \"demographic dividend\" only when:",
+          "fr": "La population jeune d'un pays ne devient un « dividende démographique » que lorsque :"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Its birth rate keeps rising",
+            "fr": "Son taux de natalité continue d'augmenter"
+          },
+          {
+            "key": "B",
+            "en": "It is educated, trained, and employed",
+            "fr": "Elle est éduquée, formée et employée"
+          },
+          {
+            "key": "C",
+            "en": "It emigrates to wealthier countries",
+            "fr": "Elle émigre vers des pays plus riches"
+          },
+          {
+            "key": "D",
+            "en": "It stays in rural areas",
+            "fr": "Elle reste dans les zones rurales"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "A young population is only a demographic fact; it becomes an economic \"dividend\" specifically when it is educated, trained, and given access to employment or entrepreneurship.",
+          "fr": "Une population jeune n'est qu'un fait démographique ; elle ne devient un « dividende » économique que lorsqu'elle est éduquée, formée et qu'elle a accès à l'emploi ou à l'entrepreneuriat."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  },
+  {
+    "id": "intlnews-5",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "Regional Integration (AfCFTA)",
+      "fr": "L'intégration régionale (la ZLECAf)"
+    },
+    "simple_definition": {
+      "en": "The African Continental Free Trade Area aims to turn 54 African markets into a single, large market, by reducing customs and administrative barriers between African countries.",
+      "fr": "La Zone de libre-échange continentale africaine vise à faire des 54 marchés africains un seul grand marché, en réduisant les barrières douanières et administratives entre pays africains."
+    },
+    "why_it_matters": {
+      "en": [
+        "2026 marks a turning point: negotiations on the agreement's legal texts are complete, so attention is shifting from ratification to actual execution.",
+        "More than 10,000 certificates of origin had been issued by end of March 2026, and intra-African trade was expected to reach around $230–250bn for the year."
+      ],
+      "fr": [
+        "2026 marque un tournant : les négociations sur les textes juridiques de l'accord sont achevées, l'attention passe donc de la ratification à l'exécution concrète.",
+        "Plus de 10 000 certificats d'origine avaient été délivrés dès fin mars 2026, et le commerce intra-africain était attendu autour de 230 à 250 milliards USD sur l'année."
+      ]
+    },
+    "african_context": {
+      "en": "AfCFTA is the single largest African-led integration project underway: it exists precisely because trade between African countries has historically been far smaller than trade with the rest of the world, and closing that gap is the whole point.",
+      "fr": "La ZLECAf est le plus grand projet d'intégration porté par l'Afrique elle-même actuellement en cours : elle existe précisément parce que le commerce entre pays africains a toujours été bien plus faible que le commerce avec le reste du monde, et combler cet écart en est tout l'objet."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "Certificate of origin",
+          "fr": "Certificat d'origine"
+        },
+        "explanation": {
+          "en": "The document proving a product genuinely comes from a member African country, required to benefit from AfCFTA's preferential tariffs.",
+          "fr": "Le document qui prouve qu'un produit vient bien d'un pays africain membre, condition pour bénéficier des tarifs préférentiels de la ZLECAf."
+        }
+      },
+      {
+        "term": {
+          "en": "Intra-African trade",
+          "fr": "Commerce intra-africain"
+        },
+        "explanation": {
+          "en": "Trade between African countries, today still much smaller than trade with the rest of the world.",
+          "fr": "Les échanges commerciaux entre pays africains, aujourd'hui encore bien plus faibles que les échanges avec le reste du monde."
+        }
+      },
+      {
+        "term": {
+          "en": "Trade-in-services / digital trade protocol",
+          "fr": "Protocole sur le commerce des services / le commerce numérique"
+        },
+        "explanation": {
+          "en": "The parts of the agreement that extend AfCFTA beyond physical goods alone.",
+          "fr": "Les volets de l'accord qui étendent la ZLECAf au-delà des seuls biens physiques."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "Nigeria took over the chair of the AfCFTA Council of Ministers' Bureau in July 2026, with a stated motto of moving from \"concept notes\" to \"measurable results.\"",
+      "fr": "Le Nigeria a pris la présidence du Bureau du Conseil des ministres de la ZLECAf en juillet 2026, avec pour mot d'ordre de passer des « notes de concept » à des « résultats mesurables »."
+    },
+    "one_line_summary": {
+      "en": "AfCFTA is no longer a paper project: in 2026, the challenge is making the single African market — already legally in place — actually work.",
+      "fr": "La ZLECAf n'est plus un projet sur le papier : en 2026, l'enjeu est de faire fonctionner concrètement le marché unique africain déjà juridiquement en place."
+    },
+    "qcm_reflex": {
+      "en": "If a question is about AfCFTA in 2026, the right reflex is \"execution\" rather than \"negotiation\" or \"ratification,\" which are largely already-completed steps.",
+      "fr": "Si une question porte sur la ZLECAf en 2026, le bon réflexe est « exécution » plutôt que « négociation » ou « ratification », qui sont des étapes déjà largement franchies."
+    },
+    "why_you_should_know": {
+      "en": "Regional integration is literally one of the High 5s (\"Integrate Africa\"), so AfCFTA questions can test both general awareness and knowledge of the Bank's own priorities.",
+      "fr": "L'intégration régionale est littéralement l'un des High 5 (« Integrate Africa »), donc les questions sur la ZLECAf peuvent tester à la fois la culture générale et la connaissance des priorités propres de la Banque."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "As of 2026, AfCFTA's main challenge has shifted from negotiation/ratification to:",
+          "fr": "En 2026, le principal enjeu de la ZLECAf est passé de la négociation/ratification à :"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Drafting the agreement's legal texts",
+            "fr": "La rédaction des textes juridiques de l'accord"
+          },
+          {
+            "key": "B",
+            "en": "Actual execution — making the single market work in practice",
+            "fr": "L'exécution concrète — faire fonctionner le marché unique en pratique"
+          },
+          {
+            "key": "C",
+            "en": "Choosing a headquarters city",
+            "fr": "Le choix d'une ville siège"
+          },
+          {
+            "key": "D",
+            "en": "Setting the tariff schedule for the first time",
+            "fr": "La fixation du calendrier tarifaire pour la première fois"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "By 2026, AfCFTA's legal texts were already negotiated; the focus has shifted to execution — issuing certificates of origin and growing intra-African trade in practice.",
+          "fr": "En 2026, les textes juridiques de la ZLECAf étaient déjà négociés ; l'accent porte désormais sur l'exécution — délivrance des certificats d'origine et croissance concrète du commerce intra-africain."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  },
+  {
+    "id": "intlnews-6",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "Digital Transformation",
+      "fr": "La transformation numérique"
+    },
+    "simple_definition": {
+      "en": "The use of digital technologies (mobile money, digital ID, online platforms) to accelerate financial inclusion and access to public services.",
+      "fr": "L'utilisation des technologies numériques (mobile money, identité numérique, plateformes en ligne) pour accélérer l'inclusion financière et l'accès aux services publics."
+    },
+    "why_it_matters": {
+      "en": [
+        "Digital is increasingly seen as a shortcut for Africa: instead of building classic infrastructure step by step, some countries \"leapfrog\" straight to digital solutions — as happened with mobile payments."
+      ],
+      "fr": [
+        "Le numérique est de plus en plus vu comme un raccourci pour l'Afrique : au lieu de construire des infrastructures classiques étape par étape, certains pays « sautent » directement aux solutions digitales, comme cela s'est produit avec le paiement mobile."
+      ]
+    },
+    "african_context": {
+      "en": "Mobile money is one of the clearest African-led innovation stories in global development: it scaled first and fastest across the continent, as a direct answer to low traditional-banking penetration — exactly the leapfrogging pattern this topic is built around.",
+      "fr": "Le mobile money est l'une des histoires d'innovation les plus clairement portées par l'Afrique dans le développement mondial : il s'est développé en premier et le plus vite sur le continent, en réponse directe à une faible bancarisation classique — exactement le schéma de « saut technologique » sur lequel repose ce sujet."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "Digital Public Infrastructure",
+          "fr": "Infrastructure publique numérique (Digital Public Infrastructure)"
+        },
+        "explanation": {
+          "en": "The shared building blocks a whole country relies on: digital identity, payment systems, data platforms.",
+          "fr": "Les briques de base partagées par tout un pays : identité numérique, systèmes de paiement, plateformes de données."
+        }
+      },
+      {
+        "term": {
+          "en": "Mobile money",
+          "fr": "Mobile money"
+        },
+        "explanation": {
+          "en": "Financial services accessible from a basic mobile phone, without a traditional bank account.",
+          "fr": "Les services financiers accessibles depuis un simple téléphone portable, sans compte bancaire classique."
+        }
+      },
+      {
+        "term": {
+          "en": "AfCFTA digital trade protocol",
+          "fr": "Protocole sur le commerce numérique de la ZLECAf"
+        },
+        "explanation": {
+          "en": "The part of the continental agreement that governs online trade between African countries.",
+          "fr": "Le volet de l'accord continental qui encadre les échanges commerciaux réalisés en ligne entre pays africains."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "Digital financial services are a direct lever for financial inclusion for rural populations and unbanked women — exactly the kind of on-the-ground mandate the Bank's own digital-inclusion work covers.",
+      "fr": "Les services financiers digitaux comme levier d'inclusion pour les populations rurales et les femmes non bancarisées — exactement le type de mandat de terrain que couvrent les travaux d'inclusion numérique de la Banque."
+    },
+    "one_line_summary": {
+      "en": "Digital lets Africa bypass some classic infrastructure obstacles and accelerate financial inclusion, especially for populations previously excluded from the banking system.",
+      "fr": "Le numérique permet à l'Afrique de contourner certains obstacles d'infrastructure classique et d'accélérer l'inclusion financière, en particulier pour les populations jusque-là exclues du système bancaire."
+    },
+    "qcm_reflex": {
+      "en": "Always connect this topic to financial inclusion: that's the angle the AfDB favors, more than technology for its own sake.",
+      "fr": "Relie toujours ce sujet à l'inclusion financière : c'est l'angle que la BAD privilégie, plus que la technologie pour elle-même."
+    },
+    "why_you_should_know": {
+      "en": "Digital transformation cuts across nearly every High 5 as an enabler — a useful theme to connect back to whichever pillar a question is really testing.",
+      "fr": "La transformation numérique traverse presque tous les High 5 comme un levier transversal — un thème utile à relier au pilier que la question teste réellement."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "\"Leapfrogging\" in the African digital context refers to:",
+          "fr": "Le « saut technologique » (leapfrogging) dans le contexte numérique africain désigne :"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Skipping straight to digital solutions instead of building classic infrastructure step by step",
+            "fr": "Passer directement aux solutions numériques plutôt que de construire l'infrastructure classique étape par étape"
+          },
+          {
+            "key": "B",
+            "en": "Building physical bank branches faster than other regions",
+            "fr": "Construire des agences bancaires physiques plus vite que dans d'autres régions"
+          },
+          {
+            "key": "C",
+            "en": "A type of trade tariff reduction under AfCFTA",
+            "fr": "Un type de réduction tarifaire dans le cadre de la ZLECAf"
+          },
+          {
+            "key": "D",
+            "en": "A debt-restructuring technique",
+            "fr": "Une technique de restructuration de la dette"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": {
+          "en": "Leapfrogging describes skipping traditional, step-by-step infrastructure build-out in favor of jumping straight to digital solutions — the pattern behind mobile money's rapid spread in Africa.",
+          "fr": "Le saut technologique désigne le fait de sauter les étapes classiques de construction d'infrastructure pour passer directement aux solutions numériques — le schéma derrière l'essor rapide du mobile money en Afrique."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  },
+  {
+    "id": "intlnews-7",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "Reform of the Global Financial Architecture",
+      "fr": "La réforme de l'architecture financière mondiale"
+    },
+    "simple_definition": {
+      "en": "The current development-financing system (built after the Second World War) is seen as too slow and too limited for Africa's current needs. The reform aims to give it more capacity without waiting for wealthy states to hand over more fresh money.",
+      "fr": "Le système actuel de financement du développement (créé après la Seconde Guerre mondiale) est jugé trop lent et trop limité face aux besoins actuels de l'Afrique. La réforme cherche à lui donner plus de moyens sans attendre que les États riches versent plus d'argent frais."
+    },
+    "why_it_matters": {
+      "en": [
+        "The flagship tool of this reform is rechanneling the IMF's Special Drawing Rights (SDRs) through development banks.",
+        "In 2026, the IMF's Executive Board approved using these SDRs to fund \"hybrid capital\" instruments issued by banks such as the AfDB."
+      ],
+      "fr": [
+        "L'outil phare de cette réforme est la recanalisation des DTS (Droits de Tirage Spéciaux) du FMI à travers les banques de développement.",
+        "En 2026, le Conseil du FMI a approuvé l'utilisation de ces DTS pour financer des instruments de « capital hybride » émis par des banques comme la BAD."
+      ]
+    },
+    "african_context": {
+      "en": "African-focused institutions are not just bystanders in this reform — the AfDB is a first mover: it is one of the two pioneering institutions (alongside the Inter-American Development Bank) that got this SDR-based hybrid-capital mechanism approved, so African development finance directly benefits from the leverage it creates.",
+      "fr": "Les institutions tournées vers l'Afrique ne sont pas de simples spectatrices de cette réforme — la BAD est un pionnier : elle est l'une des deux institutions (avec la Banque interaméricaine de développement) à avoir fait valider ce mécanisme de capital hybride basé sur les DTS, si bien que le financement du développement africain bénéficie directement de l'effet de levier qu'il crée."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "Special Drawing Rights (SDRs)",
+          "fr": "DTS (Droits de Tirage Spéciaux)"
+        },
+        "explanation": {
+          "en": "An international reserve asset created by the IMF and distributed to states, often unused by wealthy countries that have little need for it.",
+          "fr": "Une réserve internationale créée par le FMI et distribuée aux États, souvent inutilisée par les pays riches qui en ont peu besoin."
+        }
+      },
+      {
+        "term": {
+          "en": "Rechanneling",
+          "fr": "Recanalisation (rechanneling)"
+        },
+        "explanation": {
+          "en": "A wealthy country passing its unused SDRs on to a development bank instead of letting them sit idle.",
+          "fr": "Le fait, pour un pays riche, de reverser ses DTS non utilisés à une banque de développement plutôt que de les laisser dormir."
+        }
+      },
+      {
+        "term": {
+          "en": "Hybrid capital",
+          "fr": "Capital hybride"
+        },
+        "explanation": {
+          "en": "A financial instrument that blends debt and equity, letting a bank lend significantly more with the same starting capital.",
+          "fr": "Un instrument financier qui mélange dette et fonds propres, permettant à une banque de prêter beaucoup plus avec le même capital de départ."
+        }
+      },
+      {
+        "term": {
+          "en": "Leverage effect",
+          "fr": "Effet de levier"
+        },
+        "explanation": {
+          "en": "With this mechanism, the AfDB can lend up to $4 for every $1 of SDRs received.",
+          "fr": "Avec ce mécanisme, la BAD peut prêter jusqu'à 4 dollars pour chaque dollar de DTS reçu."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "The AfDB and the Inter-American Development Bank were the two pioneering institutions to propose this SDR-based hybrid-capital mechanism, validated by the IMF's Executive Board in 2026.",
+      "fr": "La BAD et la Banque interaméricaine de développement ont été les deux institutions pionnières à proposer ce mécanisme de capital hybride basé sur les DTS, validé par le Conseil du FMI en 2026."
+    },
+    "one_line_summary": {
+      "en": "Rather than asking wealthy countries for more fresh money, the reform tries to make the money already in the system work harder, notably through rechanneled SDRs.",
+      "fr": "Plutôt que de demander plus d'argent neuf aux pays riches, la réforme cherche à faire travailler plus efficacement l'argent qui existe déjà dans le système, notamment via les DTS recanalisés."
+    },
+    "qcm_reflex": {
+      "en": "If a question mentions SDRs or \"hybrid capital,\" connect it directly to the AfDB — it's a field where the Bank plays a pioneering role, not just a follower.",
+      "fr": "Si une question mentionne les DTS ou le « capital hybride », associe-les directement à la BAD : c'est un domaine où elle joue un rôle pionnier, pas seulement suiveur."
+    },
+    "why_you_should_know": {
+      "en": "This is a rare case where the \"news\" domain and the \"AfDB Group\" domain point to the exact same fact — a strong signal it's worth memorizing precisely.",
+      "fr": "C'est un cas rare où le domaine « actualité » et le domaine « Groupe BAD » pointent vers exactement le même fait — un signal fort que cela vaut la peine de le mémoriser précisément."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "What did the IMF's Executive Board approve in 2026 regarding Special Drawing Rights?",
+          "fr": "Qu'a approuvé le Conseil du FMI en 2026 au sujet des Droits de Tirage Spéciaux ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Doubling the total SDR allocation",
+            "fr": "Doubler l'allocation totale de DTS"
+          },
+          {
+            "key": "B",
+            "en": "Using rechanneled SDRs to fund hybrid capital instruments issued by banks like the AfDB",
+            "fr": "Utiliser les DTS recanalisés pour financer des instruments de capital hybride émis par des banques comme la BAD"
+          },
+          {
+            "key": "C",
+            "en": "Replacing SDRs with a digital currency",
+            "fr": "Remplacer les DTS par une monnaie numérique"
+          },
+          {
+            "key": "D",
+            "en": "Ending the SDR system entirely",
+            "fr": "Mettre fin totalement au système des DTS"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "In 2026 the IMF's Executive Board approved using rechanneled SDRs to fund \"hybrid capital\" instruments issued by development banks such as the AfDB, letting them lend several dollars for every SDR dollar received.",
+          "fr": "En 2026, le Conseil du FMI a approuvé l'utilisation des DTS recanalisés pour financer des instruments de « capital hybride » émis par des banques de développement comme la BAD, leur permettant de prêter plusieurs dollars pour chaque dollar de DTS reçu."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  },
+  {
+    "id": "intlnews-8",
+    "category": "International Development News",
+    "org_scope": null,
+    "title": {
+      "en": "The SDGs and Agenda 2063",
+      "fr": "Les ODD et l'Agenda 2063"
+    },
+    "simple_definition": {
+      "en": "Two reference roadmaps: the United Nations' Sustainable Development Goals (SDGs), which apply worldwide through 2030, and the African Union's Agenda 2063, the continent's own longer-term vision.",
+      "fr": "Deux feuilles de route de référence : les Objectifs de développement durable (ODD) des Nations Unies, valables pour le monde entier jusqu'en 2030, et l'Agenda 2063 de l'Union africaine, la vision propre au continent à plus long terme."
+    },
+    "why_it_matters": {
+      "en": [
+        "As 2030 approaches, progress reports stress that Africa remains at a critical juncture: implementation needs to accelerate across every sector, with renewed global partnerships and a more responsive financial architecture."
+      ],
+      "fr": [
+        "À l'approche de 2030, les rapports de suivi soulignent que l'Afrique reste à un moment critique : il faut accélérer la mise en œuvre dans tous les secteurs, avec un besoin de partenariats mondiaux renouvelés et d'une architecture financière plus réactive."
+      ]
+    },
+    "african_context": {
+      "en": "Agenda 2063 exists precisely because Africa wanted its own long-term vision alongside the global SDGs — \"the Africa we want,\" defined by Africans, on a longer horizon than 2030, and the AfDB explicitly frames its own Ten-Year Strategy as a contribution to both.",
+      "fr": "L'Agenda 2063 existe précisément parce que l'Afrique a voulu se doter de sa propre vision de long terme, à côté des ODD mondiaux — « l'Afrique que nous voulons », définie par des Africains, sur un horizon plus long que 2030, et la BAD présente explicitement sa propre Stratégie décennale comme une contribution aux deux."
+    },
+    "technical_terms": [
+      {
+        "term": {
+          "en": "SDGs (Sustainable Development Goals)",
+          "fr": "ODD (Objectifs de développement durable)"
+        },
+        "explanation": {
+          "en": "17 global goals adopted by the UN in 2015, to be reached by 2030 (poverty, hunger, education, climate...).",
+          "fr": "17 objectifs mondiaux adoptés par l'ONU en 2015, à atteindre d'ici 2030 (pauvreté, faim, éducation, climat...)."
+        }
+      },
+      {
+        "term": {
+          "en": "Agenda 2063",
+          "fr": "Agenda 2063"
+        },
+        "explanation": {
+          "en": "The African Union's long-term vision for \"the Africa we want,\" structured into successive five-year plans.",
+          "fr": "La vision de long terme de l'Union africaine pour « l'Afrique que nous voulons », structurée en plans quinquennaux successifs."
+        }
+      },
+      {
+        "term": {
+          "en": "Africa Sustainable Development Report (ASDR)",
+          "fr": "Rapport africain sur le développement durable (ASDR)"
+        },
+        "explanation": {
+          "en": "The annual report that measures Africa's progress on the SDGs and proposes priority actions.",
+          "fr": "Le rapport annuel qui mesure les progrès de l'Afrique sur les ODD et propose des priorités d'action."
+        }
+      }
+    ],
+    "concrete_example": {
+      "en": "The AfDB's Ten-Year Strategy explicitly presents itself as a contribution to both of these agendas — the link to always make if a question crosses \"AfDB Strategy\" with \"global frameworks.\"",
+      "fr": "La Stratégie décennale de la BAD se présente explicitement comme une contribution à ces deux agendas — c'est le lien à toujours faire si une question croise « Stratégie de la BAD » et « cadres mondiaux »."
+    },
+    "one_line_summary": {
+      "en": "The SDGs and Agenda 2063 are the two reference compasses the AfDB ties its own strategy to, and with 2030 approaching fast, the pressure is on to accelerate implementation everywhere.",
+      "fr": "Les ODD et l'Agenda 2063 sont les deux boussoles de référence auxquelles la BAD rattache sa propre stratégie, et 2030 approche vite, ce qui pousse à accélérer la mise en œuvre partout."
+    },
+    "qcm_reflex": {
+      "en": "SDGs = global framework (UN, 2030 horizon). Agenda 2063 = African framework (AU, longer horizon). Never swap them.",
+      "fr": "ODD = cadre mondial (ONU, horizon 2030). Agenda 2063 = cadre africain (UA, horizon plus lointain). Ne les inverse jamais."
+    },
+    "why_you_should_know": {
+      "en": "The Ten-Year Strategy lesson explicitly names both frameworks as reference points — this is exactly the kind of connective-tissue fact that links the \"news\" and \"AfDB Group\" domains.",
+      "fr": "La leçon sur la Stratégie décennale nomme explicitement ces deux cadres comme points de référence — c'est exactement le type de fait de liaison entre les domaines « actualité » et « Groupe BAD »."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which statement correctly distinguishes the SDGs from Agenda 2063?",
+          "fr": "Quelle affirmation distingue correctement les ODD de l'Agenda 2063 ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "The SDGs are a UN framework through 2030; Agenda 2063 is the African Union's longer-term vision",
+            "fr": "Les ODD sont un cadre onusien à horizon 2030 ; l'Agenda 2063 est la vision de plus long terme de l'Union africaine"
+          },
+          {
+            "key": "B",
+            "en": "Agenda 2063 is a UN framework; the SDGs belong to the African Union",
+            "fr": "L'Agenda 2063 est un cadre onusien ; les ODD appartiennent à l'Union africaine"
+          },
+          {
+            "key": "C",
+            "en": "They are two names for the exact same set of 17 goals",
+            "fr": "Ce sont deux noms pour le même ensemble de 17 objectifs"
+          },
+          {
+            "key": "D",
+            "en": "Both expire in 2030",
+            "fr": "Les deux expirent en 2030"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": {
+          "en": "The SDGs are the United Nations' global framework running through 2030; Agenda 2063 is the African Union's own longer-term vision, \"the Africa we want.\"",
+          "fr": "Les ODD sont le cadre mondial des Nations Unies à horizon 2030 ; l'Agenda 2063 est la propre vision de long terme de l'Union africaine, « l'Afrique que nous voulons »."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  }
+]

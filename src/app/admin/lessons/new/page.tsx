@@ -1,0 +1,25 @@
+import { requireAdmin } from "@/lib/auth";
+import { getLang } from "@/lib/i18n/lang";
+import { getDictionary } from "@/lib/i18n";
+import LessonForm from "../../_components/LessonForm";
+import AdminTabs from "../../_components/AdminTabs";
+
+export const metadata = { title: "New Lesson — Admin — YPPReady" };
+
+export default async function NewLessonPage() {
+  await requireAdmin();
+  const lang = await getLang();
+  const dict = getDictionary(lang);
+
+  return (
+    <div className="mx-auto max-w-3xl px-4 py-10 sm:px-6 sm:py-14">
+      <AdminTabs active="lessons" dict={dict} />
+      <h1 className="mt-6 text-2xl font-semibold tracking-tight text-ink">
+        {dict.admin.lessonsTab} — {dict.admin.addNew}
+      </h1>
+      <div className="mt-6">
+        <LessonForm dict={dict} />
+      </div>
+    </div>
+  );
+}

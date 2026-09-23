@@ -1,0 +1,561 @@
+[
+  {
+    "id": "afdbq-1",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "History",
+    "difficulty": "Easy",
+    "question": {
+      "en": "In what year did the African Development Bank formally come into existence?",
+      "fr": "En quelle année la Banque africaine de développement a-t-elle officiellement vu le jour ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "1963",
+        "fr": "1963"
+      },
+      {
+        "key": "B",
+        "en": "1964",
+        "fr": "1964"
+      },
+      {
+        "key": "C",
+        "en": "1972",
+        "fr": "1972"
+      },
+      {
+        "key": "D",
+        "en": "1980",
+        "fr": "1980"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "African governments signed the founding agreement in 1963, but it entered into force on 10 September 1964 — the date the AfDB is considered to have formally come into existence.",
+      "fr": "Les gouvernements africains ont signé l'accord fondateur en 1963, mais celui-ci n'est entré en vigueur que le 10 septembre 1964 — date à laquelle la BAD est considérée comme officiellement créée."
+    },
+    "skill_tested": {
+      "en": "Recall of the AfDB's founding history.",
+      "fr": "Connaissance de l'histoire fondatrice de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-2",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Basics",
+    "difficulty": "Easy",
+    "question": {
+      "en": "Where is the African Development Bank Group headquartered?",
+      "fr": "Où se situe le siège du Groupe de la Banque africaine de développement ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Addis Ababa, Ethiopia",
+        "fr": "Addis-Abeba, Éthiopie"
+      },
+      {
+        "key": "B",
+        "en": "Nairobi, Kenya",
+        "fr": "Nairobi, Kenya"
+      },
+      {
+        "key": "C",
+        "en": "Abidjan, Côte d'Ivoire",
+        "fr": "Abidjan, Côte d'Ivoire"
+      },
+      {
+        "key": "D",
+        "en": "Tunis, Tunisia",
+        "fr": "Tunis, Tunisie"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "The AfDB Group is headquartered in Abidjan, Côte d'Ivoire. (Tunis served as its temporary relocation headquarters from 2003 to 2014, but the Bank returned to Abidjan in 2014.)",
+      "fr": "Le Groupe de la BAD a son siège à Abidjan, en Côte d'Ivoire. (Tunis a servi de siège de repli temporaire de 2003 à 2014, mais la Banque est revenue à Abidjan en 2014.)"
+    },
+    "skill_tested": {
+      "en": "Basic institutional knowledge.",
+      "fr": "Connaissances institutionnelles de base."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-3",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Structure",
+    "difficulty": "Medium",
+    "question": {
+      "en": "The \"AfDB Group\" is made up of three entities. Which of the following is NOT one of them?",
+      "fr": "Le « Groupe de la BAD » est composé de trois entités. Laquelle des propositions suivantes n'en fait PAS partie ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "The African Development Bank (ADB)",
+        "fr": "La Banque africaine de développement (BAD)"
+      },
+      {
+        "key": "B",
+        "en": "The African Development Fund (ADF)",
+        "fr": "Le Fonds africain de développement (FAD)"
+      },
+      {
+        "key": "C",
+        "en": "The Nigeria Trust Fund (NTF)",
+        "fr": "Le Fonds fiduciaire du Nigeria (NTF)"
+      },
+      {
+        "key": "D",
+        "en": "The African Union Development Agency (AUDA-NEPAD)",
+        "fr": "L'Agence de développement de l'Union africaine (AUDA-NEPAD)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": {
+      "en": "The AfDB Group comprises the African Development Bank (the market-rate window), the African Development Fund (the concessional window), and the Nigeria Trust Fund. AUDA-NEPAD is a separate African Union body, not part of the AfDB Group.",
+      "fr": "Le Groupe de la BAD comprend la Banque africaine de développement (le guichet aux conditions de marché), le Fonds africain de développement (le guichet concessionnel) et le Fonds fiduciaire du Nigeria. L'AUDA-NEPAD est un organe distinct de l'Union africaine, qui ne fait pas partie du Groupe de la BAD."
+    },
+    "skill_tested": {
+      "en": "Institutional structure of the AfDB Group.",
+      "fr": "Structure institutionnelle du Groupe de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-4",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Basics",
+    "difficulty": "Easy",
+    "question": {
+      "en": "Which statement about the AfDB is accurate?",
+      "fr": "Laquelle des affirmations suivantes à propos de la BAD est exacte ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "It has always been led by a non-African president, by design",
+        "fr": "Elle a toujours été dirigée par un président non africain, par construction"
+      },
+      {
+        "key": "B",
+        "en": "It carries a AAA credit rating from major rating agencies and its presidency has always been held by an African national",
+        "fr": "Elle bénéficie d'une notation AAA auprès des grandes agences de notation et sa présidence a toujours été assurée par un ressortissant africain"
+      },
+      {
+        "key": "C",
+        "en": "It is a private commercial bank with shareholders drawn only from the private sector",
+        "fr": "C'est une banque commerciale privée dont les actionnaires proviennent uniquement du secteur privé"
+      },
+      {
+        "key": "D",
+        "en": "It was created in 2002 alongside the African Union",
+        "fr": "Elle a été créée en 2002, en même temps que l'Union africaine"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The AfDB is one of the world's leading multilateral development banks, holds a AAA credit rating from major agencies, and — unlike some other multilateral banks — its presidency has always been held by an African national.",
+      "fr": "La BAD est l'une des principales banques multilatérales de développement au monde, bénéficie d'une notation AAA auprès des grandes agences, et — contrairement à d'autres banques multilatérales — sa présidence a toujours été assurée par un ressortissant africain."
+    },
+    "skill_tested": {
+      "en": "Basic institutional facts.",
+      "fr": "Faits institutionnels de base."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-5",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Membership",
+    "difficulty": "Medium",
+    "question": {
+      "en": "How is AfDB membership structured?",
+      "fr": "Comment la composition de la BAD est-elle structurée ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "54 regional (African) member countries only",
+        "fr": "54 pays membres régionaux (africains) uniquement"
+      },
+      {
+        "key": "B",
+        "en": "27 non-regional member countries only",
+        "fr": "27 pays membres non régionaux uniquement"
+      },
+      {
+        "key": "C",
+        "en": "54 regional member countries and 27 non-regional member countries, for 81 members in total",
+        "fr": "54 pays membres régionaux et 27 pays membres non régionaux, soit 81 membres au total"
+      },
+      {
+        "key": "D",
+        "en": "All 193 United Nations member states",
+        "fr": "Les 193 États membres des Nations Unies"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "The AfDB has 81 member states in total: 54 African (regional) member countries, which are both shareholders and recipients of financing, and 27 non-African (non-regional) member countries, which provide additional capital without borrowing.",
+      "fr": "La BAD compte 81 États membres au total : 54 pays membres africains (régionaux), qui sont à la fois actionnaires et bénéficiaires des financements, et 27 pays membres non africains (non régionaux), qui apportent un capital supplémentaire sans emprunter."
+    },
+    "skill_tested": {
+      "en": "Understanding of AfDB's shareholder structure.",
+      "fr": "Compréhension de la structure actionnariale de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-6",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Strategy",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Which of the following is NOT one of the AfDB's five \"High 5\" strategic priorities?",
+      "fr": "Laquelle des propositions suivantes ne fait PAS partie des cinq priorités stratégiques « High 5 » de la BAD ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Light Up and Power Africa",
+        "fr": "Éclairer et alimenter l'Afrique en énergie"
+      },
+      {
+        "key": "B",
+        "en": "Feed Africa",
+        "fr": "Nourrir l'Afrique"
+      },
+      {
+        "key": "C",
+        "en": "Digitize Africa",
+        "fr": "Numériser l'Afrique"
+      },
+      {
+        "key": "D",
+        "en": "Integrate Africa",
+        "fr": "Intégrer l'Afrique"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "The five High 5s are: Light Up and Power Africa, Feed Africa, Industrialize Africa, Integrate Africa, and Improve the Quality of Life for the People of Africa. \"Digitize Africa\" is not one of the five, though digital transformation cuts across several of them.",
+      "fr": "Les cinq « High 5 » sont : Éclairer et alimenter l'Afrique en énergie, Nourrir l'Afrique, Industrialiser l'Afrique, Intégrer l'Afrique, et Améliorer la qualité de vie des populations africaines. « Numériser l'Afrique » n'en fait pas partie, même si la transformation numérique traverse plusieurs de ces priorités."
+    },
+    "skill_tested": {
+      "en": "Recall of the AfDB's High 5 strategic pillars.",
+      "fr": "Connaissance des cinq priorités stratégiques « High 5 » de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-7",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Strategy",
+    "difficulty": "Medium",
+    "question": {
+      "en": "The AfDB's Ten-Year Strategy 2024-2033 was unveiled in May 2024. What are its two overarching goals?",
+      "fr": "La Stratégie décennale 2024-2033 de la BAD a été dévoilée en mai 2024. Quels sont ses deux objectifs globaux ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Eliminate poverty and achieve full employment",
+        "fr": "Éliminer la pauvreté et atteindre le plein emploi"
+      },
+      {
+        "key": "B",
+        "en": "Accelerating inclusive green growth and fostering prosperous, resilient economies",
+        "fr": "Accélérer une croissance verte inclusive et bâtir des économies prospères et résilientes"
+      },
+      {
+        "key": "C",
+        "en": "Double the Bank's capital and triple its staff",
+        "fr": "Doubler le capital de la Banque et tripler ses effectifs"
+      },
+      {
+        "key": "D",
+        "en": "Replace the High 5s with a new set of priorities",
+        "fr": "Remplacer les High 5 par un nouvel ensemble de priorités"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Unveiled on 29 May 2024 in Nairobi, the Ten-Year Strategy 2024-2033 sets two overarching goals — accelerating inclusive green growth and fostering prosperous, resilient economies — while continuing to carry the High 5s forward, not replacing them.",
+      "fr": "Dévoilée le 29 mai 2024 à Nairobi, la Stratégie décennale 2024-2033 fixe deux objectifs globaux — accélérer une croissance verte inclusive et bâtir des économies prospères et résilientes — tout en poursuivant les High 5, qu'elle ne remplace pas."
+    },
+    "skill_tested": {
+      "en": "Understanding of the Bank's current 10-year strategic framework.",
+      "fr": "Compréhension du cadre stratégique décennal actuel de la Banque."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-8",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Strategy",
+    "difficulty": "Hard",
+    "question": {
+      "en": "Which of the following is one of the four cross-cutting priorities that support all five High 5 pillars?",
+      "fr": "Laquelle des propositions suivantes fait partie des quatre priorités transversales qui soutiennent les cinq piliers High 5 ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Climate action",
+        "fr": "L'action climatique"
+      },
+      {
+        "key": "B",
+        "en": "Military cooperation",
+        "fr": "La coopération militaire"
+      },
+      {
+        "key": "C",
+        "en": "Trade tariff reduction",
+        "fr": "La réduction des tarifs douaniers"
+      },
+      {
+        "key": "D",
+        "en": "Currency union",
+        "fr": "L'union monétaire"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The four cross-cutting priorities supporting all five High 5 pillars are: gender equality and youth empowerment, climate action, support to fragile states, and good governance.",
+      "fr": "Les quatre priorités transversales qui soutiennent les cinq piliers High 5 sont : l'égalité des genres et l'autonomisation des jeunes, l'action climatique, l'appui aux États fragiles, et la bonne gouvernance."
+    },
+    "skill_tested": {
+      "en": "Detailed knowledge of the AfDB's strategic framework.",
+      "fr": "Connaissance approfondie du cadre stratégique de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-9",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Governance",
+    "difficulty": "Medium",
+    "question": {
+      "en": "In the AfDB's governance structure, which body holds the Bank's ultimate authority, including exclusive power over matters like capital increases and electing the President?",
+      "fr": "Dans la structure de gouvernance de la BAD, quel organe détient l'autorité suprême de la Banque, y compris le pouvoir exclusif sur des sujets comme les augmentations de capital et l'élection du Président ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "The Board of Directors",
+        "fr": "Le Conseil d'administration"
+      },
+      {
+        "key": "B",
+        "en": "The Board of Governors",
+        "fr": "Le Conseil des gouverneurs"
+      },
+      {
+        "key": "C",
+        "en": "The President's Office",
+        "fr": "Le Cabinet du Président"
+      },
+      {
+        "key": "D",
+        "en": "The Africa Investment Forum",
+        "fr": "L'Africa Investment Forum"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The Board of Governors — with one Governor per member country, typically a finance minister or central bank governor — holds all of the Bank's powers. It delegates most day-to-day operational decisions to the Board of Directors, but keeps exclusive authority over matters such as capital increases, admitting new members, and electing the President.",
+      "fr": "Le Conseil des gouverneurs — composé d'un gouverneur par pays membre, généralement un ministre des Finances ou un gouverneur de banque centrale — détient l'ensemble des pouvoirs de la Banque. Il délègue la plupart des décisions opérationnelles courantes au Conseil d'administration, mais conserve une autorité exclusive sur des sujets comme les augmentations de capital, l'admission de nouveaux membres, et l'élection du Président."
+    },
+    "skill_tested": {
+      "en": "Understanding of the AfDB's governance structure.",
+      "fr": "Compréhension de la structure de gouvernance de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-10",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Leadership",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Who is the current (9th) President of the AfDB Group, and since when?",
+      "fr": "Qui est l'actuel (9ᵉ) Président du Groupe de la BAD, et depuis quand ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Akinwumi Adesina, since 2015",
+        "fr": "Akinwumi Adesina, depuis 2015"
+      },
+      {
+        "key": "B",
+        "en": "Sidi Ould Tah, since September 2025",
+        "fr": "Sidi Ould Tah, depuis septembre 2025"
+      },
+      {
+        "key": "C",
+        "en": "Donald Kaberuka, since 2025",
+        "fr": "Donald Kaberuka, depuis 2025"
+      },
+      {
+        "key": "D",
+        "en": "Ngozi Okonjo-Iweala, since 2025",
+        "fr": "Ngozi Okonjo-Iweala, depuis 2025"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Dr. Sidi Ould Tah of Mauritania was elected the Bank Group's 9th President on 29 May 2025 and took office on 1 September 2025, succeeding Akinwumi Adesina of Nigeria, whose second term ended in August 2025. The President is elected for a 5-year term (renewable once) and must win at least 50.01% of both the regional and non-regional votes.",
+      "fr": "Le Dr Sidi Ould Tah, de Mauritanie, a été élu 9ᵉ Président du Groupe le 29 mai 2025 et a pris ses fonctions le 1er septembre 2025, succédant à Akinwumi Adesina, du Nigeria, dont le second mandat s'est achevé en août 2025. Le Président est élu pour un mandat de 5 ans, renouvelable une fois, et doit obtenir au moins 50,01 % des voix régionales et non régionales."
+    },
+    "skill_tested": {
+      "en": "Current, up-to-date knowledge of AfDB leadership.",
+      "fr": "Connaissance actualisée de la direction de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-11",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Financing",
+    "difficulty": "Medium",
+    "question": {
+      "en": "What is the main difference between the AfDB's ADB window and its ADF window?",
+      "fr": "Quelle est la principale différence entre le guichet BAD (ADB) et le guichet FAD (ADF) de la Banque ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "The ADB window only funds infrastructure, the ADF window only funds agriculture",
+        "fr": "Le guichet BAD ne finance que les infrastructures, le guichet FAD ne finance que l'agriculture"
+      },
+      {
+        "key": "B",
+        "en": "The ADB window lends at close-to-market terms; the ADF window provides highly concessional loans and grants to low-income countries",
+        "fr": "Le guichet BAD prête à des conditions proches du marché ; le guichet FAD accorde des prêts très concessionnels et des dons aux pays à faible revenu"
+      },
+      {
+        "key": "C",
+        "en": "The ADB window is for private companies only, the ADF window is for governments only",
+        "fr": "Le guichet BAD est réservé aux entreprises privées, le guichet FAD est réservé aux gouvernements"
+      },
+      {
+        "key": "D",
+        "en": "There is no meaningful difference between the two",
+        "fr": "Il n'y a pas de différence significative entre les deux"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The ADB window offers loans, guarantees, and equity/quasi-equity investments mainly at close-to-market terms for creditworthy sovereign and private borrowers. The African Development Fund (ADF), by contrast, is the Bank Group's concessional window: it provides grants and low-interest, long-maturity loans to eligible low-income Regional Member Countries.",
+      "fr": "Le guichet BAD propose des prêts, garanties et investissements en fonds propres ou quasi-fonds propres, principalement à des conditions proches du marché, pour des emprunteurs souverains et privés solvables. Le Fonds africain de développement (FAD), à l'inverse, est le guichet concessionnel du Groupe : il accorde des dons et des prêts à taux réduit et à longue maturité aux pays membres régionaux à faible revenu qui y sont éligibles."
+    },
+    "skill_tested": {
+      "en": "Understanding of AfDB Group financing instruments.",
+      "fr": "Compréhension des instruments de financement du Groupe BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-12",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Financing",
+    "difficulty": "Hard",
+    "question": {
+      "en": "The 17th replenishment of the African Development Fund (ADF-17), concluded in December 2025, is notable for which of the following?",
+      "fr": "La 17ᵉ reconstitution des ressources du Fonds africain de développement (FAD-17), conclue en décembre 2025, se distingue notamment par quel élément ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "It mobilized about $11 billion, the largest in the Fund's history, with 23 African countries joining as co-financing contributors for the first time",
+        "fr": "Elle a mobilisé environ 11 milliards de dollars, un record dans l'histoire du Fonds, avec 23 pays africains devenus pour la première fois co-financeurs"
+      },
+      {
+        "key": "B",
+        "en": "It reduced the ADF's total resources by half compared to the previous cycle",
+        "fr": "Elle a réduit de moitié les ressources totales du FAD par rapport au cycle précédent"
+      },
+      {
+        "key": "C",
+        "en": "It ended concessional lending to all low-income countries",
+        "fr": "Elle a mis fin aux prêts concessionnels à tous les pays à faible revenu"
+      },
+      {
+        "key": "D",
+        "en": "It merged the ADF into the ADB window",
+        "fr": "Elle a fusionné le FAD avec le guichet BAD"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "ADF-17 mobilized about $11 billion — the largest replenishment in the Fund's history — and for the first time saw 23 African countries join as co-financing contributors alongside traditional donors. The current cycle (2026-2028) carries the theme \"A Prosperous, Inclusive, Resilient, and Integrated Africa.\"",
+      "fr": "Le FAD-17 a mobilisé environ 11 milliards de dollars — un record dans l'histoire du Fonds — et a vu, pour la première fois, 23 pays africains devenir co-financeurs aux côtés des bailleurs traditionnels. Le cycle actuel (2026-2028) porte le thème « Une Afrique prospère, inclusive, résiliente et intégrée »."
+    },
+    "skill_tested": {
+      "en": "Up-to-date knowledge of the AfDB's most recent concessional-financing replenishment.",
+      "fr": "Connaissance actualisée de la dernière reconstitution des ressources concessionnelles de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  },
+  {
+    "id": "afdbq-13",
+    "organization_scope": "AfDB",
+    "category": "AfDB Institutional Knowledge",
+    "subcategory": "Flagship initiatives",
+    "difficulty": "Easy",
+    "question": {
+      "en": "Which AfDB-led initiative aims to bring solar power and grid connections to the Sahel region?",
+      "fr": "Quelle initiative pilotée par la BAD vise à apporter l'énergie solaire et des connexions au réseau électrique dans la région du Sahel ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "AFAWA",
+        "fr": "AFAWA"
+      },
+      {
+        "key": "B",
+        "en": "TAAT",
+        "fr": "TAAT"
+      },
+      {
+        "key": "C",
+        "en": "Desert to Power",
+        "fr": "Desert to Power"
+      },
+      {
+        "key": "D",
+        "en": "PIDA",
+        "fr": "PIDA"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Desert to Power aims to bring solar power and grid connections to the Sahel region across 11 countries, including cross-border interconnections such as the Mauritania–Mali transmission line.",
+      "fr": "Desert to Power vise à apporter l'énergie solaire et des connexions au réseau électrique dans la région du Sahel, à travers 11 pays, y compris des interconnexions transfrontalières comme la ligne de transmission Mauritanie–Mali."
+    },
+    "skill_tested": {
+      "en": "Recall of the AfDB's flagship pan-African initiatives.",
+      "fr": "Connaissance des initiatives panafricaines phares de la BAD."
+    },
+    "source": "Original YPPReady practice question, based on publicly available AfDB information (see the AfDB lessons in Learn > Know Your Organization)"
+  }
+]

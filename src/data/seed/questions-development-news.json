@@ -1,0 +1,346 @@
+[
+  {
+    "id": "news-1",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "Debt sustainability",
+    "difficulty": "Medium",
+    "question": {
+      "en": "What does it mean for a country's public debt to be \"sustainable\"?",
+      "fr": "Que signifie le fait que la dette publique d'un pays soit « soutenable » ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "The country has zero public debt",
+        "fr": "Le pays n'a aucune dette publique"
+      },
+      {
+        "key": "B",
+        "en": "The country can meet its current and future debt-service obligations without needing exceptional financing or debt relief",
+        "fr": "Le pays peut honorer ses obligations actuelles et futures de service de la dette sans avoir besoin d'un financement exceptionnel ou d'un allègement de dette"
+      },
+      {
+        "key": "C",
+        "en": "The country has borrowed only from domestic lenders",
+        "fr": "Le pays n'a emprunté qu'auprès de créanciers nationaux"
+      },
+      {
+        "key": "D",
+        "en": "The country's debt is entirely denominated in local currency",
+        "fr": "La dette du pays est entièrement libellée en monnaie locale"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Debt sustainability means a country can service its debt (pay interest and principal as they come due) using realistically expected revenues and financing, without resorting to debt relief, restructuring, or accumulating arrears. It's a forward-looking assessment, not simply a statement about the debt's size or currency.",
+      "fr": "La soutenabilité de la dette signifie qu'un pays peut assurer le service de sa dette (payer les intérêts et le principal à échéance) grâce à des recettes et des financements raisonnablement anticipés, sans recourir à un allègement, une restructuration ou une accumulation d'arriérés. C'est une évaluation prospective, pas seulement un constat sur la taille ou la devise de la dette."
+    },
+    "skill_tested": {
+      "en": "Understanding of sovereign debt sustainability as a concept.",
+      "fr": "Compréhension du concept de soutenabilité de la dette souveraine."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  },
+  {
+    "id": "news-2",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "Climate finance",
+    "difficulty": "Medium",
+    "question": {
+      "en": "In climate finance, what is the key difference between \"adaptation\" finance and \"mitigation\" finance?",
+      "fr": "En matière de finance climat, quelle est la différence essentielle entre le financement de l'« adaptation » et celui de l'« atténuation » ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Adaptation finance helps communities and systems adjust to climate impacts already happening or expected; mitigation finance funds efforts to reduce greenhouse gas emissions and limit future warming",
+        "fr": "Le financement de l'adaptation aide les communautés et les systèmes à s'ajuster aux impacts climatiques déjà présents ou attendus ; le financement de l'atténuation finance les efforts de réduction des émissions de gaz à effet de serre pour limiter le réchauffement futur"
+      },
+      {
+        "key": "B",
+        "en": "Adaptation finance is only for rich countries, mitigation finance is only for poor countries",
+        "fr": "Le financement de l'adaptation ne concerne que les pays riches, celui de l'atténuation que les pays pauvres"
+      },
+      {
+        "key": "C",
+        "en": "They are two names for exactly the same thing",
+        "fr": "Ce sont deux noms différents pour désigner exactement la même chose"
+      },
+      {
+        "key": "D",
+        "en": "Adaptation finance funds renewable energy, mitigation finance funds flood defenses",
+        "fr": "Le financement de l'adaptation finance les énergies renouvelables, celui de l'atténuation finance les digues anti-inondation"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "Mitigation addresses the causes of climate change (e.g., renewable energy, reducing emissions), while adaptation addresses its consequences (e.g., flood defenses, drought-resistant crops, climate-resilient infrastructure). Both are needed, and African countries — which contribute the least to global emissions but face significant climate impacts — have consistently pushed for a greater share of climate finance to go toward adaptation.",
+      "fr": "L'atténuation s'attaque aux causes du changement climatique (par exemple les énergies renouvelables, la réduction des émissions), tandis que l'adaptation s'attaque à ses conséquences (par exemple les digues anti-inondation, les cultures résistantes à la sécheresse, les infrastructures résilientes au climat). Les deux sont nécessaires, et les pays africains — qui contribuent le moins aux émissions mondiales mais subissent des impacts climatiques importants — plaident constamment pour qu'une part plus grande de la finance climat aille à l'adaptation."
+    },
+    "skill_tested": {
+      "en": "Distinguishing adaptation finance from mitigation finance.",
+      "fr": "Distinction entre financement de l'adaptation et financement de l'atténuation."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  },
+  {
+    "id": "news-3",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "Food security & agricultural value chains",
+    "difficulty": "Medium",
+    "question": {
+      "en": "What does it mean to \"add value\" along an agricultural value chain (for example, processing raw cocoa into chocolate before export)?",
+      "fr": "Que signifie « ajouter de la valeur » le long d'une chaîne de valeur agricole (par exemple transformer le cacao brut en chocolat avant l'exportation) ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Simply harvesting more of the raw crop",
+        "fr": "Récolter simplement davantage de la matière première"
+      },
+      {
+        "key": "B",
+        "en": "Transforming a raw commodity through processing, packaging, or branding so it can be sold at a higher price and capture more economic benefit locally",
+        "fr": "Transformer une matière première brute par la transformation, le conditionnement ou la marque, afin de la vendre plus cher et de capter davantage de bénéfices économiques localement"
+      },
+      {
+        "key": "C",
+        "en": "Exporting the raw commodity faster",
+        "fr": "Exporter la matière première plus rapidement"
+      },
+      {
+        "key": "D",
+        "en": "Reducing the price paid to farmers",
+        "fr": "Réduire le prix payé aux agriculteurs"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Value addition means moving up the value chain — turning a raw commodity into a more finished, higher-value product — so more of the economic benefit (jobs, revenue, tax base) stays within the producing country instead of being captured elsewhere in the chain. This is a recurring theme in African development policy, since many African economies still export mostly raw or lightly processed commodities.",
+      "fr": "L'ajout de valeur consiste à remonter la chaîne de valeur — transformer une matière première en un produit plus fini et à plus forte valeur — afin qu'une plus grande part du bénéfice économique (emplois, recettes, base fiscale) reste dans le pays producteur plutôt que d'être captée ailleurs dans la chaîne. C'est un thème récurrent des politiques de développement en Afrique, de nombreuses économies africaines exportant encore majoritairement des matières premières brutes ou peu transformées."
+    },
+    "skill_tested": {
+      "en": "Understanding of value addition in agricultural value chains.",
+      "fr": "Compréhension de la notion d'ajout de valeur dans les chaînes de valeur agricoles."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  },
+  {
+    "id": "news-4",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "Youth employment & demographic dividend",
+    "difficulty": "Medium",
+    "question": {
+      "en": "What is the \"demographic dividend\" that is often discussed in relation to Africa's young population?",
+      "fr": "Qu'est-ce que le « dividende démographique » souvent évoqué à propos de la jeunesse de la population africaine ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "A cash payment given to young people by governments",
+        "fr": "Un paiement en espèces versé aux jeunes par les gouvernements"
+      },
+      {
+        "key": "B",
+        "en": "The potential economic growth boost that can occur when a country has a large working-age population relative to dependents — provided enough productive jobs and services exist to absorb it",
+        "fr": "Le potentiel de croissance économique qui peut survenir lorsqu'un pays dispose d'une population en âge de travailler importante par rapport au nombre de personnes à charge — à condition que suffisamment d'emplois productifs et de services existent pour l'absorber"
+      },
+      {
+        "key": "C",
+        "en": "A guaranteed increase in GDP that happens automatically as the population grows",
+        "fr": "Une hausse garantie du PIB qui se produit automatiquement avec la croissance démographique"
+      },
+      {
+        "key": "D",
+        "en": "A tax break for companies that hire only young workers",
+        "fr": "Un allègement fiscal pour les entreprises n'employant que des jeunes travailleurs"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The demographic dividend is a potential, not a guarantee: it can materialize when a large working-age population is matched with enough quality jobs, education, and health systems to make that workforce productive. Without sufficient job creation, the same demographic trend can instead become a source of unemployment and social pressure — which is exactly why youth employment is treated as a priority development topic.",
+      "fr": "Le dividende démographique est un potentiel, pas une garantie : il peut se concrétiser lorsqu'une population nombreuse en âge de travailler est associée à suffisamment d'emplois de qualité, d'éducation et de systèmes de santé pour rendre cette main-d'œuvre productive. Sans création d'emplois suffisante, la même tendance démographique peut au contraire devenir une source de chômage et de tension sociale — c'est précisément pourquoi l'emploi des jeunes est traité comme un enjeu de développement prioritaire."
+    },
+    "skill_tested": {
+      "en": "Understanding of the demographic dividend concept and its conditions.",
+      "fr": "Compréhension du concept de dividende démographique et de ses conditions de réalisation."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  },
+  {
+    "id": "news-5",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "Regional integration (AfCFTA)",
+    "difficulty": "Medium",
+    "question": {
+      "en": "What is the core objective of the African Continental Free Trade Area (AfCFTA)?",
+      "fr": "Quel est l'objectif principal de la Zone de libre-échange continentale africaine (ZLECAf) ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "To create a single African currency",
+        "fr": "Créer une monnaie unique africaine"
+      },
+      {
+        "key": "B",
+        "en": "To progressively remove tariffs and other trade barriers between African countries, creating a single continental market for goods and services",
+        "fr": "Supprimer progressivement les droits de douane et autres barrières commerciales entre pays africains, afin de créer un marché continental unique des biens et services"
+      },
+      {
+        "key": "C",
+        "en": "To merge all African stock exchanges into one",
+        "fr": "Fusionner toutes les bourses africaines en une seule"
+      },
+      {
+        "key": "D",
+        "en": "To restrict trade with non-African countries",
+        "fr": "Restreindre les échanges commerciaux avec les pays non africains"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "AfCFTA's core purpose is to progressively liberalize trade among African countries — reducing tariffs and non-tariff barriers — to boost intra-African trade, which has historically been low compared to other regions. A single African currency is a separate, much longer-term idea and is not what AfCFTA itself establishes.",
+      "fr": "L'objectif principal de la ZLECAf est de libéraliser progressivement les échanges entre pays africains — en réduisant les droits de douane et les barrières non tarifaires — afin de stimuler le commerce intra-africain, historiquement faible par rapport à d'autres régions. Une monnaie unique africaine est une idée distincte et beaucoup plus lointaine, que la ZLECAf elle-même n'instaure pas."
+    },
+    "skill_tested": {
+      "en": "Understanding of AfCFTA's core objective.",
+      "fr": "Compréhension de l'objectif principal de la ZLECAf."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  },
+  {
+    "id": "news-6",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "Digital transformation",
+    "difficulty": "Medium",
+    "question": {
+      "en": "What is generally meant by \"digital public infrastructure\" (DPI) in a development context?",
+      "fr": "Que désigne généralement l'« infrastructure publique numérique » (IPN) dans un contexte de développement ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Only the physical fiber-optic cables laid across a country",
+        "fr": "Uniquement les câbles à fibre optique physiques posés à travers un pays"
+      },
+      {
+        "key": "B",
+        "en": "Foundational, interoperable digital systems — such as digital identity, payments, and data-exchange platforms — that both public and private actors can build services on top of",
+        "fr": "Des systèmes numériques fondamentaux et interopérables — comme l'identité numérique, les paiements et les plateformes d'échange de données — sur lesquels les acteurs publics et privés peuvent construire des services"
+      },
+      {
+        "key": "C",
+        "en": "A single government website listing public services",
+        "fr": "Un simple site internet gouvernemental listant les services publics"
+      },
+      {
+        "key": "D",
+        "en": "Social media platforms used by government ministries",
+        "fr": "Les plateformes de réseaux sociaux utilisées par les ministères"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Digital public infrastructure refers to foundational, often interoperable systems (like digital ID, instant payment rails, and data-exchange layers) that function as shared \"plumbing\" — enabling many different services (banking, social protection payments, health records) to be built on top of them, rather than each being built from scratch.",
+      "fr": "L'infrastructure publique numérique désigne des systèmes fondamentaux, souvent interopérables (comme l'identité numérique, les systèmes de paiement instantané et les couches d'échange de données) qui font office de « plomberie » commune — permettant de construire par-dessus de nombreux services différents (bancaires, versements de protection sociale, dossiers de santé) plutôt que de les développer chacun de zéro."
+    },
+    "skill_tested": {
+      "en": "Understanding of digital public infrastructure as a development concept.",
+      "fr": "Compréhension du concept d'infrastructure publique numérique en développement."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  },
+  {
+    "id": "news-7",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "Global financial architecture reform",
+    "difficulty": "Hard",
+    "question": {
+      "en": "What are IMF Special Drawing Rights (SDRs), in simple terms?",
+      "fr": "Que sont les Droits de tirage spéciaux (DTS) du FMI, en termes simples ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "A loan that must be repaid with interest within one year",
+        "fr": "Un prêt devant être remboursé avec intérêts dans un délai d'un an"
+      },
+      {
+        "key": "B",
+        "en": "An international reserve asset created by the IMF and allocated to member countries, which they can exchange for freely usable currencies to support their reserves",
+        "fr": "Un actif de réserve international créé par le FMI et alloué aux pays membres, qu'ils peuvent échanger contre des devises librement utilisables pour renforcer leurs réserves"
+      },
+      {
+        "key": "C",
+        "en": "A grant given only to the IMF's poorest member countries",
+        "fr": "Une subvention réservée aux pays membres les plus pauvres du FMI"
+      },
+      {
+        "key": "D",
+        "en": "A tax imposed on international currency trading",
+        "fr": "Une taxe prélevée sur les transactions de change internationales"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "SDRs are an international reserve asset (not a currency) that the IMF can allocate to member countries based on their IMF quota share. Because quota shares favor wealthier countries, reform discussions — part of the broader \"global financial architecture reform\" debate — have focused on mechanisms to rechannel or reallocate SDRs toward countries that need them more, including many in Africa.",
+      "fr": "Les DTS sont un actif de réserve international (et non une monnaie) que le FMI peut allouer à ses pays membres en fonction de leur quote-part au FMI. Les quotes-parts favorisant les pays les plus riches, les discussions de réforme — qui s'inscrivent dans le débat plus large sur la « réforme de l'architecture financière mondiale » — portent notamment sur des mécanismes permettant de réorienter ou de réallouer les DTS vers les pays qui en ont le plus besoin, dont plusieurs pays africains."
+    },
+    "skill_tested": {
+      "en": "Understanding of SDRs and their role in global financial architecture reform debates.",
+      "fr": "Compréhension des DTS et de leur rôle dans les débats de réforme de l'architecture financière mondiale."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  },
+  {
+    "id": "news-8",
+    "organization_scope": "General",
+    "category": "International Development News",
+    "subcategory": "SDGs & Agenda 2063",
+    "difficulty": "Medium",
+    "question": {
+      "en": "How do the UN Sustainable Development Goals (SDGs) and the African Union's Agenda 2063 relate to each other?",
+      "fr": "Quel est le lien entre les Objectifs de développement durable (ODD) des Nations Unies et l'Agenda 2063 de l'Union africaine ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "They are unrelated and cover completely different topics",
+        "fr": "Ils sont sans rapport et portent sur des sujets totalement différents"
+      },
+      {
+        "key": "B",
+        "en": "The SDGs are a global framework (2015-2030) adopted by all UN member states, while Agenda 2063 is the African Union's own long-term continental development vision — and the two frameworks share many overlapping goals",
+        "fr": "Les ODD constituent un cadre mondial (2015-2030) adopté par tous les États membres de l'ONU, tandis que l'Agenda 2063 est la propre vision continentale de développement à long terme de l'Union africaine — et les deux cadres partagent de nombreux objectifs communs"
+      },
+      {
+        "key": "C",
+        "en": "Agenda 2063 replaced the SDGs for African countries",
+        "fr": "L'Agenda 2063 a remplacé les ODD pour les pays africains"
+      },
+      {
+        "key": "D",
+        "en": "The SDGs only apply to countries outside Africa",
+        "fr": "Les ODD ne s'appliquent qu'aux pays hors d'Afrique"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The SDGs (17 goals, adopted in 2015, target year 2030) are a universal UN framework. Agenda 2063 is the African Union's own 50-year vision (adopted 2013), reflecting continent-specific aspirations. The two are complementary and overlap substantially — which is exactly why institutions like the AfDB frame many of their priorities (such as the High 5s) as contributing to both simultaneously.",
+      "fr": "Les ODD (17 objectifs, adoptés en 2015, échéance 2030) constituent un cadre universel des Nations Unies. L'Agenda 2063 est la propre vision à 50 ans de l'Union africaine (adoptée en 2013), reflétant des aspirations propres au continent. Les deux cadres sont complémentaires et se recoupent largement — c'est d'ailleurs pourquoi des institutions comme la BAD présentent nombre de leurs priorités (comme les High 5) comme contribuant simultanément aux deux."
+    },
+    "skill_tested": {
+      "en": "Understanding the relationship between global (SDG) and continental (Agenda 2063) development frameworks.",
+      "fr": "Compréhension du lien entre les cadres de développement mondial (ODD) et continental (Agenda 2063)."
+    },
+    "source": "Original YPPReady practice question — a definitional starter set; expanded scenario-based questions are being added from a fuller content review"
+  }
+]

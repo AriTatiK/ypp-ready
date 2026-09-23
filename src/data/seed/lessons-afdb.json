@@ -1,0 +1,828 @@
+[
+  {
+    "id": "afdb-1",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "What Is the African Development Bank (AfDB)?",
+      "fr": "Qu'est-ce que la Banque africaine de développement (BAD) ?"
+    },
+    "simple_definition": {
+      "en": "The African Development Bank (AfDB) is a multilateral development finance institution created in 1964 to promote the sustainable economic development and social progress of African countries. Together with its concessional arm, the African Development Fund, and the Nigeria Trust Fund, it forms the 'AfDB Group,' headquartered in Abidjan, Côte d'Ivoire.",
+      "fr": "La Banque africaine de développement (BAD) est une institution multilatérale de financement du développement créée en 1964 pour promouvoir le développement économique durable et le progrès social des pays africains. Avec son guichet concessionnel, le Fonds africain de développement, et le Fonds spécial du Nigeria, elle forme le « Groupe de la BAD », dont le siège se trouve à Abidjan, en Côte d'Ivoire."
+    },
+    "why_it_matters": {
+      "en": [
+        "Founded through an agreement signed by African governments in 1963 (entered into force on 10 September 1964), the AfDB was Africa's own institution, created by Africans for Africa's development.",
+        "It is one of the world's leading multilateral development banks, carries an AAA credit rating from major rating agencies, and its presidency has always been held by an African national.",
+        "The Bank Group comprises three entities: the African Development Bank (non-concessional, market-rate window), the African Development Fund (concessional window for low-income countries), and the Nigeria Trust Fund."
+      ],
+      "fr": [
+        "Fondée par un accord signé par des gouvernements africains en 1963 (entré en vigueur le 10 septembre 1964), la BAD est une institution propre à l'Afrique, créée par des Africains pour le développement du continent.",
+        "C'est l'une des principales banques multilatérales de développement au monde, notée AAA par les principales agences de notation, et sa présidence a toujours été assurée par un ressortissant africain.",
+        "Le Groupe de la Banque comprend trois entités : la Banque africaine de développement (guichet non concessionnel, à conditions de marché), le Fonds africain de développement (guichet concessionnel pour les pays à faible revenu) et le Fonds spécial du Nigeria."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP interviewers routinely expect candidates to state the Bank's founding purpose and structure accurately, since it frames every other answer about mandate, clients, and strategy.",
+      "fr": "Les recruteurs du programme YPP attendent des candidats qu'ils énoncent avec précision la mission fondatrice et la structure de la Banque, car cela conditionne toute réponse ultérieure sur son mandat, ses clients et sa stratégie."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "In what year did the agreement establishing the African Development Bank enter into force?",
+          "fr": "En quelle année l'accord portant création de la Banque africaine de développement est-il entré en vigueur ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "1960",
+            "fr": "1960"
+          },
+          {
+            "key": "B",
+            "en": "1964",
+            "fr": "1964"
+          },
+          {
+            "key": "C",
+            "en": "1972",
+            "fr": "1972"
+          },
+          {
+            "key": "D",
+            "en": "1980",
+            "fr": "1980"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The founding agreement was signed by African governments in August 1963 and entered into force on 10 September 1964; the Bank began operations in 1966.",
+          "fr": "L'accord fondateur a été signé par des gouvernements africains en août 1963 et est entré en vigueur le 10 septembre 1964 ; la Banque a démarré ses activités en 1966."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "AfDB - History",
+        "url": "https://www.afdb.org/en/about-us/corporate-information/history"
+      },
+      {
+        "title": "AfDB - Frequently Asked Questions",
+        "url": "https://www.afdb.org/en/about-us/frequently-asked-questions"
+      }
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "afdb-2",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "What Does the AfDB Do, and Where Does It Operate?",
+      "fr": "Que fait la BAD et où opère-t-elle ?"
+    },
+    "simple_definition": {
+      "en": "The AfDB finances public and private sector projects across Africa — from infrastructure and agriculture to energy, health, education, and regional integration — using loans, grants, guarantees, and technical assistance. Its shareholders include 54 African (regional) member countries and 27 non-African (non-regional) member countries, for a total of 81 member states.",
+      "fr": "La BAD finance des projets publics et privés à travers l'Afrique — infrastructures, agriculture, énergie, santé, éducation, intégration régionale — au moyen de prêts, de dons, de garanties et d'assistance technique. Ses actionnaires comptent 54 pays membres régionaux (africains) et 27 pays membres non régionaux (hors du continent), soit 81 États membres au total."
+    },
+    "why_it_matters": {
+      "en": [
+        "Its 54 African regional member countries (RMCs) are both its shareholders and the recipients of its financing, while its 27 non-regional members (from Europe, Asia, and the Americas) provide additional capital without borrowing.",
+        "Financing spans sectors such as energy and power, agriculture and food security, water and sanitation, transport, private- and financial-sector development, and regional economic integration.",
+        "The Bank operates continent-wide from its Abidjan headquarters through a network of country and regional offices across Africa."
+      ],
+      "fr": [
+        "Ses 54 pays membres régionaux (PMR) sont à la fois ses actionnaires et les bénéficiaires de ses financements, tandis que ses 27 membres non régionaux (Europe, Asie, Amériques) apportent des capitaux supplémentaires sans emprunter.",
+        "Les financements couvrent des secteurs tels que l'énergie, l'agriculture et la sécurité alimentaire, l'eau et l'assainissement, les transports, le développement des secteurs privé et financier, ainsi que l'intégration économique régionale.",
+        "La Banque opère sur l'ensemble du continent depuis son siège d'Abidjan et à travers un réseau de bureaux nationaux et régionaux en Afrique."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Knowing the sectoral scope and membership structure helps candidates connect their own background to specific AfDB complexes (e.g., Agriculture, Power, Private Sector) during interviews.",
+      "fr": "Connaître le périmètre sectoriel et la structure de l'actionnariat aide les candidats à relier leur propre profil aux complexes spécifiques de la BAD (par exemple Agriculture, Énergie, Secteur privé) lors des entretiens."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "How many African (regional) member countries does the AfDB have?",
+          "fr": "Combien de pays membres régionaux (africains) compte la BAD ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "36",
+            "fr": "36"
+          },
+          {
+            "key": "B",
+            "en": "54",
+            "fr": "54"
+          },
+          {
+            "key": "C",
+            "en": "67",
+            "fr": "67"
+          },
+          {
+            "key": "D",
+            "en": "81",
+            "fr": "81"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The AfDB has 54 African regional member countries plus 27 non-regional members, for 81 member countries in total.",
+          "fr": "La BAD compte 54 pays membres régionaux africains, auxquels s'ajoutent 27 membres non régionaux, soit 81 pays membres au total."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "AfDB - Frequently Asked Questions",
+        "url": "https://www.afdb.org/en/about-us/frequently-asked-questions"
+      },
+      {
+        "title": "AfDB - The Bank Group Financial Products",
+        "url": "https://www.afdb.org/en/projects-and-operations/financial-products"
+      }
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "afdb-3",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "The Ten-Year Strategy 2024–2033, Explained Simply",
+      "fr": "La Stratégie décennale 2024–2033, expliquée simplement"
+    },
+    "simple_definition": {
+      "en": "The Bank's roadmap for the decade, unveiled in Nairobi in May 2024. It's easiest to understand by answering five simple questions in order: why, what, how, with what attention points, and with what money.",
+      "fr": "La feuille de route de la Banque pour la décennie, dévoilée à Nairobi en mai 2024. Elle se comprend le plus facilement en répondant à cinq questions simples, dans l'ordre : pourquoi, quoi, comment, avec quelles attentions, et avec quel argent."
+    },
+    "why_it_matters": {
+      "en": [
+        "Adopted 29 May 2024 at the Annual Meetings in Nairobi, responding to Africa's \"polycrisis\" while betting on its assets — especially the youngest, fastest-growing population in the world.",
+        "The vision — a prosperous, inclusive, resilient, and integrated Africa — is delivered through two objectives and the five High 5s.",
+        "The strategy explicitly serves as the Bank's contribution to both the UN Sustainable Development Goals and the African Union's Agenda 2063."
+      ],
+      "fr": [
+        "Adoptée le 29 mai 2024 lors des Assemblées annuelles à Nairobi, en réponse à la « polycrise » africaine tout en misant sur ses atouts — en particulier la population la plus jeune et à la croissance la plus rapide au monde.",
+        "La vision — une Afrique prospère, inclusive, résiliente et intégrée — se déploie à travers deux objectifs et les cinq High 5.",
+        "La stratégie se présente explicitement comme la contribution de la Banque aux Objectifs de développement durable de l'ONU et à l'Agenda 2063 de l'Union africaine."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "This is one of the two frameworks the programme coordinator specifically flagged — expect direct factual questions on the vision, the High 5s, and the financing targets in the real assessment's \"AfDB Group\" domain.",
+      "fr": "C'est l'un des deux cadres explicitement signalés par la coordinatrice du programme — attends-toi à des questions factuelles directes sur la vision, les High 5 et les objectifs de financement dans le domaine « Groupe BAD » de l'évaluation réelle."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which of the following is NOT one of the AfDB's 'High 5' priorities?",
+          "fr": "Lequel des éléments suivants ne fait PAS partie des « High 5 » de la BAD ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Feed Africa",
+            "fr": "Nourrir l'Afrique"
+          },
+          {
+            "key": "B",
+            "en": "Industrialize Africa",
+            "fr": "Industrialiser l'Afrique"
+          },
+          {
+            "key": "C",
+            "en": "Digitize Africa",
+            "fr": "Numériser l'Afrique"
+          },
+          {
+            "key": "D",
+            "en": "Integrate Africa",
+            "fr": "Intégrer l'Afrique"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": {
+          "en": "The five High 5s are Light Up and Power Africa, Feed Africa, Industrialize Africa, Integrate Africa, and Improve the Quality of Life for the People of Africa; digitalization is a cross-cutting enabler but not one of the five named pillars.",
+          "fr": "Les cinq High 5 sont : Éclairer et alimenter l'Afrique en énergie, Nourrir l'Afrique, Industrialiser l'Afrique, Intégrer l'Afrique et Améliorer la qualité de vie des populations africaines ; la numérisation est un levier transversal mais ne constitue pas l'un des cinq piliers nommés."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "African Development Bank Group Unveils New Ten-Year Strategy 2024-2033",
+        "url": "https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-group-unveils-new-ten-year-strategy-2024-2033-71299"
+      },
+      {
+        "title": "AfDB - The High 5s (2013-2022)",
+        "url": "https://www.afdb.org/en/high5s"
+      }
+    ],
+    "last_updated": "2026-09-22",
+    "structured_sections": [
+      {
+        "heading": {
+          "en": "Why this strategy? (the starting point)",
+          "fr": "Pourquoi cette stratégie ? (le point de départ)"
+        },
+        "body": {
+          "en": "Picture Africa in 2024: barely out of Covid, and facing a \"polycrisis\" — worsening food insecurity, an increasingly serious debt crisis, youth unemployment, conflict, and climate change, each making the others worse. But against these problems, Africa holds enormous assets: the youngest and fastest-growing workforce in the world, rapidly expanding urban markets, abundant natural resources, and vast clean-energy potential. The strategy is the Bank's answer to one question: how can Africa overcome its crises while making the most of its assets? It also serves as a roadmap for contributing to the African Union's Agenda 2063 and the UN Sustainable Development Goals — the Bank pushes in the same direction as the continent and the world, not in isolation.",
+          "fr": "Imaginez l'Afrique en 2024 : à peine sortie du Covid, et confrontée à une « polycrise » — une insécurité alimentaire qui se dégrade, une crise de la dette de plus en plus grave, le chômage des jeunes, les conflits et le changement climatique, qui s'aggravent mutuellement. Mais face à ces problèmes, l'Afrique a des atouts énormes : la main-d'œuvre la plus jeune et à la croissance la plus rapide au monde, des marchés urbains en pleine expansion, des ressources naturelles abondantes et un vaste potentiel d'énergie propre. La stratégie est la réponse de la Banque à une question simple : comment aider l'Afrique à surmonter ses crises tout en profitant de ses atouts ? Elle sert aussi de feuille de route pour contribuer à l'Agenda 2063 de l'Union africaine et aux Objectifs de développement durable des Nations Unies — la Banque pousse dans la même direction que le continent et le monde, pas dans son coin."
+        }
+      },
+      {
+        "heading": {
+          "en": "What? (the destination: the vision)",
+          "fr": "Quoi ? (la destination : la vision)"
+        },
+        "body": {
+          "en": "The vision fits in four words, each meaning something precise. An Africa that is: prosperous (economies create wealth and jobs); inclusive (that wealth benefits everyone — young people, women, rural areas — not just a minority); resilient (able to absorb shocks — a pandemic, a drought, a financial crisis — without collapsing); integrated (African countries trade and work together, instead of operating as 54 small, separate markets).",
+          "fr": "La vision tient en quatre mots, et chacun veut dire quelque chose de précis. Une Afrique : prospère (où les économies créent des richesses et des emplois) ; inclusive (où cette richesse profite à tout le monde — les jeunes, les femmes, les zones rurales — pas seulement à une minorité) ; résiliente (capable d'encaisser les chocs — une pandémie, une sécheresse, une crise financière — sans s'effondrer) ; intégrée (où les pays africains commercent et travaillent ensemble, au lieu de fonctionner comme 54 petits marchés séparés)."
+        }
+      },
+      {
+        "heading": {
+          "en": "How? (the path: two objectives, five priorities)",
+          "fr": "Comment ? (le chemin : deux objectifs, cinq priorités)"
+        },
+        "body": {
+          "en": "To reach this vision, the Bank sets two big objectives: (1) accelerate inclusive green growth — grow economies in a way that creates jobs for the many and respects the environment; (2) foster prosperous and resilient economies — build solid economies that don't fall back to zero with every shock. These stay abstract until the Bank acts through five operational priorities, the High 5s: Light up and Power Africa (access to electricity — solar plants, grids, rural mini-grids); Feed Africa (produce enough food on the continent — seeds, irrigation, farmer financing); Industrialise Africa (process locally instead of exporting raw — e.g. Ivorian cocoa turned into chocolate in Côte d'Ivoire rather than Europe); Integrate Africa (connect countries — roads, corridors, cross-border payments, AfCFTA); Improve the Quality of Life for the People of Africa (jobs, skills, health, clean water, especially for young people and women). A simple image: the vision is the destination, the two objectives are the heading, the High 5s are the five roads you take to get there.",
+          "fr": "Pour atteindre cette vision, la Banque se fixe deux grands objectifs : (1) accélérer une croissance verte et inclusive — faire grandir les économies tout en créant des emplois pour le plus grand nombre et en respectant l'environnement ; (2) favoriser des économies prospères et résilientes — construire des économies solides qui ne retombent pas à zéro à chaque choc. Ces objectifs restent abstraits tant que la Banque n'agit pas à travers cinq priorités opérationnelles, les High 5 : Éclairer l'Afrique et l'alimenter en énergie (accès à l'électricité — centrales solaires, réseaux, mini-réseaux ruraux) ; Nourrir l'Afrique (produire assez de nourriture sur le continent — semences, irrigation, financement des agriculteurs) ; Industrialiser l'Afrique (transformer sur place au lieu d'exporter brut — par exemple, le cacao ivoirien transformé en chocolat en Côte d'Ivoire plutôt qu'en Europe) ; Intégrer l'Afrique (connecter les pays — routes, corridors, paiements transfrontaliers, ZLECAf) ; Améliorer la qualité de vie des populations africaines (emplois, compétences, santé, eau potable, surtout pour les jeunes et les femmes). Une image simple : la vision, c'est la destination ; les deux objectifs, c'est le cap ; les High 5, ce sont les cinq routes qu'on emprunte pour y arriver."
+        }
+      },
+      {
+        "heading": {
+          "en": "With what attention points? (the cross-cutting themes)",
+          "fr": "Avec quelles attentions ? (les thèmes transversaux)"
+        },
+        "body": {
+          "en": "Some topics aren't separate \"roads\": they run through every project, whatever the sector. In every operation, the Bank asks: is this good for the climate? For women? For young people? Does it strengthen governance? Does it account for the fragility of certain countries? And, new in this strategy, does it protect biodiversity? On climate specifically: the Bank is the only multilateral development bank to have achieved parity between financing adaptation (helping countries live with a changing climate) and mitigation (reducing emissions) — because Africa emits little but suffers a lot, adaptation is the real priority there.",
+          "fr": "Certains sujets ne sont pas des « routes » à part : ils traversent tous les projets, quel que soit le secteur. Dans chaque opération, la Banque se demande : est-ce bon pour le climat ? Pour les femmes ? Pour les jeunes ? Cela renforce-t-il la gouvernance ? Cela tient-il compte de la fragilité de certains pays ? Et, nouveauté de cette stratégie, cela protège-t-il la biodiversité ? Sur le climat en particulier : la Banque est la seule banque multilatérale de développement à avoir atteint la parité entre le financement de l'adaptation (aider les pays à vivre avec un climat qui change) et celui de l'atténuation (réduire les émissions) — parce que l'Afrique émet peu mais subit beaucoup, l'adaptation y est la vraie priorité."
+        }
+      },
+      {
+        "heading": {
+          "en": "With what money? (the means)",
+          "fr": "Avec quel argent ? (les moyens)"
+        },
+        "body": {
+          "en": "The strategy is clear-eyed: public money and aid will never be enough. Hence three avenues. Mobilise the private sector: the headline target is to triple private-sector financing by 2033, with every Bank dollar acting as a magnet for private dollars through guarantees, equity investments, and other mobilisation instruments. Mobilise domestic resources: help countries collect their own taxes better and manage their debt, so they depend less on the outside world. Innovate financially: sustainable hybrid capital, risk transfers, and rechanneling IMF Special Drawing Rights through development banks — technical mechanisms whose logic is simple to remember, namely doing more with the same capital, without losing the AAA rating.",
+          "fr": "La stratégie est lucide : l'argent public et l'aide ne suffiront jamais. D'où trois pistes. Mobiliser le secteur privé : l'objectif phare est de tripler les financements du secteur privé d'ici 2033, chaque dollar de la Banque devant servir d'aimant pour attirer des dollars privés, grâce aux garanties, aux prises de participation et aux autres instruments de mobilisation. Mobiliser les ressources domestiques : aider les pays à mieux collecter leurs propres impôts et à gérer leur dette, pour dépendre moins de l'extérieur. Innover financièrement : capital hybride durable, transferts de risques, et recanalisation des DTS du FMI à travers les banques de développement — des mécanismes techniques dont la logique est simple à retenir, à savoir faire plus avec le même capital, sans perdre la notation AAA."
+        }
+      }
+    ],
+    "one_line_summary": {
+      "en": "Facing an Africa in polycrisis but full of assets, the Bank wants, over ten years, to accelerate green growth that benefits everyone and build shock-resistant economies, acting through the High 5s, putting young people, women, and the climate at the heart of every project, and attracting private money at scale to multiply its means.",
+      "fr": "Face à une Afrique en polycrise mais pleine d'atouts, la Banque veut, sur dix ans, accélérer une croissance verte qui profite à tous et bâtir des économies résistantes aux chocs, en agissant à travers les High 5, en mettant les jeunes, les femmes et le climat au cœur de chaque projet, et en attirant massivement l'argent privé pour démultiplier ses moyens."
+    },
+    "qcm_reflex": {
+      "en": "If you can walk through the five questions in order — why, what, how, with what attention points, with what money — you can answer almost any question about the strategy.",
+      "fr": "Si tu peux dérouler les cinq questions dans l'ordre — pourquoi, quoi, comment, avec quelles attentions, avec quel argent — tu peux répondre à presque n'importe quelle question sur la stratégie."
+    }
+  },
+  {
+    "id": "afdb-4",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "How Is the AfDB Governed?",
+      "fr": "Comment la BAD est-elle gouvernée ?"
+    },
+    "simple_definition": {
+      "en": "The AfDB Group is governed through a Board of Governors (the highest authority, with one Governor per member country, typically a finance minister or central bank governor), a Board of Directors that oversees day-to-day operations, and a President who chairs both boards and leads Bank management.",
+      "fr": "Le Groupe de la BAD est gouverné par un Conseil des gouverneurs (l'instance suprême, avec un gouverneur par pays membre, généralement un ministre des Finances ou un gouverneur de banque centrale), un Conseil d'administration chargé de la supervision courante des opérations, et un président qui préside les deux conseils et dirige la direction de la Banque."
+    },
+    "why_it_matters": {
+      "en": [
+        "The Board of Governors holds all of the Bank's powers; it delegates most operational decisions to the Board of Directors but keeps exclusive authority over matters such as capital increases, admitting new members, and electing the President. Each Governor's voting power is weighted by their country's capital subscription.",
+        "Governors meet annually at the Bank's Annual Meetings (in May) to set overall policy direction and approve major decisions.",
+        "The President is elected for a five-year term (renewable once) and must win at least 50.01% of both the regional and the non-regional votes. On 29 May 2025 the Board of Governors elected Sidi Ould Tah of Mauritania as the Bank Group's 9th President; he took office on 1 September 2025, succeeding Akinwumi Adesina of Nigeria, whose second term ended in August 2025."
+      ],
+      "fr": [
+        "Le Conseil des gouverneurs détient l'ensemble des pouvoirs de la Banque ; il délègue la plupart des décisions opérationnelles au Conseil d'administration, mais conserve une compétence exclusive sur des sujets tels que les augmentations de capital, l'admission de nouveaux membres et l'élection du président. Le poids de vote de chaque gouverneur est proportionnel à la souscription au capital de son pays.",
+        "Les gouverneurs se réunissent chaque année, lors des Assemblées annuelles de la Banque (en mai), pour définir les orientations stratégiques et approuver les décisions majeures.",
+        "Le président est élu pour un mandat de cinq ans, renouvelable une fois, et doit obtenir au moins 50,01 % des voix régionales et 50,01 % des voix non régionales. Le 29 mai 2025, le Conseil des gouverneurs a élu le Mauritanien Sidi Ould Tah 9ᵉ président du Groupe de la Banque ; il est entré en fonction le 1er septembre 2025, succédant au Nigérian Akinwumi Adesina, dont le second mandat s'est achevé en août 2025."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Candidates should know the current President's name and the basic governance chain, since misidentifying leadership or the decision-making hierarchy is a common and easily avoidable mistake in interviews.",
+      "fr": "Les candidats doivent connaître le nom du président en exercice et la chaîne de gouvernance de base, car une erreur sur la direction ou la hiérarchie décisionnelle de l'institution est une faute fréquente et facilement évitable en entretien."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Who was elected President of the African Development Bank Group in May 2025, taking office in September 2025?",
+          "fr": "Qui a été élu président du Groupe de la Banque africaine de développement en mai 2025, entrant en fonction en septembre 2025 ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Akinwumi Adesina",
+            "fr": "Akinwumi Adesina"
+          },
+          {
+            "key": "B",
+            "en": "Sidi Ould Tah",
+            "fr": "Sidi Ould Tah"
+          },
+          {
+            "key": "C",
+            "en": "Donald Kaberuka",
+            "fr": "Donald Kaberuka"
+          },
+          {
+            "key": "D",
+            "en": "Mamoun Beheiry",
+            "fr": "Mamoun Beheiry"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Sidi Ould Tah of Mauritania was elected the 9th President on 29 May 2025 and took office on 1 September 2025, succeeding Akinwumi Adesina of Nigeria, whose second five-year term ended in August 2025.",
+          "fr": "Le Mauritanien Sidi Ould Tah a été élu 9ᵉ président le 29 mai 2025 et est entré en fonction le 1er septembre 2025, succédant au Nigérian Akinwumi Adesina, dont le second mandat de cinq ans s'est achevé en août 2025."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "AfDB - Board of Governors",
+        "url": "https://www.afdb.org/en/about-us/organisational-structure/board-of-governors"
+      },
+      {
+        "title": "Sidi Ould Tah elected ninth president of the African Development Bank Group",
+        "url": "https://www.afdb.org/en/news-and-events/press-releases/sidi-ould-tah-elected-ninth-president-african-development-bank-group-84098"
+      }
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "afdb-5",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "How Does the AfDB Finance Development, and What Is the African Development Fund?",
+      "fr": "Comment la BAD finance-t-elle le développement, et qu'est-ce que le Fonds africain de développement ?"
+    },
+    "simple_definition": {
+      "en": "The AfDB Group finances development mainly through market-rate loans, guarantees, and equity or quasi-equity investments provided by the African Development Bank (ADB) window, and through highly concessional loans and grants provided by the African Development Fund (ADF) — its window dedicated to Africa's low-income countries.",
+      "fr": "Le Groupe de la BAD finance le développement principalement par des prêts à conditions de marché, des garanties et des prises de participation (capital-investissement) accordés par le guichet de la Banque africaine de développement (BAD), ainsi que par des prêts très concessionnels et des dons octroyés par le Fonds africain de développement (FAD), son guichet dédié aux pays africains à faible revenu."
+    },
+    "why_it_matters": {
+      "en": [
+        "The ADB window offers instruments such as Fully Flexible and Fixed Spread loans, Partial Risk and Partial Credit guarantees, equity/quasi-equity investments, and trade-finance products, mainly at close-to-market terms for creditworthy sovereign and private borrowers.",
+        "The African Development Fund (ADF), established in 1972 and operational since 1974, is the Bank Group's concessional window: it provides grants and low-interest, long-maturity loans to eligible low-income Regional Member Countries, with country allocations guided by a Performance-Based Allocation system.",
+        "The ADF is replenished through periodic multi-year cycles pledged by donor countries; its 17th replenishment (ADF-17), concluded in December 2025, mobilized about $11 billion — the largest in the Fund's history — and for the first time saw 23 African countries join as co-financing contributors alongside traditional donors.",
+        "The Fund's current cycle, ADF-17 (2026–2028), carries the theme “A Prosperous, Inclusive, Resilient, and Integrated Africa” and is built around two pillars — sustainable, climate-resilient infrastructure, and governance, capacity-building and debt sustainability — covering 37 ADF countries with a total envelope of UA 7.6 billion (about $11 billion)."
+      ],
+      "fr": [
+        "Le guichet BAD propose des instruments tels que les prêts à taux flexible ou à marge fixe, les garanties de risque partiel et de crédit partiel, les prises de participation (capital-investissement) et des produits de financement du commerce, généralement à des conditions proches du marché pour des emprunteurs souverains ou privés solvables.",
+        "Le Fonds africain de développement (FAD), créé en 1972 et opérationnel depuis 1974, est le guichet concessionnel du Groupe de la Banque : il accorde des dons ainsi que des prêts à taux très réduit et à longue échéance aux pays membres régionaux à faible revenu éligibles, selon un système d'allocation fondé sur la performance (Performance-Based Allocation).",
+        "Le FAD est financé par des cycles périodiques de reconstitution pluriannuelle auprès des pays donateurs ; la 17ᵉ reconstitution (FAD-17), conclue en décembre 2025, a mobilisé environ 11 milliards de dollars — un record dans l'histoire du Fonds — et a vu, pour la première fois, 23 pays africains devenir eux-mêmes co-investisseurs aux côtés des donateurs traditionnels.",
+        "Le cycle actuel du Fonds, le FAD-17 (2026-2028), porte le thème « Une Afrique prospère, inclusive, résiliente et intégrée » et s'articule autour de deux piliers — des infrastructures durables et résilientes au changement climatique, et la gouvernance, le renforcement des capacités et la soutenabilité de la dette — au bénéfice de 37 pays éligibles au FAD, pour une enveloppe totale de 7,6 milliards d'UC (environ 11 milliards de dollars)."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Understanding the difference between the ADB's market-rate instruments and the ADF's concessional grants and loans is essential for candidates applying to operations, financial management, or resource mobilization roles.",
+      "fr": "Comprendre la différence entre les instruments à conditions de marché de la BAD et les dons et prêts concessionnels du FAD est essentiel pour les candidats postulant à des postes en opérations, en gestion financière ou en mobilisation des ressources."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "What is the African Development Fund (ADF)?",
+          "fr": "Qu'est-ce que le Fonds africain de développement (FAD) ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "The AfDB's private-sector equity fund for middle-income countries",
+            "fr": "Le fonds de capital-investissement de la BAD pour les pays à revenu intermédiaire"
+          },
+          {
+            "key": "B",
+            "en": "The AfDB Group's concessional financing window for low-income countries",
+            "fr": "Le guichet de financement concessionnel du Groupe de la BAD destiné aux pays à faible revenu"
+          },
+          {
+            "key": "C",
+            "en": "A trust fund managed exclusively by Nigeria",
+            "fr": "Un fonds fiduciaire géré exclusivement par le Nigeria"
+          },
+          {
+            "key": "D",
+            "en": "The AfDB's pension fund for staff",
+            "fr": "Le fonds de pension du personnel de la BAD"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The ADF, established in 1972, is the AfDB Group's concessional window, providing grants and low-interest loans to eligible low-income Regional Member Countries — distinct from the Nigeria Trust Fund, a separate special fund financed solely by Nigeria.",
+          "fr": "Le FAD, créé en 1972, est le guichet concessionnel du Groupe de la BAD ; il fournit des dons et des prêts à faible taux d'intérêt aux pays membres régionaux à faible revenu éligibles — à distinguer du Fonds spécial du Nigeria, un fonds distinct financé uniquement par le Nigeria."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "AfDB - African Development Fund (Financial Products)",
+        "url": "https://www.afdb.org/en/projects-and-operations/financial-products/african-development-fund"
+      },
+      {
+        "title": "African Development Fund - History of the Fund",
+        "url": "https://adf.afdb.org/adf/history/"
+      },
+      {
+        "title": "African Development Fund mobilises a historic $11 billion, marking a new era of African ownership and investment-led development",
+        "url": "https://adf.afdb.org/african-development-fund-mobilises-a-historic-11-billion-marking-a-new-era-of-african-ownership-and-investment-led-development/"
+      },
+      {
+        "title": "AfDB - ADF-17 Report: Prosperous, Inclusive, Resilient and Integrated Africa",
+        "url": "https://www.afdb.org/en/documents/adf-17-report-prosperous-inclusive-resilient-and-integrated-africa"
+      }
+    ],
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "afdb-6",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "The Four Cardinal Points — and Why They're Not the First-100-Days Priorities",
+      "fr": "Les Four Cardinal Points — et pourquoi ce n'est pas la même chose que les 100 premiers jours"
+    },
+    "simple_definition": {
+      "en": "President Sidi Ould Tah's four strategic priorities for his mandate: unlocking capital at scale, reforming Africa's financial architecture, harnessing the demographic dividend, and building resilient infrastructure that creates value. Careful: a second, different list — the \"First 100 Days\" priorities announced at his swearing-in — shares the same spotlight but is not the same thing. Know both, and never mix them up.",
+      "fr": "Les quatre priorités stratégiques du président Sidi Ould Tah pour son mandat : libérer le capital de l'Afrique à grande échelle, réformer l'architecture financière africaine, valoriser le dividende démographique, et construire des infrastructures résilientes qui créent de la valeur. Attention : une deuxième liste, différente — les priorités des « 100 premiers jours » annoncées lors de son investiture — partage la vedette mais n'est pas la même chose. Connaître les deux, et ne jamais les confondre."
+    },
+    "why_it_matters": {
+      "en": [
+        "The Four Cardinal Points (capital at scale, financial architecture, demographic dividend, resilient infrastructure & value) are President Ould Tah's strategic vision — distinct from the First-100-Days priorities (listening, fast-track reform, partnerships, real solutions), which are his starting method.",
+        "The Cardinal Points don't replace the Ten-Year Strategy's vision or High 5s — they refine and accelerate them for a world with scarcer external financing.",
+        "A simple revision trick: the four points answer four questions in order — with what money? through what channels? for whom? to build what?"
+      ],
+      "fr": [
+        "Les Four Cardinal Points (capital à grande échelle, architecture financière, dividende démographique, infrastructures résilientes & valeur) sont la vision stratégique du président Ould Tah — à distinguer des priorités des 100 premiers jours (écoute, réforme accélérée, partenariats, solutions concrètes), qui relèvent de sa méthode de démarrage.",
+        "Les points cardinaux ne remplacent ni la vision de la Stratégie décennale ni les High 5 : ils les affinent et les accélèrent dans un monde où le financement extérieur se raréfie.",
+        "Astuce de révision simple : les quatre points répondent à quatre questions dans l'ordre — avec quel argent ? par quels circuits ? pour qui ? pour construire quoi ?"
+      ]
+    },
+    "why_you_should_know": {
+      "en": "This is the exact confusion the programme coordinator flagged as a common mistake — being able to state both lists correctly, and explain that they're different, is a direct way to show you're not confusing surface-level quotes with the real strategic content.",
+      "fr": "C'est exactement la confusion signalée par la coordinatrice du programme comme une erreur fréquente — savoir énoncer correctement les deux listes, et expliquer qu'elles sont différentes, montre directement que tu ne confonds pas les citations de surface avec le vrai contenu stratégique."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "In his inaugural remarks, President Sidi Ould Tah described the AfDB's role using which metaphor?",
+          "fr": "Dans son discours inaugural, le président Sidi Ould Tah a décrit le rôle de la BAD à l'aide de quelle métaphore ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "A shield",
+            "fr": "Un bouclier"
+          },
+          {
+            "key": "B",
+            "en": "A bridge",
+            "fr": "Un pont"
+          },
+          {
+            "key": "C",
+            "en": "An engine",
+            "fr": "Un moteur"
+          },
+          {
+            "key": "D",
+            "en": "A ladder",
+            "fr": "Une échelle"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "He said the Bank would be one that “bridges divides — between regions, between ambitions and execution, between public and private, between urgency and bureaucracy.”",
+          "fr": "Il a affirmé que la Banque serait celle qui « fait le pont entre les clivages — entre les régions, entre les ambitions et leur mise en œuvre, entre le public et le privé, entre l'urgence et la bureaucratie »."
+        }
+      },
+      {
+        "question": {
+          "en": "Which of these belongs to the First-100-Days priorities, NOT the Four Cardinal Points strategic vision?",
+          "fr": "Lequel des éléments suivants appartient aux priorités des 100 premiers jours, PAS à la vision stratégique des Four Cardinal Points ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Unlocking Africa's capital at scale",
+            "fr": "Libérer le capital de l'Afrique à grande échelle"
+          },
+          {
+            "key": "B",
+            "en": "Listening intently to member states and stakeholders",
+            "fr": "Écouter attentivement les États membres et les parties prenantes"
+          },
+          {
+            "key": "C",
+            "en": "Reforming Africa's financial architecture",
+            "fr": "Réformer l'architecture financière africaine"
+          },
+          {
+            "key": "D",
+            "en": "Harnessing the demographic dividend",
+            "fr": "Valoriser le dividende démographique"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "\"Listening intently\" is one of the First-100-Days priorities (his starting method); the other three options are Four Cardinal Points (his strategic vision) — a distinction candidates are expected to keep clear.",
+          "fr": "« Écouter attentivement » fait partie des priorités des 100 premiers jours (sa méthode de démarrage) ; les trois autres options sont des Four Cardinal Points (sa vision stratégique) — une distinction que les candidats doivent savoir garder claire."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sidi Ould Tah assumes office as 9th President of the African Development Bank Group",
+        "url": "https://www.afdb.org/en/news-and-events/press-releases/sidi-ould-tah-assumes-office-9th-president-african-development-bank-group-86473"
+      }
+    ],
+    "last_updated": "2026-09-22",
+    "structured_sections": [
+      {
+        "heading": {
+          "en": "Why a new vision now?",
+          "fr": "Pourquoi une nouvelle vision maintenant ?"
+        },
+        "body": {
+          "en": "In September 2025 the Bank changed presidents: Dr Sidi Ould Tah succeeded Akinwumi Adesina. The Ten-Year Strategy already existed, adopted in 2024 — the new president isn't throwing it out, but he arrives with his own reading of the world: international money is scarcer, development aid is declining, and Africa must rely more on itself. The Four Cardinal Points are his four priorities for adapting the Bank to that new world. The word \"cardinal\" is deliberate: like the four cardinal points of a compass (north, south, east, west), they give direction to the mandate. Careful — a trap: two lists share the same name. There's the strategic vision (the four big priorities of the mandate, detailed below) and the First-100-Days priorities announced at the inauguration speech (listening, fast-track reform, deepening partnerships, delivering concrete solutions). The second list is simply his starting method. The first is the substance.",
+          "fr": "En septembre 2025, la Banque change de président : le Dr Sidi Ould Tah succède à Akinwumi Adesina. La Stratégie décennale existait déjà, adoptée en 2024 — le nouveau président ne la jette pas à la poubelle, mais il arrive avec sa propre lecture du monde : l'argent international se fait plus rare, l'aide au développement recule, et l'Afrique doit compter davantage sur elle-même. Les Four Cardinal Points sont ses quatre priorités pour adapter la Banque à ce nouveau monde. Le mot « cardinal » n'est pas un hasard : comme les quatre points cardinaux d'une boussole (nord, sud, est, ouest), ils donnent la direction du mandat. Attention, un piège : deux listes portent le même nom. Il y a la vision stratégique (les quatre grandes priorités du mandat, détaillées ci-dessous) et les priorités des 100 premiers jours annoncées au discours d'investiture (écouter, réformer vite, approfondir les partenariats, livrer des solutions concrètes). La deuxième liste, c'est simplement sa méthode de démarrage. La première, c'est le fond."
+        }
+      },
+      {
+        "heading": {
+          "en": "The strategic vision: the Four Cardinal Points, one by one",
+          "fr": "La vision stratégique : les quatre points cardinaux, un par un"
+        },
+        "body": {
+          "en": "Point 1 — Unlocking Africa's capital at scale. African states often borrow at rates two, three, or four times higher than a European country for the same project, caught between solvency pressure (heavy debts to repay) and liquidity pressure (needing cash on hand). The Bank's response: become a machine for unlocking capital massively — not just lending its own money, but leveraging every Bank dollar to attract several more from private funds, sovereign funds, African savings, and pension funds. \"At scale\" means changing order of magnitude, from millions to billions.\n\nPoint 2 — Reforming Africa's financial architecture. \"Architecture\" simply means the continent's financial plumbing: central banks, commercial banks, financial markets, rating agencies, payment systems, human talent. The problem: this plumbing is fragmented (each country has its own), sometimes fragile, and Africa doesn't control the rules of the game — a foreign rating agency judging a country riskier than it really is means that country pays higher interest for years. The response: consolidate African financial institutions and talent so Africa gains financial sovereignty — financing its development by its own rules, with its own institutions, and shaping the global financial system rather than just enduring it.\n\nPoint 3 — Harnessing the demographic dividend. Africa has the youngest population in the world; within decades, a large share of the planet's workers will be African. A \"dividend\" only pays off if the underlying capital is invested well: a young person without education, skills, or a job is a social crisis waiting to happen, not a dividend. The response: invest massively in education, skills, health, and youth and women's entrepreneurship, to turn demographic weight into economic power.\n\nPoint 4 — Building resilient infrastructure and creating value. Two ideas combined: resilient infrastructure (roads, bridges, power plants and grids that withstand shocks — building durably instead of endlessly rebuilding) and creating value, the logical continuation of \"Industrialise Africa\" (Africa exports raw materials and buys back processed goods — cocoa, oil, minerals, cotton going out; chocolate, fuel, batteries, textiles coming back in, with the jobs, profits, and tax revenue created elsewhere). The priority: process locally, move up the value chain. The two go together because you can't transform without infrastructure — no factory without reliable power, no exports without roads or ports.",
+          "fr": "Point 1 — Libérer le capital de l'Afrique à grande échelle. Les États africains empruntent souvent à des taux deux, trois ou quatre fois plus élevés qu'un pays européen pour le même projet, pris en étau entre un problème de solvabilité (dettes lourdes à rembourser) et un problème de liquidité (avoir l'argent disponible au bon moment). La réponse de la Banque : devenir une machine à débloquer du capital massivement — pas seulement prêter son propre argent, mais faire levier : chaque dollar de la Banque doit en attirer plusieurs autres, venus des fonds privés, des fonds souverains, de l'épargne africaine, des fonds de pension du continent. « À grande échelle » veut dire changer de dimension, passer des millions aux milliards.\n\nPoint 2 — Réformer l'architecture financière africaine. « Architecture » désigne simplement la plomberie financière du continent : banques centrales, banques commerciales, marchés financiers, agences de notation, systèmes de paiement, compétences humaines. Le problème : cette plomberie est fragmentée (chaque pays a la sienne), parfois fragile, et l'Afrique ne contrôle pas les règles du jeu — quand une agence de notation étrangère juge un pays africain plus risqué qu'il ne l'est vraiment, ce pays paie des intérêts plus élevés pendant des années. La réponse : consolider les institutions financières africaines et les talents pour que l'Afrique gagne en souveraineté financière — financer son développement selon ses propres règles, avec ses propres institutions, et peser dans le système financier mondial au lieu de le subir.\n\nPoint 3 — Valoriser le dividende démographique. L'Afrique a la population la plus jeune du monde ; d'ici quelques décennies, une grande partie des travailleurs de la planète seront africains. Un « dividende » ne rapporte que si le capital sous-jacent est bien investi : un jeune sans éducation, sans compétences, sans emploi, c'est une crise sociale en attente, pas un dividende. La réponse : investir massivement dans l'éducation, les compétences, la santé et l'entrepreneuriat des jeunes et des femmes, pour transformer le poids démographique en puissance économique.\n\nPoint 4 — Construire des infrastructures résilientes et créer de la valeur. Deux idées collées ensemble : des infrastructures résilientes (routes, ponts, centrales et réseaux qui tiennent face aux chocs — construire durable plutôt que reconstruire sans cesse) et créer de la valeur, la suite logique d'« Industrialiser l'Afrique » (l'Afrique exporte du brut et rachète du transformé — cacao, pétrole, minerais, coton qui sortent ; chocolat, essence, batteries, textile qui reviennent, avec les emplois, les profits et les impôts créés ailleurs). La priorité : transformer sur place, monter dans la chaîne de valeur. Les deux vont ensemble car on ne peut pas transformer sans infrastructures : pas d'usine sans électricité fiable, pas d'export sans route ni port."
+        }
+      },
+      {
+        "heading": {
+          "en": "A different list: the First-100-Days priorities",
+          "fr": "Une liste différente : les priorités des 100 premiers jours"
+        },
+        "body": {
+          "en": "Announced at his swearing-in in Abidjan on 2 September 2025, these four priorities are his starting method, not his strategic substance: Listening intently — an attentive, responsive Bank that sets priorities that matter; Launching a fast-track reform agenda — institutional agility to match the pace of Africa's needs; Deepening partnerships — with governments, the private sector, and international partners; Accelerating real solutions — delivery over process. A line worth remembering from the inaugural address: the Bank intends to \"bridge divides — between regions, between ambition and execution, between public and private, between urgency and bureaucracy.\" Keep this list separate in your mind from the Four Cardinal Points above — one is how he started, the other is what he's building toward.",
+          "fr": "Annoncées lors de son investiture à Abidjan le 2 septembre 2025, ces quatre priorités sont sa méthode de démarrage, pas le fond de sa stratégie : Écouter attentivement — une Banque à l'écoute, réactive, qui fixe des priorités qui comptent vraiment ; Lancer un programme de réforme accéléré — une agilité institutionnelle à la hauteur du rythme des besoins de l'Afrique ; Approfondir les partenariats — avec les gouvernements, le secteur privé et les partenaires internationaux ; Accélérer des solutions concrètes — la livraison plutôt que le processus. Une phrase à retenir du discours inaugural : la Banque entend « faire le pont entre les clivages — entre les régions, entre les ambitions et leur mise en œuvre, entre le public et le privé, entre l'urgence et la bureaucratie ». Garde cette liste bien séparée, dans ta tête, des Four Cardinal Points ci-dessus — l'une est sa façon de démarrer, l'autre est ce vers quoi il construit."
+        }
+      },
+      {
+        "heading": {
+          "en": "How this connects with the Ten-Year Strategy",
+          "fr": "Comment tout cela s'articule avec la Stratégie décennale"
+        },
+        "body": {
+          "en": "This is the question an evaluator loves to ask. The simple answer: the Ten-Year Strategy sets the destination (a prosperous, inclusive, resilient, integrated Africa) and the five roads (the High 5s). The Four Cardinal Points don't change the destination or the roads — they say where to press the accelerator in a world where external money is scarcer. Each cardinal point connects naturally to the High 5s: capital and financial architecture fund the five roads; the demographic dividend extends \"Improve the Quality of Life\"; infrastructure and value creation extend \"Industrialise\" and \"Integrate.\"",
+          "fr": "C'est la question qu'un évaluateur adore poser. La réponse simple : la Stratégie décennale fixe la destination (une Afrique prospère, inclusive, résiliente, intégrée) et les cinq routes (les High 5). Les Four Cardinal Points ne changent ni la destination ni les routes : ils disent où appuyer sur l'accélérateur dans un monde où l'argent extérieur se raréfie. Chaque point cardinal se raccroche naturellement aux High 5 : le capital et l'architecture financière financent les cinq routes, le dividende démographique prolonge « Améliorer la qualité de vie », les infrastructures et la valeur ajoutée prolongent « Industrialiser » et « Intégrer »."
+        }
+      }
+    ],
+    "one_line_summary": {
+      "en": "In a world where external money is scarce, President Ould Tah wants the Bank to help Africa mobilise capital massively (point 1), through financial plumbing it controls itself (point 2), to invest in its youth (point 3) and in solid infrastructure that transforms its resources locally (point 4).",
+      "fr": "Dans un monde où l'argent extérieur se fait rare, le président Ould Tah veut que la Banque aide l'Afrique à mobiliser massivement du capital (point 1), à travers une plomberie financière qu'elle contrôle elle-même (point 2), pour investir dans sa jeunesse (point 3) et dans des infrastructures solides qui transforment localement ses richesses (point 4)."
+    },
+    "qcm_reflex": {
+      "en": "If a question mentions \"the First 100 Days,\" it's testing the starting-method list (listening, fast-track reform, partnerships, real solutions) — not the Four Cardinal Points. If it asks about the strategic vision or mandate priorities, it's the Four Cardinal Points. Never answer one with the other's list.",
+      "fr": "Si une question mentionne « les 100 premiers jours », elle teste la liste de la méthode de démarrage (écoute, réforme accélérée, partenariats, solutions concrètes) — pas les Four Cardinal Points. Si elle porte sur la vision stratégique ou les priorités du mandat, ce sont les Four Cardinal Points. Ne réponds jamais à l'une avec la liste de l'autre."
+    }
+  },
+  {
+    "id": "afdb-7",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "What Are Some Flagship AfDB Projects and Initiatives?",
+      "fr": "Quels sont quelques projets et initiatives phares de la BAD ?"
+    },
+    "simple_definition": {
+      "en": "Beyond lending, the AfDB runs and co-leads a number of named, pan-African initiatives that translate its strategic priorities into concrete programs — spanning renewable energy, agriculture, women's finance, cross-border infrastructure, and investment promotion.",
+      "fr": "Au-delà de ses financements, la BAD pilote ou copilote plusieurs initiatives panafricaines nommées qui traduisent ses priorités stratégiques en programmes concrets — couvrant les énergies renouvelables, l'agriculture, le financement des femmes, les infrastructures transfrontalières et la promotion de l'investissement."
+    },
+    "why_it_matters": {
+      "en": [
+        "Desert to Power aims to bring solar power and grid connections to the Sahel region across 11 countries, including cross-border interconnections such as the Mauritania–Mali transmission line.",
+        "AFAWA (Affirmative Finance Action for Women in Africa) works to unlock financing for women-owned and women-led businesses across the continent by working with banks and guarantee mechanisms.",
+        "TAAT (Technologies for African Agricultural Transformation) spreads proven, ready-to-use agricultural technologies to smallholder farmers to raise productivity and food security.",
+        "PIDA (Programme for Infrastructure Development in Africa), run jointly with the African Union, coordinates continental and regional cross-border infrastructure in energy, transport, ICT and trans-boundary water.",
+        "The Africa Investment Forum, an annual multi-stakeholder platform, matches bankable African projects with global investors — its 2025 Rabat edition secured $15.3 billion in investment interest across 39 projects."
+      ],
+      "fr": [
+        "Desert to Power vise à apporter l'énergie solaire et des raccordements au réseau à la région du Sahel, dans 11 pays, avec des interconnexions transfrontalières telles que la ligne de transport Mauritanie–Mali.",
+        "AFAWA (Affirmative Finance Action for Women in Africa) vise à débloquer des financements pour les entreprises détenues ou dirigées par des femmes sur tout le continent, en s'appuyant sur les banques et des mécanismes de garantie.",
+        "TAAT (Technologies for African Agricultural Transformation) diffuse auprès des petits exploitants agricoles des technologies agricoles éprouvées et prêtes à l'emploi afin d'accroître la productivité et la sécurité alimentaire.",
+        "Le PIDA (Programme de développement des infrastructures en Afrique), mené conjointement avec l'Union africaine, coordonne les infrastructures transfrontalières continentales et régionales dans l'énergie, les transports, les TIC et l'eau transfrontalière.",
+        "L'Africa Investment Forum, plateforme annuelle multi-acteurs, met en relation des projets africains bancables avec des investisseurs mondiaux — son édition 2025 à Rabat a permis de mobiliser 15,3 milliards de dollars d'intérêt d'investissement pour 39 projets."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Having two or three concrete, named examples ready lets you show — not just tell — how the Bank's strategic priorities translate into real programs on the ground, which is far more convincing than reciting the High 5s alone.",
+      "fr": "Avoir deux ou trois exemples concrets et nommés en tête permet de montrer — et non simplement d'affirmer — comment les priorités stratégiques de la Banque se traduisent en programmes réels sur le terrain, ce qui est bien plus convaincant que de simplement réciter les High 5s."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which AfDB initiative focuses on expanding solar power and electricity access across the Sahel?",
+          "fr": "Quelle initiative de la BAD vise à étendre l'énergie solaire et l'accès à l'électricité dans le Sahel ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "AFAWA",
+            "fr": "AFAWA"
+          },
+          {
+            "key": "B",
+            "en": "Desert to Power",
+            "fr": "Desert to Power"
+          },
+          {
+            "key": "C",
+            "en": "TAAT",
+            "fr": "TAAT"
+          },
+          {
+            "key": "D",
+            "en": "PIDA",
+            "fr": "PIDA"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Desert to Power is AfDB's initiative to bring solar power and grid connections to 11 Sahel countries, including cross-border transmission lines.",
+          "fr": "Desert to Power est l'initiative de la BAD visant à apporter l'énergie solaire et des raccordements au réseau à 11 pays du Sahel, avec des lignes de transport transfrontalières."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "AfDB - Desert to Power Initiative",
+        "url": "https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships/desert-power-initiative"
+      },
+      {
+        "title": "AfDB - AFAWA (Affirmative Finance Action for Women in Africa)",
+        "url": "https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships/afawa-affirmative-finance-action-women-africa"
+      },
+      {
+        "title": "AfDB - Technologies for African Agricultural Transformation (TAAT)",
+        "url": "https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships/technologies-african-agricultural-transformation-taat"
+      },
+      {
+        "title": "AfDB - Programme for Infrastructure Development in Africa (PIDA)",
+        "url": "https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships/programme-for-infrastructure-development-in-africa-pida"
+      },
+      {
+        "title": "Africa Investment Forum secures $15.3 billion for 39 bankable projects at 2025 Rabat gathering",
+        "url": "https://www.afdb.org/en/news-and-events/press-releases/africa-investment-forum-secures-153-billion-39-bankable-projects-2025-rabat-gathering-89103"
+      }
+    ],
+    "last_updated": "2026-08-30"
+  },
+  {
+    "id": "afdb-8",
+    "category": "Organization Knowledge",
+    "org_scope": "AfDB",
+    "title": {
+      "en": "How an AfDB Project Moves From Idea to Results",
+      "fr": "Comment un projet de la BAD passe de l'idée aux résultats"
+    },
+    "simple_definition": {
+      "en": "A typical sovereign AfDB operation moves through six stages, from identifying a country's needs to independently evaluating the finished project's results.",
+      "fr": "Une opération souveraine typique de la BAD passe par six étapes, depuis l'identification des besoins d'un pays jusqu'à l'évaluation indépendante des résultats du projet achevé."
+    },
+    "structured_sections": [
+      {
+        "heading": {
+          "en": "1. Country programming",
+          "fr": "1. Programmation par pays"
+        },
+        "body": {
+          "en": "A Country Strategy Paper (CSP) is prepared, aligned with the country's own national development priorities.",
+          "fr": "Un document de stratégie pays (CSP) est préparé, aligné sur les priorités nationales de développement du pays."
+        }
+      },
+      {
+        "heading": {
+          "en": "2. Identification & preparation",
+          "fr": "2. Identification et préparation"
+        },
+        "body": {
+          "en": "The project concept is developed together with the client.",
+          "fr": "Le concept du projet est développé conjointement avec le client."
+        }
+      },
+      {
+        "heading": {
+          "en": "3. Appraisal",
+          "fr": "3. Évaluation ex ante (appraisal)"
+        },
+        "body": {
+          "en": "Technical, economic, environmental, and social feasibility is assessed.",
+          "fr": "La faisabilité technique, économique, environnementale et sociale est évaluée."
+        }
+      },
+      {
+        "heading": {
+          "en": "4. Board approval",
+          "fr": "4. Approbation par le Conseil"
+        },
+        "body": {
+          "en": "The operation is reviewed and approved by the Board of Directors.",
+          "fr": "L'opération est examinée et approuvée par le Conseil d'administration."
+        }
+      },
+      {
+        "heading": {
+          "en": "5. Implementation & supervision",
+          "fr": "5. Mise en œuvre et supervision"
+        },
+        "body": {
+          "en": "The project is executed, often through project implementation units, under Bank supervision.",
+          "fr": "Le projet est exécuté, souvent via des unités de mise en œuvre dédiées, sous la supervision de la Banque."
+        }
+      },
+      {
+        "heading": {
+          "en": "6. Completion & evaluation",
+          "fr": "6. Achèvement et évaluation"
+        },
+        "body": {
+          "en": "A completion report is prepared; independent evaluation is carried out by IDEV, the Bank's independent evaluation function.",
+          "fr": "Un rapport d'achèvement est préparé ; une évaluation indépendante est réalisée par IDEV, la fonction d'évaluation indépendante de la Banque."
+        }
+      }
+    ],
+    "why_it_matters": {
+      "en": [
+        "This six-stage sequence is directly reusable for structuring any answer about how the Bank would intervene on a given problem.",
+        "The Bank's authorized capital has grown to around $318 billion, up from $94 billion in 2014, backing a AAA credit rating maintained for more than a decade and over $100 billion in financing approvals over the last decade.",
+        "The Bank deploys a range of instruments depending on the client and the problem: sovereign and non-sovereign loans, grants, guarantees, equity investments, technical assistance, and budget support."
+      ],
+      "fr": [
+        "Cette séquence en six étapes est directement réutilisable pour structurer toute réponse sur la manière dont la Banque interviendrait face à un problème donné.",
+        "Le capital autorisé de la Banque a atteint environ 318 milliards de dollars, contre 94 milliards en 2014, adossé à une notation AAA maintenue depuis plus d'une décennie et à plus de 100 milliards de dollars d'approbations de financement au cours de la dernière décennie.",
+        "La Banque déploie une gamme d'instruments selon le client et le problème : prêts souverains et non souverains, dons, garanties, prises de participation, assistance technique et appui budgétaire."
+      ]
+    },
+    "one_line_summary": {
+      "en": "From a Country Strategy Paper to an independent IDEV evaluation, every AfDB operation follows the same six-stage cycle — knowing it lets you narrate credibly how the Bank actually works, not just what it funds.",
+      "fr": "D'un document de stratégie pays à une évaluation indépendante par IDEV, chaque opération de la BAD suit le même cycle en six étapes — le connaître permet de raconter avec crédibilité comment la Banque fonctionne réellement, pas seulement ce qu'elle finance."
+    },
+    "qcm_reflex": {
+      "en": "Whenever the Bank's operations come up, think in two lenses at once: sovereign versus non-sovereign operations, and concessional versus non-concessional financing.",
+      "fr": "Dès que les opérations de la Banque sont évoquées, pense en deux grilles de lecture à la fois : opérations souveraines versus non souveraines, et financement concessionnel versus non concessionnel."
+    },
+    "why_you_should_know": {
+      "en": "MCQ questions on this domain tend to ask direct factual questions (\"which stage comes before Board approval?\", \"what is the Bank's credit rating?\") rather than essay-style synthesis — so precise recall of the sequence and the key figures matters more here than storytelling.",
+      "fr": "Les questions à choix multiples sur ce domaine tendent à poser des questions factuelles directes (« quelle étape précède l'approbation du Conseil ? », « quelle est la notation de crédit de la Banque ? ») plutôt qu'une synthèse rédigée — la mémorisation précise de la séquence et des chiffres clés compte donc plus ici que le récit."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "In the AfDB's operations cycle, which stage comes immediately after Board approval?",
+          "fr": "Dans le cycle des opérations de la BAD, quelle étape suit immédiatement l'approbation par le Conseil ?"
+        },
+        "options": [
+          {
+            "key": "A",
+            "en": "Appraisal",
+            "fr": "Évaluation ex ante (appraisal)"
+          },
+          {
+            "key": "B",
+            "en": "Implementation & supervision",
+            "fr": "Mise en œuvre et supervision"
+          },
+          {
+            "key": "C",
+            "en": "Country programming",
+            "fr": "Programmation par pays"
+          },
+          {
+            "key": "D",
+            "en": "Completion & evaluation",
+            "fr": "Achèvement et évaluation"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The six-stage cycle runs: country programming, identification & preparation, appraisal, Board approval, implementation & supervision, then completion & evaluation.",
+          "fr": "Le cycle en six étapes se déroule ainsi : programmation par pays, identification et préparation, évaluation ex ante, approbation par le Conseil, mise en œuvre et supervision, puis achèvement et évaluation."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-09-22"
+  }
+]

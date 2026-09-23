@@ -1,0 +1,422 @@
+[
+  {
+    "id": "int-1",
+    "category": "About You",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about yourself and what has brought you to this point in your career.",
+      "fr": "Parlez-moi de vous et de ce qui vous a conduit(e) jusqu'à ce point de votre carrière."
+    },
+    "tip": {
+      "en": "Keep your answer to about 60-90 seconds and structure it as past-present-future: a brief relevant background, your current focus, and why this program is the logical next step. Avoid reciting your CV line by line; instead, connect the dots with a clear narrative thread.",
+      "fr": "Limitez votre réponse à environ 60-90 secondes et structurez-la selon un axe passé-présent-futur : un bref parcours pertinent, votre situation actuelle, puis pourquoi ce programme constitue la suite logique. Évitez de réciter votre CV point par point ; construisez plutôt un fil narratif clair."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-2",
+    "category": "About You",
+    "org_scope": "General",
+    "question": {
+      "en": "What are your greatest strengths and how have you applied them in a professional setting?",
+      "fr": "Quelles sont vos principales forces et comment les avez-vous mises en pratique dans un contexte professionnel ?"
+    },
+    "tip": {
+      "en": "Choose two or three strengths that are genuinely relevant to the role and back each one with a concrete, brief example rather than a generic adjective. Tie the examples to skills the program values, such as analytical rigor, cross-cultural collaboration, or resilience under pressure.",
+      "fr": "Choisissez deux ou trois forces réellement pertinentes pour le poste et illustrez chacune par un exemple concret et bref plutôt que par un simple adjectif. Reliez ces exemples aux compétences valorisées par le programme, comme la rigueur analytique, la collaboration interculturelle ou la résilience sous pression."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-3",
+    "category": "About You",
+    "org_scope": "General",
+    "question": {
+      "en": "What is one thing about your background that isn't obvious from your CV but is important for us to know?",
+      "fr": "Quel élément de votre parcours, qui n'apparaît pas clairement sur votre CV, est important que nous connaissions ?"
+    },
+    "tip": {
+      "en": "Use this as an opportunity to share context that adds depth, such as a formative experience, a personal motivation, or a skill gained outside formal work. Keep it professional and relevant, and briefly explain why it matters for this role.",
+      "fr": "Profitez-en pour apporter un éclairage supplémentaire, comme une expérience marquante, une motivation personnelle ou une compétence acquise en dehors du cadre professionnel formel. Restez professionnel(le) et pertinent(e), et expliquez brièvement en quoi cet élément compte pour ce poste."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-4",
+    "category": "Motivation",
+    "org_scope": "General",
+    "question": {
+      "en": "Why do you want to work in international development?",
+      "fr": "Pourquoi souhaitez-vous travailler dans le domaine du développement international ?"
+    },
+    "tip": {
+      "en": "Ground your answer in a specific experience or observation that shaped your interest, rather than general statements about wanting to 'help people'. Show that you understand the complexity of development work and are motivated by substance, not just idealism.",
+      "fr": "Ancrez votre réponse dans une expérience ou une observation précise qui a façonné votre intérêt, plutôt que dans des formules générales sur l'envie d'« aider les gens ». Montrez que vous comprenez la complexité du travail de développement et que votre motivation repose sur du concret, pas seulement sur l'idéalisme."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-5",
+    "category": "Motivation",
+    "org_scope": "General",
+    "question": {
+      "en": "What draws you to the Young Professionals Program specifically, rather than another entry point into this field?",
+      "fr": "Qu'est-ce qui vous attire spécifiquement dans ce programme Young Professionals, plutôt qu'une autre voie d'entrée dans ce secteur ?"
+    },
+    "tip": {
+      "en": "Research what makes the program distinct, such as rotational assignments, mentorship, or accelerated exposure to senior decision-making, and connect those features to your own career goals. Avoid answers that would apply equally to any job in the sector.",
+      "fr": "Renseignez-vous sur ce qui distingue ce programme, comme les affectations tournantes, le mentorat ou l'exposition accélérée à la prise de décision de haut niveau, et reliez ces éléments à vos propres objectifs de carrière. Évitez les réponses qui s'appliqueraient à n'importe quel poste du secteur."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-6",
+    "category": "Motivation",
+    "org_scope": "General",
+    "question": {
+      "en": "Where do you see yourself professionally in five years, and how does this program fit into that path?",
+      "fr": "Où vous voyez-vous professionnellement dans cinq ans, et comment ce programme s'inscrit-il dans cette trajectoire ?"
+    },
+    "tip": {
+      "en": "Present a realistic and specific vision rather than a vague aspiration, and clearly explain the skills or experience you expect this program to give you toward that goal. Interviewers are checking for genuine long-term commitment to the field, not just to this one opportunity.",
+      "fr": "Présentez une vision réaliste et précise plutôt qu'une aspiration vague, et expliquez clairement les compétences ou l'expérience que ce programme devrait vous apporter pour atteindre cet objectif. Les recruteurs cherchent à vérifier un engagement sincère et durable envers ce secteur, pas seulement envers cette opportunité ponctuelle."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-7",
+    "category": "Leadership",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a time when you had to lead a team or project without having formal authority over the people involved.",
+      "fr": "Décrivez une situation où vous avez dû diriger une équipe ou un projet sans avoir d'autorité formelle sur les personnes impliquées."
+    },
+    "tip": {
+      "en": "Use the STAR method (Situation, Task, Action, Result) and emphasize the influencing skills you used, such as building consensus, communicating a shared goal, or leading by example. Quantify the outcome where possible to show impact.",
+      "fr": "Utilisez la méthode STAR (Situation, Tâche, Action, Résultat) en mettant l'accent sur les compétences d'influence mobilisées, comme la recherche de consensus, la communication d'un objectif commun ou l'exemplarité. Quantifiez le résultat autant que possible pour démontrer l'impact."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-8",
+    "category": "Leadership",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about a time you had to motivate a team member who was struggling or disengaged.",
+      "fr": "Racontez une situation où vous avez dû remotiver un membre de l'équipe en difficulté ou démobilisé."
+    },
+    "tip": {
+      "en": "Focus on how you diagnosed the underlying cause before acting, and describe the specific, empathetic steps you took rather than a generic pep talk. End with the concrete outcome for the person and the team.",
+      "fr": "Concentrez-vous sur la manière dont vous avez identifié la cause sous-jacente avant d'agir, et décrivez les mesures concrètes et empathiques mises en œuvre plutôt qu'un simple discours motivant. Terminez par le résultat concret obtenu, pour la personne comme pour l'équipe."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-9",
+    "category": "Leadership",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a situation where you had to make an unpopular decision as a leader.",
+      "fr": "Décrivez une situation où vous avez dû prendre, en tant que responsable, une décision impopulaire."
+    },
+    "tip": {
+      "en": "Show your reasoning process and how you balanced competing interests before deciding, then explain how you communicated the decision transparently to those affected. This demonstrates judgment and accountability, both of which matter more than being universally liked.",
+      "fr": "Montrez votre raisonnement et la manière dont vous avez arbitré entre des intérêts divergents avant de trancher, puis expliquez comment vous avez communiqué cette décision de façon transparente aux personnes concernées. Cela démontre votre discernement et votre sens des responsabilités, des qualités plus importantes que la simple popularité."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-10",
+    "category": "Teamwork",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about a time you worked with a multicultural or multidisciplinary team to deliver a result.",
+      "fr": "Racontez une expérience où vous avez travaillé au sein d'une équipe multiculturelle ou multidisciplinaire pour atteindre un résultat."
+    },
+    "tip": {
+      "en": "Highlight specific adaptations you made to communication or working style to bridge differences, since international organizations place high value on cross-cultural collaboration. Close with the tangible result the team achieved together.",
+      "fr": "Mettez en avant les adaptations concrètes apportées à votre communication ou à votre méthode de travail pour composer avec les différences, car les organisations internationales accordent une grande importance à la collaboration interculturelle. Concluez par le résultat concret obtenu collectivement."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-11",
+    "category": "Teamwork",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a situation where you had to rely on colleagues whose working style was very different from yours.",
+      "fr": "Décrivez une situation où vous avez dû composer avec des collègues dont la méthode de travail différait fortement de la vôtre."
+    },
+    "tip": {
+      "en": "Avoid framing the other person's style negatively; instead, show flexibility and explain what you did to find common ground. Interviewers want to see self-awareness about your own preferences and genuine adaptability.",
+      "fr": "Évitez de présenter le style de l'autre personne de façon négative ; montrez plutôt votre flexibilité et expliquez ce que vous avez fait pour trouver un terrain d'entente. Les recruteurs cherchent une prise de conscience de vos propres préférences et une réelle capacité d'adaptation."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-12",
+    "category": "Teamwork",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about a project where your individual contribution was small but the team's success mattered a lot to you.",
+      "fr": "Parlez-moi d'un projet où votre contribution individuelle était modeste, mais où la réussite de l'équipe comptait beaucoup pour vous."
+    },
+    "tip": {
+      "en": "Use this question to demonstrate humility and a collective mindset, which are important in consensus-driven, matrixed organizations. Describe specifically how you supported the team's success even in a limited role.",
+      "fr": "Profitez de cette question pour démontrer humilité et esprit collectif, des qualités essentielles dans des organisations fonctionnant par consensus et en mode matriciel. Décrivez précisément comment vous avez contribué à la réussite de l'équipe, même dans un rôle limité."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-13",
+    "category": "Conflict",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a disagreement you had with a colleague or supervisor and how you resolved it.",
+      "fr": "Décrivez un désaccord que vous avez eu avec un collègue ou un supérieur, et la manière dont vous l'avez résolu."
+    },
+    "tip": {
+      "en": "Choose an example with a genuinely constructive resolution and focus on the communication techniques you used, such as active listening or seeking a shared objective. Avoid examples that make the other party look unreasonable.",
+      "fr": "Choisissez un exemple avec une résolution réellement constructive et concentrez-vous sur les techniques de communication employées, comme l'écoute active ou la recherche d'un objectif commun. Évitez les exemples qui donneraient une image déraisonnable de l'autre partie."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-14",
+    "category": "Conflict",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about a time you had to deliver difficult feedback to someone.",
+      "fr": "Racontez une situation où vous avez dû formuler un retour difficile à quelqu'un."
+    },
+    "tip": {
+      "en": "Emphasize how you prepared the conversation, balanced honesty with respect, and focused on specific behaviors rather than personal criticism. Mention the outcome to show the feedback was ultimately constructive.",
+      "fr": "Insistez sur la préparation de l'échange, l'équilibre entre franchise et respect, et le fait de vous concentrer sur des comportements précis plutôt que sur une critique personnelle. Mentionnez le résultat pour montrer que ce retour a finalement été constructif."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-15",
+    "category": "Conflict",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a situation where you disagreed with a decision made by your team or manager but had to implement it anyway.",
+      "fr": "Décrivez une situation où vous étiez en désaccord avec une décision prise par votre équipe ou votre responsable, mais que vous avez dû mettre en œuvre malgré tout."
+    },
+    "tip": {
+      "en": "Show that you voiced your concerns through appropriate channels first, then committed fully to the decision once made, which is a key sign of professional maturity. Avoid any suggestion that you undermined the decision after the fact.",
+      "fr": "Montrez que vous avez d'abord exprimé vos réserves par les canaux appropriés, puis que vous vous êtes pleinement engagé(e) dans la décision une fois celle-ci prise, signe important de maturité professionnelle. Évitez toute suggestion selon laquelle vous auriez ensuite entravé cette décision."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-16",
+    "category": "Failure & Learning",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about a significant professional failure and what you learned from it.",
+      "fr": "Parlez-moi d'un échec professionnel significatif et de ce que vous en avez retenu."
+    },
+    "tip": {
+      "en": "Pick a genuine failure with real stakes, not a disguised strength, and be honest about your role in it. Spend more time on the lesson learned and how you have since applied it than on the failure itself.",
+      "fr": "Choisissez un véritable échec avec de réels enjeux, et non une qualité déguisée, et soyez honnête sur votre part de responsabilité. Consacrez plus de temps à la leçon tirée et à la manière dont vous l'avez appliquée depuis qu'à l'échec lui-même."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-17",
+    "category": "Failure & Learning",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a time you received critical feedback that was hard to hear. How did you respond?",
+      "fr": "Décrivez une situation où vous avez reçu un retour critique difficile à entendre. Comment avez-vous réagi ?"
+    },
+    "tip": {
+      "en": "Show that your first reaction was to listen and reflect rather than to become defensive, and describe the concrete change you made afterward. This demonstrates coachability, a trait international organizations value highly in junior staff.",
+      "fr": "Montrez que votre première réaction a été d'écouter et de prendre du recul plutôt que de vous justifier, et décrivez le changement concret que vous avez opéré par la suite. Cela démontre une capacité à être coaché(e), une qualité très appréciée chez les jeunes professionnels dans les organisations internationales."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-18",
+    "category": "Failure & Learning",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about a project or task where, looking back, you would approach things differently.",
+      "fr": "Parlez-moi d'un projet ou d'une tâche que, avec le recul, vous aborderiez différemment aujourd'hui."
+    },
+    "tip": {
+      "en": "This is a self-reflection question, not necessarily about a failure, so choose an example that shows growth in judgment or method over time. Be specific about what exactly you would change and why.",
+      "fr": "Il s'agit d'une question d'introspection, pas nécessairement liée à un échec ; choisissez donc un exemple montrant une évolution de votre jugement ou de votre méthode dans le temps. Soyez précis(e) sur ce que vous changeriez exactement, et pourquoi."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-19",
+    "category": "Problem Solving",
+    "org_scope": "General",
+    "question": {
+      "en": "Walk me through how you would approach a complex problem with incomplete information and a tight deadline.",
+      "fr": "Expliquez-moi comment vous aborderiez un problème complexe avec des informations incomplètes et un délai serré."
+    },
+    "tip": {
+      "en": "Structure your answer as a clear process: clarifying the objective, identifying what is known versus unknown, prioritizing key assumptions, and deciding when to act despite uncertainty. If possible, ground the process in a real example rather than keeping it purely theoretical.",
+      "fr": "Structurez votre réponse comme un processus clair : clarifier l'objectif, distinguer ce qui est connu de ce qui ne l'est pas, prioriser les hypothèses clés, puis décider du moment d'agir malgré l'incertitude. Dans la mesure du possible, ancrez ce processus dans un exemple réel plutôt que de rester purement théorique."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-20",
+    "category": "Problem Solving",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a time you had to analyze a large amount of data or information to reach a recommendation.",
+      "fr": "Décrivez une situation où vous avez dû analyser un grand volume de données ou d'informations pour formuler une recommandation."
+    },
+    "tip": {
+      "en": "Walk through your analytical method step by step, including how you validated your data and considered alternative interpretations. Finish by explaining how your recommendation was received and used.",
+      "fr": "Détaillez votre méthode d'analyse étape par étape, y compris la façon dont vous avez vérifié vos données et envisagé d'autres interprétations possibles. Terminez en expliquant comment votre recommandation a été accueillie et utilisée."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-21",
+    "category": "Problem Solving",
+    "org_scope": "General",
+    "question": {
+      "en": "Tell me about a time you identified a problem before anyone else noticed it, and what you did about it.",
+      "fr": "Racontez une situation où vous avez identifié un problème avant que quiconque ne le remarque, et ce que vous avez fait."
+    },
+    "tip": {
+      "en": "Emphasize the proactive observation or analysis that led you to spot the issue early, not just the fix itself. Show initiative by describing how you raised it and drove action, even if it wasn't formally your responsibility.",
+      "fr": "Mettez l'accent sur l'observation ou l'analyse proactive qui vous a permis de repérer le problème tôt, pas seulement sur la solution apportée. Montrez votre sens de l'initiative en expliquant comment vous avez alerté les bonnes personnes et impulsé une action, même si cela ne relevait pas formellement de votre responsabilité."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-22",
+    "category": "Technical",
+    "org_scope": "General",
+    "question": {
+      "en": "How would you explain a technical or economic concept from your field to a non-specialist audience?",
+      "fr": "Comment expliqueriez-vous un concept technique ou économique de votre domaine à un public non spécialiste ?"
+    },
+    "tip": {
+      "en": "Pick a concept you know well and practice explaining it with a simple analogy or real-world example, avoiding jargon entirely. Being asked to demonstrate this live is common, so prepare one or two examples in advance.",
+      "fr": "Choisissez un concept que vous maîtrisez bien et entraînez-vous à l'expliquer à l'aide d'une analogie simple ou d'un exemple concret, en évitant tout jargon technique. Il est fréquent que l'on vous demande de le démontrer en direct ; préparez donc un ou deux exemples à l'avance."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-23",
+    "category": "Technical",
+    "org_scope": "General",
+    "question": {
+      "en": "What quantitative or analytical methods are you most comfortable using, and how have you applied them?",
+      "fr": "Avec quelles méthodes quantitatives ou analytiques êtes-vous le plus à l'aise, et comment les avez-vous appliquées ?"
+    },
+    "tip": {
+      "en": "Be precise about the tools and methods (e.g., regression analysis, financial modeling, statistical software) and give a concrete example of a decision or output that resulted from using them. Be honest about your actual level of proficiency, as follow-up questions often probe deeper.",
+      "fr": "Soyez précis(e) sur les outils et méthodes utilisés (analyse de régression, modélisation financière, logiciels statistiques, etc.) et donnez un exemple concret de décision ou de résultat obtenu grâce à leur utilisation. Restez honnête sur votre niveau réel de maîtrise, car les questions de relance approfondissent souvent ce point."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-24",
+    "category": "Technical",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a technical tool, software, or method you had to learn quickly for a project.",
+      "fr": "Décrivez un outil technique, un logiciel ou une méthode que vous avez dû apprendre rapidement pour un projet."
+    },
+    "tip": {
+      "en": "Focus on your learning process, such as how you prioritized what to learn first and where you sought help, rather than just the tool itself. This question is really testing your ability to learn quickly, a critical skill in fast-paced international organizations.",
+      "fr": "Concentrez-vous sur votre méthode d'apprentissage, par exemple la façon dont vous avez priorisé ce qu'il fallait apprendre en premier et où vous avez cherché de l'aide, plutôt que sur l'outil lui-même. Cette question évalue avant tout votre capacité à apprendre vite, une compétence essentielle dans des organisations internationales au rythme soutenu."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-25",
+    "category": "Development",
+    "org_scope": "General",
+    "question": {
+      "en": "What do you see as the biggest challenge facing international development today, and how should organizations respond?",
+      "fr": "Selon vous, quel est le principal défi auquel fait face le développement international aujourd'hui, et comment les organisations devraient-elles y répondre ?"
+    },
+    "tip": {
+      "en": "Choose one issue you can discuss with real depth rather than listing several superficially, and support your view with a specific example or data point. Show awareness of different perspectives on the issue rather than presenting a one-sided view.",
+      "fr": "Choisissez un enjeu que vous pouvez traiter avec une réelle profondeur plutôt que d'en énumérer plusieurs superficiellement, et appuyez votre point de vue sur un exemple ou une donnée précise. Montrez que vous connaissez différentes perspectives sur ce sujet plutôt que de présenter un avis unilatéral."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-26",
+    "category": "Development",
+    "org_scope": "General",
+    "question": {
+      "en": "How do you stay informed about current development issues and debates?",
+      "fr": "Comment vous tenez-vous informé(e) des enjeux et débats actuels en matière de développement ?"
+    },
+    "tip": {
+      "en": "Name specific sources (publications, reports, podcasts, or institutions) rather than a vague reference to 'reading the news', and mention a recent piece of content that shaped your thinking. This shows genuine, ongoing engagement with the field rather than interest manufactured for the interview.",
+      "fr": "Citez des sources précises (publications, rapports, podcasts ou institutions) plutôt qu'une vague référence à « suivre l'actualité », et mentionnez un contenu récent qui a nourri votre réflexion. Cela démontre un intérêt sincère et continu pour le secteur, plutôt qu'un intérêt fabriqué pour l'entretien."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-27",
+    "category": "Development",
+    "org_scope": "General",
+    "question": {
+      "en": "Describe a development project or policy you find particularly effective or ineffective, and explain why.",
+      "fr": "Décrivez un projet ou une politique de développement que vous jugez particulièrement efficace ou inefficace, et expliquez pourquoi."
+    },
+    "tip": {
+      "en": "Support your assessment with evidence or specific outcomes rather than opinion alone, and acknowledge the complexity or trade-offs involved. This question tests critical thinking, so avoid an answer that is purely praise or purely criticism without nuance.",
+      "fr": "Appuyez votre analyse sur des données ou des résultats concrets plutôt que sur une simple opinion, et reconnaissez la complexité ou les compromis en jeu. Cette question évalue votre esprit critique ; évitez donc une réponse purement élogieuse ou purement critique, sans nuance."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-28",
+    "category": "Organization-specific",
+    "org_scope": "General",
+    "question": {
+      "en": "Why do you want to work at this organization specifically?",
+      "fr": "Pourquoi souhaitez-vous travailler spécifiquement au sein de cette organisation ?"
+    },
+    "tip": {
+      "en": "Research the organization's mandate, recent priorities, and culture in depth, and connect them explicitly to your own values and experience. Avoid generic praise that could apply to any similar institution; specificity signals genuine interest.",
+      "fr": "Renseignez-vous en profondeur sur le mandat, les priorités récentes et la culture de l'organisation, et établissez un lien explicite avec vos propres valeurs et votre expérience. Évitez les éloges génériques qui pourraient s'appliquer à n'importe quelle institution similaire ; la précision témoigne d'un intérêt sincère."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-29",
+    "category": "Organization-specific",
+    "org_scope": "General",
+    "question": {
+      "en": "How does your background and experience align with this organization's mandate?",
+      "fr": "En quoi votre parcours et votre expérience correspondent-ils au mandat de cette organisation ?"
+    },
+    "tip": {
+      "en": "Draw explicit, specific links between your academic background or work experience and the organization's core focus areas, rather than leaving the connection implicit. Where relevant, mention a regional or sectoral focus that matches the organization's priorities.",
+      "fr": "Établissez des liens explicites et précis entre votre formation académique ou votre expérience professionnelle et les domaines d'action prioritaires de l'organisation, plutôt que de laisser ce lien implicite. Le cas échéant, mentionnez une spécialisation régionale ou sectorielle qui correspond aux priorités de l'organisation."
+    },
+    "label": "Practice Interview Question"
+  },
+  {
+    "id": "int-30",
+    "category": "Organization-specific",
+    "org_scope": "General",
+    "question": {
+      "en": "What do you think this organization could do better, and how would you contribute to that improvement?",
+      "fr": "Selon vous, que pourrait mieux faire cette organisation, et comment contribueriez-vous à cette amélioration ?"
+    },
+    "tip": {
+      "en": "Offer a thoughtful, well-informed critique rather than a harsh or uninformed one, and frame it constructively by linking it to a trend or challenge the organization itself has acknowledged. Then connect your own skills directly to how you could help address it.",
+      "fr": "Formulez une critique réfléchie et bien informée plutôt que sévère ou mal renseignée, en la présentant de façon constructive et en la reliant à une tendance ou un défi que l'organisation reconnaît elle-même. Reliez ensuite directement vos propres compétences à la façon dont vous pourriez contribuer à y répondre."
+    },
+    "label": "Practice Interview Question"
+  }
+]

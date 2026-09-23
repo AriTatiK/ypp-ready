@@ -1,0 +1,268 @@
+[
+  {
+    "id": "imf-1",
+    "category": "Organization Knowledge",
+    "org_scope": "IMF",
+    "title": {
+      "en": "What is the IMF?",
+      "fr": "Qu'est-ce que le FMI ?"
+    },
+    "simple_definition": {
+      "en": "The International Monetary Fund (IMF) is an international organization of 191 member countries whose core mandate is to foster global monetary cooperation, secure financial stability, and support orderly exchange arrangements, so that the international monetary system works for everyone. It does this by helping countries build sustainable growth and prosperity rather than by giving grants or setting trade tariffs.",
+      "fr": "Le Fonds monétaire international (FMI) est une organisation internationale regroupant 191 pays membres, dont la mission centrale est de favoriser la coopération monétaire mondiale, de préserver la stabilité financière et de soutenir des dispositifs de change ordonnés, afin que le système monétaire international fonctionne au bénéfice de tous. Il agit ainsi pour aider les pays à bâtir une croissance durable et partagée, et non en distribuant des subventions ou en fixant des droits de douane."
+    },
+    "why_it_matters": {
+      "en": [
+        "The IMF sits at the center of the international monetary system, monitoring exchange rates and financial stability so that crises in one country don't spread unchecked to others.",
+        "Its near-universal membership means it is one of the few forums where nearly every country's finance minister and central bank governor engage on shared economic rules.",
+        "Understanding its mandate distinguishes the IMF from other international financial institutions (like the World Bank, which focuses on long-term development financing) — a distinction YPP recruiters expect candidates to know."
+      ],
+      "fr": [
+        "Le FMI occupe une place centrale dans le système monétaire international : il surveille les taux de change et la stabilité financière afin qu'une crise dans un pays ne se propage pas sans contrôle aux autres.",
+        "Son caractère quasi universel en fait l'une des rares enceintes où presque tous les ministres des Finances et gouverneurs de banque centrale du monde dialoguent sur des règles économiques communes.",
+        "Bien comprendre son mandat permet de distinguer le FMI des autres institutions financières internationales (comme la Banque mondiale, qui se concentre sur le financement du développement à long terme) — une distinction que les recruteurs des programmes YPP attendent des candidats."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP interviewers routinely test whether candidates can accurately state the IMF's mandate versus that of sister institutions, so a precise, source-backed answer signals genuine preparation.",
+      "fr": "Les entretiens YPP testent régulièrement la capacité des candidats à énoncer avec précision le mandat du FMI par rapport à celui d'institutions sœurs ; une réponse précise et sourcée témoigne d'une préparation sérieuse."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which best describes the IMF's core mandate?",
+          "fr": "Quelle affirmation décrit le mieux le mandat central du FMI ?"
+        },
+        "options": [
+          {"key": "A", "en": "Promoting free trade agreements between countries", "fr": "Promouvoir des accords de libre-échange entre pays"},
+          {"key": "B", "en": "Fostering international monetary cooperation and exchange rate/financial stability", "fr": "Favoriser la coopération monétaire internationale et la stabilité des changes et du système financier"},
+          {"key": "C", "en": "Providing grants for large infrastructure projects", "fr": "Fournir des subventions pour de grands projets d'infrastructure"},
+          {"key": "D", "en": "Directly regulating national central banks", "fr": "Réglementer directement les banques centrales nationales"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The IMF's mandate, as stated on its official website, centers on international monetary cooperation and financial/exchange rate stability — it does not issue infrastructure grants or directly regulate central banks (that is closer to the World Bank's or national authorities' role).",
+          "fr": "Le mandat du FMI, tel qu'énoncé sur son site officiel, porte sur la coopération monétaire internationale et la stabilité financière et des changes — il ne délivre pas de subventions pour des infrastructures et ne réglemente pas directement les banques centrales (ce rôle relève davantage de la Banque mondiale ou des autorités nationales)."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "About the IMF (imf.org)", "url": "https://www.imf.org/en/About"},
+      {"title": "IMF at a Glance — Factsheet", "url": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "imf-2",
+    "category": "Organization Knowledge",
+    "org_scope": "IMF",
+    "title": {
+      "en": "What does the IMF do, and where does it operate?",
+      "fr": "Que fait le FMI, et où opère-t-il ?"
+    },
+    "simple_definition": {
+      "en": "The IMF works through three main activities — surveillance (monitoring economies and giving policy advice), lending (financial assistance to countries with balance-of-payments difficulties), and capacity development (technical assistance and training for governments). With 191 member countries, it operates on a near-universal basis, covering almost every economy in the world.",
+      "fr": "Le FMI mène trois grandes activités : la surveillance (suivi des économies et conseils de politique économique), le financement (assistance financière aux pays confrontés à des difficultés de balance des paiements) et le renforcement des capacités (assistance technique et formation aux administrations). Avec 191 pays membres, son champ d'action est quasi universel et couvre pratiquement toutes les économies du monde."
+    },
+    "why_it_matters": {
+      "en": [
+        "Surveillance (notably through annual Article IV consultations) gives the IMF an early-warning role across virtually the entire global economy.",
+        "Its lending function — backed by a lending capacity of roughly $1 trillion — makes it a first responder when member countries face balance-of-payments or liquidity crises.",
+        "Capacity development means much of the IMF's day-to-day work is technical and advisory, not just crisis lending — relevant for candidates interested in economist or policy-advisory roles."
+      ],
+      "fr": [
+        "La surveillance (notamment via les consultations annuelles au titre de l'article IV) confère au FMI un rôle d'alerte précoce sur la quasi-totalité de l'économie mondiale.",
+        "Sa fonction de financement — adossée à une capacité de prêt d'environ 1 000 milliards de dollars — en fait un acteur de première ligne lorsque des pays membres font face à des crises de balance des paiements ou de liquidité.",
+        "Le renforcement des capacités montre qu'une grande partie du travail quotidien du FMI est technique et consultatif, et pas uniquement lié au financement de crise — un point pertinent pour les candidats intéressés par des postes d'économiste ou de conseil en politiques publiques."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP case studies and interviews often probe which IMF function (surveillance, lending, or capacity development) applies to a given scenario, so being able to map real-world situations to these three pillars is a practical, testable skill.",
+      "fr": "Les études de cas et entretiens YPP demandent souvent d'identifier quelle fonction du FMI (surveillance, financement ou renforcement des capacités) s'applique à une situation donnée ; savoir relier un scénario concret à ces trois piliers est une compétence pratique et évaluée."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which of the following is NOT one of the IMF's three core activities?",
+          "fr": "Laquelle des propositions suivantes n'est PAS l'une des trois activités centrales du FMI ?"
+        },
+        "options": [
+          {"key": "A", "en": "Surveillance of member economies", "fr": "La surveillance des économies membres"},
+          {"key": "B", "en": "Financial assistance/lending", "fr": "L'assistance financière / le financement"},
+          {"key": "C", "en": "Capacity development and technical assistance", "fr": "Le renforcement des capacités et l'assistance technique"},
+          {"key": "D", "en": "Setting global trade tariffs", "fr": "La fixation des droits de douane à l'échelle mondiale"}
+        ],
+        "correct_answer": "D",
+        "explanation": {
+          "en": "Setting trade tariffs is not an IMF function — that falls under trade bodies like the WTO. The IMF's three pillars, per its official factsheets, are surveillance, financial assistance, and capacity development.",
+          "fr": "La fixation des droits de douane ne relève pas du FMI, mais d'organismes commerciaux comme l'OMC. Les trois piliers du FMI, selon ses fiches d'information officielles, sont la surveillance, l'assistance financière et le renforcement des capacités."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "About the IMF (imf.org)", "url": "https://www.imf.org/en/About"},
+      {"title": "IMF at a Glance — Factsheet", "url": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "imf-3",
+    "category": "Organization Knowledge",
+    "org_scope": "IMF",
+    "title": {
+      "en": "What are the IMF's current priorities?",
+      "fr": "Quelles sont les priorités actuelles du FMI ?"
+    },
+    "simple_definition": {
+      "en": "As set out in the Managing Director's Global Policy Agenda for the 2026 Spring Meetings (\"Managing Shocks and Transformations\"), the IMF is currently focused on helping members respond to overlapping economic shocks (such as conflict-related spillovers) while not losing sight of medium-term structural priorities — including public debt sustainability, labor markets, demographic change, and the economic impact of artificial intelligence and digital transformation.",
+      "fr": "D'après le Programme d'action mondial de la Directrice générale pour les Réunions de printemps 2026 (« Gérer les chocs et les transformations »), le FMI se concentre actuellement sur l'aide aux pays membres pour faire face à des chocs économiques qui se chevauchent (notamment les répercussions de conflits), sans perdre de vue les priorités structurelles à moyen terme : soutenabilité de la dette publique, marchés du travail, évolutions démographiques, et impact économique de l'intelligence artificielle et de la transformation numérique."
+    },
+    "why_it_matters": {
+      "en": [
+        "Priorities shift with global conditions — the current agenda reflects heightened geopolitical shocks (e.g., Middle East spillovers) and eroded international policy space, not just \"business as usual\" surveillance.",
+        "The explicit inclusion of AI, digital transformation, and demographic shifts shows the IMF increasingly treats structural/technological change as core macro-financial business, not a side topic.",
+        "Debt sustainability remains a headline concern, particularly for low-income and vulnerable economies — a recurring theme across IMF communications."
+      ],
+      "fr": [
+        "Les priorités évoluent avec la conjoncture mondiale : le programme actuel reflète l'intensification des chocs géopolitiques (par exemple les répercussions du conflit au Moyen-Orient) et l'érosion des marges de manœuvre en matière de coopération internationale, au-delà d'une simple surveillance de routine.",
+        "L'intégration explicite de l'intelligence artificielle, de la transformation numérique et des évolutions démographiques montre que le FMI considère désormais ces mutations structurelles et technologiques comme relevant du cœur de son mandat macrofinancier, et non comme un sujet périphérique.",
+        "La soutenabilité de la dette demeure une préoccupation majeure, en particulier pour les pays à faible revenu et les économies vulnérables — un thème récurrent dans les communications du FMI."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Interviewers expect YPP candidates to reference current, dated IMF priorities (not decade-old talking points) — citing the latest Global Policy Agenda shows you follow the institution's actual current work.",
+      "fr": "Les recruteurs attendent des candidats YPP qu'ils citent les priorités actuelles et datées du FMI (et non des éléments de langage vieux de dix ans) ; mentionner le dernier Programme d'action mondial démontre que vous suivez le travail réel et actuel de l'institution."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "According to the IMF's 2026 Global Policy Agenda, which of the following is highlighted as a medium-term structural priority alongside debt sustainability?",
+          "fr": "Selon le Programme d'action mondial du FMI pour 2026, laquelle des propositions suivantes est mise en avant comme priorité structurelle à moyen terme, aux côtés de la soutenabilité de la dette ?"
+        },
+        "options": [
+          {"key": "A", "en": "Colonial-era trade route management", "fr": "La gestion des routes commerciales de l'époque coloniale"},
+          {"key": "B", "en": "The economic impact of artificial intelligence and demographic change", "fr": "L'impact économique de l'intelligence artificielle et des évolutions démographiques"},
+          {"key": "C", "en": "Regulation of space exploration ventures", "fr": "La réglementation des projets d'exploration spatiale"},
+          {"key": "D", "en": "Standardizing national holiday calendars", "fr": "L'harmonisation des calendriers de jours fériés nationaux"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The Spring 2026 Global Policy Agenda explicitly names AI, labor markets, and demographic shifts among the medium-term priorities the IMF must keep addressing even amid immediate shocks.",
+          "fr": "Le Programme d'action mondial du printemps 2026 cite explicitement l'intelligence artificielle, les marchés du travail et les évolutions démographiques parmi les priorités à moyen terme que le FMI doit continuer de traiter, y compris en pleine gestion de chocs immédiats."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "The Managing Director's Global Policy Agenda, Spring Meetings 2026: Managing Shocks and Transformations", "url": "https://www.imf.org/en/publications/policy-papers/issues/2026/04/14/the-managing-director-s-global-policy-agenda-spring-meetings-2026-managing-shocks-and-575436"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "imf-4",
+    "category": "Organization Knowledge",
+    "org_scope": "IMF",
+    "title": {
+      "en": "How is the IMF governed?",
+      "fr": "Comment le FMI est-il gouverné ?"
+    },
+    "simple_definition": {
+      "en": "The IMF's highest authority is the Board of Governors, with one governor per member country (typically a finance minister or central bank head). Day-to-day oversight is delegated to a 25-member Executive Board representing the full membership, chaired by the Managing Director — who also heads the IMF staff and is supported by four Deputy Managing Directors. Voting power in these bodies is weighted by each country's quota.",
+      "fr": "L'instance suprême du FMI est le Conseil des gouverneurs, où chaque pays membre est représenté par un gouverneur (généralement un ministre des Finances ou un gouverneur de banque centrale). La supervision courante est confiée à un Conseil d'administration de 25 membres représentant l'ensemble des pays membres, présidé par la Directrice générale — qui dirige également les services du FMI et est appuyée par quatre directeurs généraux adjoints. Le pouvoir de vote au sein de ces instances est pondéré par la quote-part de chaque pays."
+    },
+    "why_it_matters": {
+      "en": [
+        "Quota-based voting means economic weight, not population or a one-country-one-vote system, largely determines influence — a frequent point of debate and reform (e.g., the 16th General Review of Quotas, approved December 2023, raised overall quotas by 50%).",
+        "The Managing Director role has historically been filled by a European under an informal convention, while an American traditionally heads the World Bank — a governance detail candidates should know when comparing the two institutions.",
+        "The Executive Board's day-to-day decision-making role (versus the Board of Governors' broader, less frequent oversight) mirrors governance structures found across many international organizations, making this a transferable concept."
+      ],
+      "fr": [
+        "Le vote pondéré par les quotes-parts signifie que le poids économique — et non la population ou le principe « un pays, une voix » — détermine largement l'influence de chaque pays, ce qui alimente régulièrement des débats sur la réforme de la gouvernance (par exemple, la 16ᵉ révision générale des quotes-parts, approuvée en décembre 2023, a relevé l'ensemble des quotes-parts de 50 %).",
+        "Le poste de Directeur général a traditionnellement été occupé par un ressortissant européen, selon une convention informelle, tandis qu'un Américain dirige traditionnellement la Banque mondiale — un détail de gouvernance utile pour comparer les deux institutions.",
+        "Le rôle décisionnel quotidien du Conseil d'administration (par opposition à la supervision plus large et moins fréquente du Conseil des gouverneurs) reflète des structures de gouvernance que l'on retrouve dans de nombreuses organisations internationales, ce qui en fait un concept transposable."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Governance questions (\"who decides what, and how much say does each country have\") are classic YPP interview territory, and quota-weighted voting is one of the most distinctive, testable facts about the IMF specifically.",
+      "fr": "Les questions de gouvernance (« qui décide de quoi, et quel poids a chaque pays ? ») sont un grand classique des entretiens YPP, et le vote pondéré par les quotes-parts est l'un des éléments les plus distinctifs et les plus souvent testés à propos du FMI."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "What primarily determines a member country's voting power at the IMF?",
+          "fr": "Qu'est-ce qui détermine principalement le pouvoir de vote d'un pays membre au FMI ?"
+        },
+        "options": [
+          {"key": "A", "en": "Its population size", "fr": "Sa population"},
+          {"key": "B", "en": "The number of years it has been a member", "fr": "Son ancienneté en tant que pays membre"},
+          {"key": "C", "en": "Its quota, which reflects its relative position in the world economy", "fr": "Sa quote-part, qui reflète sa position relative dans l'économie mondiale"},
+          {"key": "D", "en": "A strict one-country-one-vote system", "fr": "Un système strict d'une voix par pays"}
+        ],
+        "correct_answer": "C",
+        "explanation": {
+          "en": "Per the IMF's official quotas factsheet, quotas — expressed in SDRs and based on a country's relative economic weight — determine both financial contributions and voting power, not population or tenure.",
+          "fr": "Selon la fiche d'information officielle du FMI sur les quotes-parts, celles-ci — exprimées en DTS et fondées sur le poids économique relatif de chaque pays — déterminent à la fois les contributions financières et le pouvoir de vote, et non la population ou l'ancienneté."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "IMF Quotas — Factsheet", "url": "https://www.imf.org/en/about/factsheets/sheets/2022/imf-quotas"},
+      {"title": "IMF at a Glance — Factsheet", "url": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance"},
+      {"title": "Statement by Kristalina Georgieva on Her Second Term as IMF Managing Director", "url": "https://www.imf.org/en/news/articles/2024/04/12/pr24114-statement-by-kristalina-georgieva-on-her-second-term-as-imf-managing-director"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "imf-5",
+    "category": "Organization Knowledge",
+    "org_scope": "IMF",
+    "title": {
+      "en": "How does the IMF finance and lend?",
+      "fr": "Comment le FMI se finance-t-il et prête-t-il ?"
+    },
+    "simple_definition": {
+      "en": "The IMF's resources come mainly from member countries' quotas, denominated in Special Drawing Rights (SDRs), the IMF's own accounting/reserve asset. From its General Resources Account, it lends through non-concessional facilities like the Stand-By Arrangement (SBA, up to ~3 years, for short-term balance-of-payments needs) and the Extended Fund Facility (EFF, up to 4 years, for deeper structural issues). For low-income countries, concessional lending is channeled through the Poverty Reduction and Growth Trust (PRGT), which includes facilities such as the Standby Credit Facility (SCF) and Extended Credit Facility (ECF).",
+      "fr": "Les ressources du FMI proviennent principalement des quotes-parts des pays membres, exprimées en droits de tirage spéciaux (DTS), l'unité de compte et actif de réserve propre au FMI. À partir de son Compte des ressources générales, l'institution prête via des mécanismes non concessionnels tels que l'accord de confirmation (Stand-By Arrangement, SBA — jusqu'à environ 3 ans, pour des besoins de balance des paiements à court terme) et le mécanisme élargi de crédit (Extended Fund Facility, EFF — jusqu'à 4 ans, pour des difficultés structurelles plus profondes). Pour les pays à faible revenu, les financements concessionnels transitent par le Fonds fiduciaire pour la réduction de la pauvreté et pour la croissance (FRPC/PRGT), qui comprend des mécanismes tels que la facilité de crédit de confirmation (SCF) et la facilité de crédit élargie (ECF)."
+    },
+    "why_it_matters": {
+      "en": [
+        "Because quotas are the main funding source, the 16th General Review of Quotas (a 50% overall increase approved in December 2023) directly affects how much lending capacity the IMF has going forward.",
+        "The distinction between GRA-funded facilities (SBA, EFF) and PRGT-funded facilities matters because it reflects a two-track system: near-market-based lending for most members versus concessional, low-interest lending specifically for low-income countries.",
+        "The IMF's total lending capacity is roughly $1 trillion, and SDR allocations (global allocations of around $293 billion) supplement countries' own reserves — useful concrete figures for interviews, while remembering exact numbers change over time and should be checked against current IMF publications."
+      ],
+      "fr": [
+        "Les quotes-parts étant la principale source de financement, la 16ᵉ révision générale des quotes-parts (une hausse globale de 50 % approuvée en décembre 2023) a un effet direct sur la capacité de prêt future du FMI.",
+        "La distinction entre les mécanismes financés par le Compte des ressources générales (SBA, EFF) et ceux financés par le PRGT est importante car elle reflète un système à deux vitesses : des prêts proches des conditions de marché pour la plupart des pays membres, et des prêts concessionnels à taux d'intérêt réduit réservés aux pays à faible revenu.",
+        "La capacité de prêt totale du FMI avoisine 1 000 milliards de dollars, et les allocations de DTS (environ 293 milliards de dollars au niveau mondial) viennent compléter les réserves propres des pays — des chiffres concrets utiles en entretien, à condition de garder à l'esprit qu'ils évoluent dans le temps et doivent être vérifiés auprès des publications récentes du FMI."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP roles in economics, finance, or research often require distinguishing lending facilities correctly (e.g., \"which facility would apply to a low-income country facing a balance-of-payments shock?\"), so knowing the SBA/EFF/PRGT distinction cold is directly useful.",
+      "fr": "Les postes YPP en économie, finance ou recherche exigent souvent de distinguer correctement les mécanismes de financement (par exemple, « quel mécanisme s'appliquerait à un pays à faible revenu confronté à un choc de balance des paiements ? ») ; maîtriser la distinction entre SBA, EFF et PRGT est donc directement utile."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which IMF lending facility is designed for medium-term balance-of-payments problems requiring structural reforms, with arrangements lasting up to 4 years?",
+          "fr": "Quel mécanisme de financement du FMI est conçu pour des problèmes de balance des paiements à moyen terme nécessitant des réformes structurelles, avec des accords pouvant durer jusqu'à 4 ans ?"
+        },
+        "options": [
+          {"key": "A", "en": "Stand-By Arrangement (SBA)", "fr": "L'accord de confirmation (SBA)"},
+          {"key": "B", "en": "Extended Fund Facility (EFF)", "fr": "Le mécanisme élargi de crédit (EFF)"},
+          {"key": "C", "en": "Poverty Reduction and Growth Trust (PRGT)", "fr": "Le Fonds fiduciaire pour la réduction de la pauvreté et pour la croissance (PRGT)"},
+          {"key": "D", "en": "A Special Drawing Rights (SDR) allocation", "fr": "Une allocation de droits de tirage spéciaux (DTS)"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The Extended Fund Facility (EFF) specifically targets protracted balance-of-payments problems tied to structural weaknesses, with arrangements of up to 4 years — longer than the SBA's typical 12-18 months (max ~3 years) and distinct from the PRGT, which is reserved for low-income countries' concessional financing.",
+          "fr": "Le mécanisme élargi de crédit (EFF) cible spécifiquement les problèmes de balance des paiements durables liés à des faiblesses structurelles, avec des accords pouvant aller jusqu'à 4 ans — plus longs que la durée habituelle du SBA (12 à 18 mois, jusqu'à environ 3 ans) et distincts du PRGT, réservé au financement concessionnel des pays à faible revenu."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "IMF Lending — Factsheet", "url": "https://www.imf.org/en/about/factsheets/imf-lending"},
+      {"title": "IMF Quotas — Factsheet", "url": "https://www.imf.org/en/about/factsheets/sheets/2022/imf-quotas"},
+      {"title": "IMF at a Glance — Factsheet", "url": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance"}
+    ],
+    "last_updated": "2026-08-25"
+  }
+]

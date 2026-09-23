@@ -1,0 +1,32 @@
+# Render "Blueprint" for YPPReady — https://render.com/docs/blueprint-spec
+#
+# This deploys the Next.js app as a free web service. The database itself is
+# NOT hosted by Render (the free plan has no persistent disk) — it lives on
+# Turso (a free hosted SQLite-compatible database), configured via the
+# TURSO_DATABASE_URL / TURSO_AUTH_TOKEN environment variables below.
+#
+# On the Render dashboard: New -> Blueprint -> connect this repo -> Render
+# reads this file and creates the service. You will be prompted to fill in
+# the "sync: false" variables by hand (they are secrets, not stored in git).
+#
+# See README.md "Deploying YPPReady online" for the full step-by-step guide.
+
+services:
+  - type: web
+    name: yppready
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NEXT_TELEMETRY_DISABLED
+        value: "1"
+      - key: SESSION_SECRET
+        sync: false
+      - key: TURSO_DATABASE_URL
+        sync: false
+      - key: TURSO_AUTH_TOKEN
+        sync: false

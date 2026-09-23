@@ -1,0 +1,482 @@
+[
+  {
+    "id": "num-1",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Percentages",
+    "difficulty": "Easy",
+    "question": {
+      "en": "A national budget totals $80 million. If the education sector receives 15% of this budget, how much funding, in dollars, does the education sector receive?",
+      "fr": "Le budget national total s'élève à 80 millions de dollars. Si le secteur de l'éducation reçoit 15 % de ce budget, quel montant, en dollars, ce secteur reçoit-il ?"
+    },
+    "options": [
+      {"key": "A", "en": "$10 million", "fr": "10 millions de dollars"},
+      {"key": "B", "en": "$12 million", "fr": "12 millions de dollars"},
+      {"key": "C", "en": "$14 million", "fr": "14 millions de dollars"},
+      {"key": "D", "en": "$16 million", "fr": "16 millions de dollars"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "15% of $80 million = 0.15 x 80 = $12 million. The education sector receives $12 million.",
+      "fr": "15 % de 80 millions de dollars = 0,15 x 80 = 12 millions de dollars. Le secteur de l'éducation reçoit donc 12 millions de dollars."
+    },
+    "skill_tested": {"en": "Percentage calculation", "fr": "Calcul de pourcentage"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-2",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Ratios",
+    "difficulty": "Easy",
+    "question": {
+      "en": "A development bank disburses funds to loans and grants in the ratio 3:2. If total disbursements amount to $50 million, how much is allocated to loans?",
+      "fr": "Une banque de développement répartit ses décaissements entre prêts et subventions selon un ratio de 3:2. Si le montant total décaissé s'élève à 50 millions de dollars, quelle part est consacrée aux prêts ?"
+    },
+    "options": [
+      {"key": "A", "en": "$20 million", "fr": "20 millions de dollars"},
+      {"key": "B", "en": "$25 million", "fr": "25 millions de dollars"},
+      {"key": "C", "en": "$30 million", "fr": "30 millions de dollars"},
+      {"key": "D", "en": "$35 million", "fr": "35 millions de dollars"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "The ratio 3:2 divides the total into 3+2=5 equal parts. Each part = $50M / 5 = $10M. Loans correspond to 3 parts = 3 x $10M = $30 million.",
+      "fr": "Le ratio 3:2 divise le total en 3+2 = 5 parts égales. Chaque part vaut 50 M$ / 5 = 10 M$. Les prêts correspondent à 3 parts, soit 3 x 10 M$ = 30 millions de dollars."
+    },
+    "skill_tested": {"en": "Ratio and proportion", "fr": "Ratios et proportions"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-3",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Averages",
+    "difficulty": "Easy",
+    "question": {
+      "en": "A country's GDP growth rates over four consecutive years were 2%, 3%, 5%, and 6%. What was the average annual growth rate over this period?",
+      "fr": "Les taux de croissance du PIB d'un pays au cours de quatre années consécutives ont été de 2 %, 3 %, 5 % et 6 %. Quel a été le taux de croissance annuel moyen sur cette période ?"
+    },
+    "options": [
+      {"key": "A", "en": "3.5%", "fr": "3,5 %"},
+      {"key": "B", "en": "4%", "fr": "4 %"},
+      {"key": "C", "en": "4.5%", "fr": "4,5 %"},
+      {"key": "D", "en": "5%", "fr": "5 %"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Average = (2 + 3 + 5 + 6) / 4 = 16 / 4 = 4%.",
+      "fr": "Moyenne = (2 + 3 + 5 + 6) / 4 = 16 / 4 = 4 %."
+    },
+    "skill_tested": {"en": "Calculating averages", "fr": "Calcul de moyennes"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-4",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Data trends",
+    "difficulty": "Easy",
+    "question": {
+      "en": "A country's exports rose from $40 million to $50 million over one year. What was the percentage increase in exports?",
+      "fr": "Les exportations d'un pays sont passées de 40 millions à 50 millions de dollars en un an. Quelle a été l'augmentation en pourcentage des exportations ?"
+    },
+    "options": [
+      {"key": "A", "en": "20%", "fr": "20 %"},
+      {"key": "B", "en": "25%", "fr": "25 %"},
+      {"key": "C", "en": "30%", "fr": "30 %"},
+      {"key": "D", "en": "40%", "fr": "40 %"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Increase = 50 - 40 = 10. Percentage increase = (10 / 40) x 100 = 25%. Note that dividing by the new value (10/50 = 20%) instead of the original value is a common error.",
+      "fr": "Augmentation = 50 - 40 = 10. Pourcentage d'augmentation = (10 / 40) x 100 = 25 %. Diviser par la valeur finale (10/50 = 20 %) au lieu de la valeur initiale est une erreur courante."
+    },
+    "skill_tested": {"en": "Percentage change", "fr": "Variation en pourcentage"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-5",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Percentages",
+    "difficulty": "Medium",
+    "question": {
+      "en": "A country's annual inflation rate was 8% last year. This year, the inflation rate is projected to decrease by 25% relative to last year's rate. What is this year's projected inflation rate?",
+      "fr": "Le taux d'inflation annuel d'un pays était de 8 % l'an dernier. Cette année, ce taux devrait diminuer de 25 % par rapport à celui de l'année précédente. Quel est le taux d'inflation prévu cette année ?"
+    },
+    "options": [
+      {"key": "A", "en": "5%", "fr": "5 %"},
+      {"key": "B", "en": "5.5%", "fr": "5,5 %"},
+      {"key": "C", "en": "6%", "fr": "6 %"},
+      {"key": "D", "en": "6.5%", "fr": "6,5 %"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "A 25% relative decrease means the new rate equals 75% of the old rate: 8% x 0.75 = 6%.",
+      "fr": "Une diminution relative de 25 % signifie que le nouveau taux correspond à 75 % de l'ancien : 8 % x 0,75 = 6 %."
+    },
+    "skill_tested": {"en": "Successive percentage change", "fr": "Variations de pourcentage successives"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-6",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "GDP/Economic calculations",
+    "difficulty": "Medium",
+    "question": {
+      "en": "A country's GDP is currently $200 billion. It grows by 4% in the first year and by 5% in the second year. What is the GDP at the end of the second year (to one decimal place)?",
+      "fr": "Le PIB d'un pays s'élève actuellement à 200 milliards de dollars. Il augmente de 4 % la première année, puis de 5 % la seconde année. Quel est le PIB à la fin de la deuxième année (à une décimale près) ?"
+    },
+    "options": [
+      {"key": "A", "en": "$209.0 billion", "fr": "209,0 milliards de dollars"},
+      {"key": "B", "en": "$216.0 billion", "fr": "216,0 milliards de dollars"},
+      {"key": "C", "en": "$218.4 billion", "fr": "218,4 milliards de dollars"},
+      {"key": "D", "en": "$220.5 billion", "fr": "220,5 milliards de dollars"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "After year 1: $200B x 1.04 = $208B. After year 2: $208B x 1.05 = $218.4B. Growth rates must be compounded sequentially, not simply added.",
+      "fr": "Après la première année : 200 Md$ x 1,04 = 208 Md$. Après la deuxième année : 208 Md$ x 1,05 = 218,4 Md$. Les taux de croissance doivent être composés successivement, et non simplement additionnés."
+    },
+    "skill_tested": {"en": "Compound growth calculation", "fr": "Calcul de croissance composée"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-7",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Averages",
+    "difficulty": "Medium",
+    "question": {
+      "en": "In a Young Professionals Program cohort, 60 candidates come from Region A with an average test score of 72, and 40 candidates come from Region B with an average score of 78. What is the overall average score of the cohort?",
+      "fr": "Dans une cohorte du programme des jeunes professionnels, 60 candidats viennent de la région A avec un score moyen de 72, et 40 candidats viennent de la région B avec un score moyen de 78. Quel est le score moyen global de la cohorte ?"
+    },
+    "options": [
+      {"key": "A", "en": "73.8", "fr": "73,8"},
+      {"key": "B", "en": "74.4", "fr": "74,4"},
+      {"key": "C", "en": "75", "fr": "75"},
+      {"key": "D", "en": "76", "fr": "76"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Weighted average = (60x72 + 40x78) / 100 = (4320 + 3120) / 100 = 7440 / 100 = 74.4. Simply averaging 72 and 78 to get 75 ignores the different group sizes.",
+      "fr": "Moyenne pondérée = (60x72 + 40x78) / 100 = (4320 + 3120) / 100 = 7440 / 100 = 74,4. Faire simplement la moyenne de 72 et 78 pour obtenir 75 revient à ignorer la différence de taille des groupes."
+    },
+    "skill_tested": {"en": "Weighted averages", "fr": "Moyennes pondérées"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-8",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Percentages",
+    "difficulty": "Hard",
+    "question": {
+      "en": "After a 20% pay cut, an employee's monthly salary is $3,200. What was the employee's original monthly salary before the cut?",
+      "fr": "Après une réduction de salaire de 20 %, le salaire mensuel d'un employé s'élève à 3 200 dollars. Quel était le salaire mensuel initial de cet employé avant la réduction ?"
+    },
+    "options": [
+      {"key": "A", "en": "$3,600", "fr": "3 600 dollars"},
+      {"key": "B", "en": "$3,840", "fr": "3 840 dollars"},
+      {"key": "C", "en": "$4,000", "fr": "4 000 dollars"},
+      {"key": "D", "en": "$4,200", "fr": "4 200 dollars"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "$3,200 represents 80% of the original salary (100% - 20%). Original salary = $3,200 / 0.8 = $4,000. Simply adding 20% back to $3,200 (giving $3,840) is a common but incorrect shortcut, since the 20% cut was applied to the original, larger salary, not to $3,200.",
+      "fr": "3 200 $ représente 80 % du salaire initial (100 % - 20 %). Salaire initial = 3 200 $ / 0,8 = 4 000 $. Ajouter simplement 20 % à 3 200 $ (ce qui donne 3 840 $) est un raccourci courant mais erroné, car la réduction de 20 % s'est appliquée au salaire initial, plus élevé, et non à 3 200 $."
+    },
+    "skill_tested": {"en": "Reverse percentage calculation", "fr": "Calcul de pourcentage inverse"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-9",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "GDP/Economic calculations",
+    "difficulty": "Hard",
+    "question": {
+      "en": "A country's GDP is currently $150 billion. Policymakers aim to reach a GDP of $200 billion in exactly 3 years through a constant annual growth rate. Approximately what annual growth rate is required?",
+      "fr": "Le PIB d'un pays s'élève actuellement à 150 milliards de dollars. Les décideurs souhaitent atteindre un PIB de 200 milliards de dollars en exactement 3 ans, avec un taux de croissance annuel constant. Quel taux de croissance annuel est approximativement nécessaire ?"
+    },
+    "options": [
+      {"key": "A", "en": "8%", "fr": "8 %"},
+      {"key": "B", "en": "10%", "fr": "10 %"},
+      {"key": "C", "en": "12%", "fr": "12 %"},
+      {"key": "D", "en": "15%", "fr": "15 %"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "We need (1+r)^3 = 200/150 = 1.333. Taking the cube root: 1+r = 1.333^(1/3) = 1.1006, so r = 10.06%, which rounds to approximately 10%. Dividing the total required growth (33.3%) by 3 years (giving 11.1%) ignores compounding and is not the correct method.",
+      "fr": "Il faut que (1+r)^3 = 200/150 = 1,333. En prenant la racine cubique : 1+r = 1,333^(1/3) = 1,1006, donc r = 10,06 %, soit environ 10 %. Diviser simplement la croissance totale requise (33,3 %) par 3 ans (ce qui donnerait 11,1 %) ignore l'effet de la composition et n'est pas la méthode correcte."
+    },
+    "skill_tested": {"en": "Compound annual growth rate (CAGR)", "fr": "Taux de croissance annuel composé (TCAC)"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "num-10",
+    "organization_scope": "General",
+    "category": "Numerical Reasoning",
+    "subcategory": "Percentages",
+    "difficulty": "Hard",
+    "question": {
+      "en": "In a survey on a proposed policy, 40% of respondents support the policy. Among the remaining respondents who do not support it, 25% are undecided and the rest oppose it. What percentage of all respondents oppose the policy?",
+      "fr": "Dans une enquête sur une politique proposée, 40 % des répondants soutiennent cette politique. Parmi les répondants restants qui ne la soutiennent pas, 25 % sont indécis et le reste s'y oppose. Quel pourcentage de l'ensemble des répondants s'oppose à la politique ?"
+    },
+    "options": [
+      {"key": "A", "en": "40%", "fr": "40 %"},
+      {"key": "B", "en": "45%", "fr": "45 %"},
+      {"key": "C", "en": "50%", "fr": "50 %"},
+      {"key": "D", "en": "55%", "fr": "55 %"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Respondents who do not support the policy = 100% - 40% = 60%. Of these, 75% oppose it (since 25% are undecided): 0.75 x 60% = 45%.",
+      "fr": "Les répondants qui ne soutiennent pas la politique représentent 100 % - 40 % = 60 %. Parmi eux, 75 % s'y opposent (puisque 25 % sont indécis) : 0,75 x 60 % = 45 %."
+    },
+    "skill_tested": {"en": "Multi-step percentage reasoning", "fr": "Raisonnement en pourcentage à plusieurs étapes"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-1",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Sentence completion",
+    "difficulty": "Easy",
+    "question": {
+      "en": "The committee first received the proposal with ______, but it was eventually approved after several rounds of revisions.",
+      "fr": "Le comité a d'abord accueilli la proposition avec ______, mais celle-ci a fini par être approuvée après plusieurs séries de révisions."
+    },
+    "options": [
+      {"key": "A", "en": "reluctance", "fr": "réticence"},
+      {"key": "B", "en": "enthusiasm", "fr": "enthousiasme"},
+      {"key": "C", "en": "ratification", "fr": "ratification"},
+      {"key": "D", "en": "indifference", "fr": "indifférence"}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The word 'but' signals a contrast between the committee's initial attitude and the final outcome (approval after revisions). This implies the committee was initially hesitant or opposed, making 'reluctance' the logical choice. 'Enthusiasm' would not require revisions or contrast with approval. 'Ratification' means formal approval, which does not fit as an initial attitude that precedes further revisions. 'Indifference' would not typically prompt several rounds of revisions, so it creates less coherent contrast than reluctance.",
+      "fr": "Le mot « mais » introduit un contraste entre l'attitude initiale du comité et le résultat final (l'approbation après révisions). Cela suggère que le comité était d'abord hésitant ou opposé, ce qui correspond à « réticence ». « Enthousiasme » n'exigerait pas de révisions ni de contraste avec l'approbation. « Ratification » désigne une approbation formelle, ce qui ne correspond pas à une attitude initiale précédant d'autres révisions. « Indifférence » n'entraînerait normalement pas plusieurs séries de révisions, ce qui rend le contraste moins cohérent que « réticence »."
+    },
+    "skill_tested": {"en": "Sentence completion / vocabulary in context", "fr": "Achèvement de phrases / vocabulaire en contexte"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-2",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Analogies",
+    "difficulty": "Easy",
+    "question": {
+      "en": "Deficit is to Surplus as Scarcity is to ______.",
+      "fr": "Déficit est à Excédent ce que Pénurie est à ______."
+    },
+    "options": [
+      {"key": "A", "en": "Abundance", "fr": "Abondance"},
+      {"key": "B", "en": "Shortage", "fr": "Manque"},
+      {"key": "C", "en": "Poverty", "fr": "Pauvreté"},
+      {"key": "D", "en": "Demand", "fr": "Demande"}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "A deficit and a surplus are direct opposites (a shortfall versus an excess). Similarly, scarcity (a lack of something) is the opposite of abundance (a large supply of something). 'Shortage' is a synonym of scarcity, not its opposite. 'Poverty' and 'demand' are related economic concepts but are not opposites of scarcity.",
+      "fr": "Un déficit et un excédent sont des opposés directs (un manque par rapport à un surplus). De la même manière, la pénurie (l'absence d'une ressource) est l'opposé de l'abondance (une grande disponibilité de cette ressource). « Manque » est un synonyme de pénurie et non son contraire. « Pauvreté » et « demande » sont des notions économiques liées, mais ne sont pas les opposés de la pénurie."
+    },
+    "skill_tested": {"en": "Verbal analogies", "fr": "Analogies verbales"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-3",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Sentence completion",
+    "difficulty": "Easy",
+    "question": {
+      "en": "The report's conclusions rested on ______ evidence, which made them difficult for reviewers to challenge.",
+      "fr": "Les conclusions du rapport reposaient sur des éléments de preuve ______, ce qui les rendait difficiles à contester pour les examinateurs."
+    },
+    "options": [
+      {"key": "A", "en": "substantial", "fr": "substantiels"},
+      {"key": "B", "en": "negligible", "fr": "négligeables"},
+      {"key": "C", "en": "anecdotal", "fr": "anecdotiques"},
+      {"key": "D", "en": "dubious", "fr": "douteux"}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The phrase 'difficult for reviewers to challenge' implies the evidence was strong and convincing. 'Substantial' (considerable, solid) fits this meaning. 'Negligible' and 'dubious' would make the conclusions easy to challenge, not hard. 'Anecdotal' evidence (based on isolated personal accounts) is generally considered weak and would also be easy to challenge.",
+      "fr": "L'expression « difficiles à contester » suppose que les éléments de preuve étaient solides et convaincants. « Substantiels » (considérables, solides) correspond à ce sens. « Négligeables » et « douteux » rendraient au contraire les conclusions faciles à contester. Des éléments « anecdotiques » (fondés sur des témoignages isolés) sont généralement considérés comme faibles et donc également faciles à contester."
+    },
+    "skill_tested": {"en": "Sentence completion / vocabulary in context", "fr": "Achèvement de phrases / vocabulaire en contexte"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-4",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Critical reasoning",
+    "difficulty": "Easy",
+    "question": {
+      "en": "Every country that ratifies the treaty receives technical assistance funding. Country X did not receive technical assistance funding. Based on this information, which conclusion is best supported?",
+      "fr": "Tout pays qui ratifie le traité reçoit une aide technique financière. Le pays X n'a pas reçu d'aide technique financière. Sur la base de cette information, quelle conclusion est la mieux étayée ?"
+    },
+    "options": [
+      {"key": "A", "en": "Country X did not ratify the treaty.", "fr": "Le pays X n'a pas ratifié le traité."},
+      {"key": "B", "en": "Country X ratified the treaty.", "fr": "Le pays X a ratifié le traité."},
+      {"key": "C", "en": "Country X is not eligible for the treaty.", "fr": "Le pays X n'est pas éligible au traité."},
+      {"key": "D", "en": "No conclusion can be drawn from this information.", "fr": "Aucune conclusion ne peut être tirée de cette information."}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The statement establishes a conditional rule: ratifying the treaty leads to receiving funding. Country X did not receive funding, so by the logical contrapositive (not receiving funding implies not ratifying), we can conclude Country X did not ratify the treaty. Option B directly contradicts the given information. Option C introduces information (eligibility) not stated in the passage. Option D is incorrect because a valid logical conclusion can indeed be drawn using contraposition.",
+      "fr": "L'énoncé établit une règle conditionnelle : ratifier le traité entraîne la réception d'une aide. Le pays X n'a pas reçu d'aide, donc par contraposée logique (ne pas recevoir d'aide implique ne pas avoir ratifié), on peut conclure que le pays X n'a pas ratifié le traité. L'option B contredit directement l'information donnée. L'option C introduit une notion (l'éligibilité) non mentionnée dans le texte. L'option D est incorrecte, car une conclusion logique valide peut effectivement être tirée par contraposée."
+    },
+    "skill_tested": {"en": "Deductive / logical reasoning", "fr": "Raisonnement déductif / logique"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-5",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Reading comprehension",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Read the passage, then answer the question.\n\n\"Multilateral development banks have increasingly emphasized climate finance, allocating a growing share of their portfolios to renewable energy and adaptation projects. Critics argue that this shift, while environmentally necessary, risks crowding out funding for traditional infrastructure needs such as roads and water systems in the poorest countries, which often lack the capacity to attract private climate investment.\"\n\nAccording to the passage, critics are primarily concerned that increased climate finance might:",
+      "fr": "Lisez le texte, puis répondez à la question.\n\n« Les banques multilatérales de développement accordent une place croissante au financement climatique, consacrant une part de plus en plus importante de leurs portefeuilles aux projets d'énergies renouvelables et d'adaptation. Certains critiques estiment que cette évolution, bien que nécessaire sur le plan environnemental, risque d'évincer le financement des besoins traditionnels en infrastructures, comme les routes et les réseaux d'eau, dans les pays les plus pauvres, qui peinent souvent à attirer des investissements climatiques privés. »\n\nSelon le texte, les critiques craignent principalement que l'augmentation du financement climatique :"
+    },
+    "options": [
+      {"key": "A", "en": "increase carbon emissions in developing countries.", "fr": "n'accroisse les émissions de carbone dans les pays en développement."},
+      {"key": "B", "en": "reduce funding available for traditional infrastructure in the poorest countries.", "fr": "ne réduise le financement disponible pour les infrastructures traditionnelles dans les pays les plus pauvres."},
+      {"key": "C", "en": "discourage private investment in renewable energy.", "fr": "ne décourage l'investissement privé dans les énergies renouvelables."},
+      {"key": "D", "en": "have no measurable effect on infrastructure funding.", "fr": "n'ait aucun effet mesurable sur le financement des infrastructures."}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The passage states that critics worry the shift toward climate finance 'risks crowding out funding for traditional infrastructure needs... in the poorest countries.' This directly supports option B. Option A is not mentioned; the passage does not discuss emissions increasing. Option C misstates the concern, which is about reduced infrastructure funding, not discouraged private climate investment. Option D contradicts the passage, which explicitly describes a risk of reduced funding, not 'no effect.'",
+      "fr": "Le texte indique que les critiques craignent que l'évolution vers le financement climatique « risque d'évincer le financement des besoins traditionnels en infrastructures... dans les pays les plus pauvres ». Cela correspond directement à l'option B. L'option A n'est pas mentionnée ; le texte n'aborde pas une hausse des émissions. L'option C dénature la préoccupation exprimée, qui porte sur la réduction du financement des infrastructures, et non sur un investissement climatique privé découragé. L'option D contredit le texte, qui évoque explicitement un risque de réduction du financement, et non une absence d'effet."
+    },
+    "skill_tested": {"en": "Reading comprehension", "fr": "Compréhension de texte"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-6",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Sentence completion",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Despite hours of talks, the negotiations were marked by ______ compromise, as both delegations proved ______ to abandon their core demands.",
+      "fr": "Malgré des heures de discussions, les négociations n'ont abouti qu'à un compromis ______, les deux délégations s'étant montrées ______ à abandonner leurs revendications essentielles."
+    },
+    "options": [
+      {"key": "A", "en": "frequent compromise, eager delegations", "fr": "compromis fréquent, délégations désireuses"},
+      {"key": "B", "en": "minimal compromise, reluctant delegations", "fr": "compromis minime, délégations réticentes"},
+      {"key": "C", "en": "extensive compromise, willing delegations", "fr": "compromis important, délégations disposées"},
+      {"key": "D", "en": "minimal compromise, willing delegations", "fr": "compromis minime, délégations disposées"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "'Despite hours of talks' signals that, in spite of significant effort, little progress was made. This fits with 'minimal compromise' and delegations being 'reluctant' to abandon their demands - both blanks must be internally consistent and match the contrast set up by 'despite.' Options C and D pair 'willing' with 'extensive' or 'minimal' respectively, but 'willing' contradicts the idea that little was achieved despite lengthy talks. Option A ('frequent compromise, eager') describes a successful negotiation, which contradicts the implied disappointment of 'despite hours of talks.'",
+      "fr": "« Malgré des heures de discussions » indique que, malgré un effort important, peu de progrès a été réalisé. Cela correspond à un « compromis minime » et à des délégations « réticentes » à abandonner leurs revendications - les deux éléments doivent être cohérents entre eux et refléter le contraste introduit par « malgré ». Les options C et D associent « disposées » à « important » ou « minime », mais « disposées » contredit l'idée que peu a été obtenu malgré de longues discussions. L'option A (« compromis fréquent, désireuses ») décrit une négociation réussie, ce qui contredit la déception implicite de « malgré des heures de discussions »."
+    },
+    "skill_tested": {"en": "Sentence completion / contextual logic", "fr": "Achèvement de phrases / logique contextuelle"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-7",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Critical reasoning",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Read the passage, then answer the question.\n\n\"A study found that countries with higher rates of internet penetration also show higher youth employment rates. The study's authors concluded that expanding internet access causes reductions in youth unemployment.\"\n\nWhich of the following, if true, would most weaken the study's conclusion?",
+      "fr": "Lisez le texte, puis répondez à la question.\n\n« Une étude a révélé que les pays affichant des taux plus élevés de pénétration d'Internet présentent également des taux d'emploi des jeunes plus élevés. Les auteurs de l'étude en ont conclu que l'expansion de l'accès à Internet entraîne une baisse du chômage des jeunes. »\n\nLaquelle des propositions suivantes, si elle est vraie, affaiblirait le plus la conclusion de l'étude ?"
+    },
+    "options": [
+      {"key": "A", "en": "Countries with higher internet penetration tend to have stronger overall economies, which independently drive both greater internet access and higher youth employment.", "fr": "Les pays où la pénétration d'Internet est plus élevée ont tendance à avoir des économies globalement plus solides, ce qui favorise indépendamment à la fois un meilleur accès à Internet et un taux d'emploi des jeunes plus élevé."},
+      {"key": "B", "en": "Some countries with low internet penetration also have low youth unemployment.", "fr": "Certains pays à faible pénétration d'Internet affichent également un faible taux de chômage des jeunes."},
+      {"key": "C", "en": "Internet penetration has grown faster in urban areas than in rural areas.", "fr": "La pénétration d'Internet a progressé plus rapidement dans les zones urbaines que dans les zones rurales."},
+      {"key": "D", "en": "The study included data from thirty countries collected over ten years.", "fr": "L'étude a porté sur des données provenant de trente pays, collectées sur dix ans."}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The study's conclusion assumes that internet access causes lower youth unemployment, based only on a correlation between the two. Option A identifies a third factor (a stronger overall economy) that could independently explain both higher internet penetration and higher youth employment, undermining the claim of direct causation. Option B is a counterexample that does not directly address the proposed causal mechanism. Option C describes a pattern of internet growth but does not address the causal claim. Option D describes the study's scope, which neither weakens nor strengthens the causal claim itself.",
+      "fr": "La conclusion de l'étude suppose que l'accès à Internet entraîne une baisse du chômage des jeunes, en se fondant uniquement sur une corrélation entre les deux phénomènes. L'option A identifie un troisième facteur (une économie globalement plus solide) qui pourrait expliquer indépendamment à la fois une pénétration Internet plus élevée et un meilleur emploi des jeunes, ce qui affaiblit l'affirmation d'une causalité directe. L'option B est un contre-exemple qui n'aborde pas directement le mécanisme causal proposé. L'option C décrit une tendance de croissance d'Internet, sans traiter l'affirmation causale. L'option D décrit seulement la portée de l'étude, ce qui n'affaiblit ni ne renforce l'affirmation causale elle-même."
+    },
+    "skill_tested": {"en": "Critical reasoning - identifying confounding variables", "fr": "Raisonnement critique - identification de variables confondantes"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-8",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Reading comprehension",
+    "difficulty": "Hard",
+    "question": {
+      "en": "Read the passage, then answer the question.\n\n\"Sovereign debt restructuring negotiations often involve a tension between speed and comprehensiveness. Faster settlements can restore market confidence and limit economic contraction, but they may leave underlying fiscal vulnerabilities unaddressed, increasing the likelihood of repeat defaults. Conversely, comprehensive restructurings that also tackle structural fiscal reforms take longer to negotiate, prolonging the period of economic uncertainty and capital flight, even though they are believed to yield more durable outcomes.\"\n\nThe passage suggests that comprehensive restructurings are associated with which of the following trade-offs?",
+      "fr": "Lisez le texte, puis répondez à la question.\n\n« Les négociations de restructuration de la dette souveraine impliquent souvent un arbitrage entre rapidité et exhaustivité. Des accords conclus rapidement peuvent restaurer la confiance des marchés et limiter la contraction économique, mais ils risquent de laisser non résolues les vulnérabilités budgétaires sous-jacentes, augmentant ainsi la probabilité de défauts répétés. À l'inverse, les restructurations exhaustives, qui s'attaquent également aux réformes budgétaires structurelles, prennent plus de temps à négocier, prolongeant la période d'incertitude économique et de fuite des capitaux, même si elles sont jugées plus susceptibles de produire des résultats durables. »\n\nSelon le texte, à quel arbitrage les restructurations exhaustives sont-elles associées ?"
+    },
+    "options": [
+      {"key": "A", "en": "A lower risk of repeat default, but a shorter negotiation period.", "fr": "Un risque plus faible de défaut répété, mais une période de négociation plus courte."},
+      {"key": "B", "en": "More durable outcomes, but a longer period of economic uncertainty.", "fr": "Des résultats plus durables, mais une période d'incertitude économique plus longue."},
+      {"key": "C", "en": "Faster restoration of market confidence, but weaker fiscal reform.", "fr": "Une restauration plus rapide de la confiance des marchés, mais une réforme budgétaire plus faible."},
+      {"key": "D", "en": "Reduced capital flight, but a higher risk of repeat default.", "fr": "Une fuite des capitaux réduite, mais un risque plus élevé de défaut répété."}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The passage states that comprehensive restructurings 'take longer to negotiate, prolonging the period of economic uncertainty and capital flight, even though they are believed to yield more durable outcomes.' This directly matches option B: more durable outcomes paired with a longer period of uncertainty. Option A incorrectly pairs a lower default risk with a shorter negotiation period, the opposite of what the passage states. Option C confuses comprehensive restructurings with fast settlements, which are described as restoring confidence quickly, not comprehensive ones. Option D incorrectly claims comprehensive restructuring reduces capital flight, when the passage says it prolongs it.",
+      "fr": "Le texte indique que les restructurations exhaustives « prennent plus de temps à négocier, prolongeant la période d'incertitude économique et de fuite des capitaux, même si elles sont jugées plus susceptibles de produire des résultats durables ». Cela correspond directement à l'option B : des résultats plus durables associés à une période d'incertitude plus longue. L'option A associe à tort un risque de défaut plus faible à une négociation plus courte, soit l'inverse de ce qu'indique le texte. L'option C confond les restructurations exhaustives avec les accords rapides, qui sont décrits comme restaurant rapidement la confiance, non les restructurations exhaustives. L'option D affirme à tort que la restructuration exhaustive réduit la fuite des capitaux, alors que le texte indique qu'elle la prolonge."
+    },
+    "skill_tested": {"en": "Reading comprehension - complex trade-off analysis", "fr": "Compréhension de texte - analyse d'arbitrages complexes"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-9",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Analogies",
+    "difficulty": "Hard",
+    "question": {
+      "en": "Austerity is to Contraction as Stimulus is to ______.",
+      "fr": "Austérité est à Contraction ce que Relance est à ______."
+    },
+    "options": [
+      {"key": "A", "en": "Expansion", "fr": "Expansion"},
+      {"key": "B", "en": "Inflation", "fr": "Inflation"},
+      {"key": "C", "en": "Recession", "fr": "Récession"},
+      {"key": "D", "en": "Deficit", "fr": "Déficit"}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "Austerity (reduced government spending) typically leads to economic contraction. By the same logical relationship, stimulus (increased government spending or monetary easing) typically leads to economic expansion. 'Inflation' and 'deficit' can be side effects of stimulus but are not the direct parallel to 'contraction' in the way 'expansion' is. 'Recession' represents the opposite of the intended relationship, since stimulus aims to counter recession, not cause it.",
+      "fr": "L'austérité (réduction des dépenses publiques) entraîne généralement une contraction économique. Selon la même relation logique, la relance (hausse des dépenses publiques ou assouplissement monétaire) entraîne généralement une expansion économique. « Inflation » et « déficit » peuvent être des effets secondaires de la relance, mais ne constituent pas le parallèle direct de « contraction » comme le fait « expansion ». « Récession » correspond à la relation inverse, puisque la relance vise justement à contrer la récession, et non à la provoquer."
+    },
+    "skill_tested": {"en": "Verbal analogies - economic concepts", "fr": "Analogies verbales - notions économiques"},
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "verb-10",
+    "organization_scope": "General",
+    "category": "Verbal Reasoning",
+    "subcategory": "Critical reasoning",
+    "difficulty": "Hard",
+    "question": {
+      "en": "Read the passage, then answer the question.\n\n\"The Ministry of Finance argues that because the country's stock market index rose by 20% last year, the overall economy must be performing well, and therefore no further fiscal stimulus is needed.\"\n\nWhich of the following identifies the primary flaw in the Ministry's reasoning?",
+      "fr": "Lisez le texte, puis répondez à la question.\n\n« Le ministère des Finances soutient que, l'indice boursier du pays ayant augmenté de 20 % l'an dernier, l'économie dans son ensemble doit bien se porter, et qu'aucune relance budgétaire supplémentaire n'est donc nécessaire. »\n\nLaquelle des propositions suivantes identifie la principale faille du raisonnement du ministère ?"
+    },
+    "options": [
+      {"key": "A", "en": "It assumes that stock market performance is representative of the broader economy's health.", "fr": "Il suppose que la performance du marché boursier est représentative de la santé de l'ensemble de l'économie."},
+      {"key": "B", "en": "It fails to specify the exact composition of the stock market index.", "fr": "Il ne précise pas la composition exacte de l'indice boursier."},
+      {"key": "C", "en": "It does not consider the political implications of fiscal stimulus.", "fr": "Il ne tient pas compte des implications politiques d'une relance budgétaire."},
+      {"key": "D", "en": "It assumes that fiscal stimulus is always beneficial regardless of context.", "fr": "Il suppose que la relance budgétaire est toujours bénéfique, quel que soit le contexte."}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The Ministry's argument moves directly from a rise in the stock market index to a conclusion about the health of the 'overall economy,' without justifying why the two should be equivalent. Stock markets can rise for many reasons unrelated to broad-based economic health, such as gains concentrated in a few large firms, speculative activity, or low interest rates. This unstated assumption is the central flaw. Option B is a factual detail, not a reasoning flaw. Option C introduces a consideration unrelated to the argument. Option D misrepresents the argument, which does not claim stimulus is always beneficial - it argues stimulus is unnecessary in this specific instance.",
+      "fr": "Le raisonnement du ministère passe directement d'une hausse de l'indice boursier à une conclusion sur la santé de « l'ensemble de l'économie », sans justifier pourquoi les deux devraient être équivalents. Un marché boursier peut progresser pour de nombreuses raisons sans lien avec la santé économique générale, comme des gains concentrés dans quelques grandes entreprises, une activité spéculative ou des taux d'intérêt bas. Cette hypothèse implicite constitue la faille centrale. L'option B est un détail factuel, non une faille de raisonnement. L'option C introduit une considération sans rapport avec l'argument. L'option D dénature l'argument, qui n'affirme pas que la relance est toujours bénéfique, mais plutôt qu'elle est inutile dans ce cas précis."
+    },
+    "skill_tested": {"en": "Critical reasoning - identifying logical flaws", "fr": "Raisonnement critique - identification de failles logiques"},
+    "source": "Original YPPReady practice question"
+  }
+]

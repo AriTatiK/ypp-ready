@@ -1,0 +1,518 @@
+[
+  {
+    "id": "ana-1",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Deductive reasoning",
+    "difficulty": "Medium",
+    "question": {
+      "en": "All AfDB-funded rural electrification projects require a completed environmental and social impact assessment (ESIA) before their first disbursement. Project X received its first disbursement last month. What can you validly conclude?",
+      "fr": "Tous les projets d'électrification rurale financés par la BAD exigent une évaluation d'impact environnemental et social (EIES) complète avant leur premier décaissement. Le Projet X a reçu son premier décaissement le mois dernier. Que pouvez-vous valablement en conclure ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Project X completed an ESIA before its first disbursement",
+        "fr": "Le Projet X a réalisé une EIES avant son premier décaissement"
+      },
+      {
+        "key": "B",
+        "en": "Project X is the best-performing project this year",
+        "fr": "Le Projet X est le projet le plus performant de l'année"
+      },
+      {
+        "key": "C",
+        "en": "Project X will not need any further environmental review",
+        "fr": "Le Projet X n'aura besoin d'aucun autre examen environnemental"
+      },
+      {
+        "key": "D",
+        "en": "All projects that complete an ESIA receive disbursement the following month",
+        "fr": "Tous les projets ayant réalisé une EIES reçoivent un décaissement le mois suivant"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The rule states that an ESIA is required before first disbursement for this category of project. Since Project X received its first disbursement, it must have completed an ESIA — this is the only conclusion the given statements actually support. The other options introduce information not stated in the premises.",
+      "fr": "La règle indique qu'une EIES est exigée avant le premier décaissement pour cette catégorie de projet. Puisque le Projet X a reçu son premier décaissement, il a nécessairement réalisé une EIES — c'est la seule conclusion que les énoncés permettent réellement de tirer. Les autres options introduisent des informations non mentionnées dans les prémisses."
+    },
+    "skill_tested": {
+      "en": "Valid deduction from a conditional rule (if X then Y).",
+      "fr": "Déduction valide à partir d'une règle conditionnelle (si X alors Y)."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-2",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Quantitative problem-solving",
+    "difficulty": "Medium",
+    "question": {
+      "en": "A project team must split a $120,000 budget across three result areas in the ratio 2:3:5. How much is allocated to the largest result area?",
+      "fr": "Une équipe projet doit répartir un budget de 120 000 $ entre trois domaines de résultats selon le ratio 2:3:5. Quel montant est alloué au domaine de résultats le plus important ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "$24,000",
+        "fr": "24 000 $"
+      },
+      {
+        "key": "B",
+        "en": "$36,000",
+        "fr": "36 000 $"
+      },
+      {
+        "key": "C",
+        "en": "$48,000",
+        "fr": "48 000 $"
+      },
+      {
+        "key": "D",
+        "en": "$60,000",
+        "fr": "60 000 $"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": {
+      "en": "The ratio parts sum to 2+3+5=10 parts. Each part is worth $120,000 / 10 = $12,000. The largest area (5 parts) receives 5 x $12,000 = $60,000.",
+      "fr": "Les parts du ratio totalisent 2+3+5=10 parts. Chaque part vaut 120 000 $ / 10 = 12 000 $. Le domaine le plus important (5 parts) reçoit donc 5 x 12 000 $ = 60 000 $."
+    },
+    "skill_tested": {
+      "en": "Ratio-based budget allocation.",
+      "fr": "Répartition budgétaire fondée sur un ratio."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-3",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Logical deduction",
+    "difficulty": "Hard",
+    "question": {
+      "en": "Three colleagues — Amara, Boubacar, and Chiara — each lead exactly one of three workstreams: Finance, Procurement, and Monitoring. Amara does not lead Finance. Chiara leads either Procurement or Monitoring. Boubacar leads Finance. Who leads Procurement?",
+      "fr": "Trois collègues — Amara, Boubacar et Chiara — dirigent chacun l'un des trois chantiers suivants : Finances, Achats et Suivi-évaluation. Amara ne dirige pas les Finances. Chiara dirige soit les Achats, soit le Suivi-évaluation. Boubacar dirige les Finances. Qui dirige les Achats ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Amara",
+        "fr": "Amara"
+      },
+      {
+        "key": "B",
+        "en": "Boubacar",
+        "fr": "Boubacar"
+      },
+      {
+        "key": "C",
+        "en": "Chiara",
+        "fr": "Chiara"
+      },
+      {
+        "key": "D",
+        "en": "Cannot be determined from the information given",
+        "fr": "Impossible à déterminer avec les informations données"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": {
+      "en": "Boubacar leads Finance (given). That leaves Procurement and Monitoring for Amara and Chiara. Chiara leads either Procurement or Monitoring — this is already known and doesn't narrow it further. Amara doesn't lead Finance, which is consistent either way. No clue distinguishes which of Procurement/Monitoring goes to Amara versus Chiara, so it cannot be determined from the given information — a useful reminder to check whether a puzzle's clues actually pin down a unique answer before assuming one does.",
+      "fr": "Boubacar dirige les Finances (donné). Il reste donc les Achats et le Suivi-évaluation pour Amara et Chiara. Chiara dirige soit les Achats, soit le Suivi-évaluation — ce qui est déjà su et ne réduit rien de plus. Amara ne dirige pas les Finances, ce qui reste cohérent dans les deux cas. Aucun indice ne permet de distinguer qui, d'Amara ou de Chiara, dirige les Achats : la réponse ne peut donc pas être déterminée avec les informations données — un bon rappel de toujours vérifier si les indices d'une énigme suffisent réellement à fixer une réponse unique avant de le supposer."
+    },
+    "skill_tested": {
+      "en": "Recognizing when premises are insufficient to reach a unique conclusion.",
+      "fr": "Savoir reconnaître quand les prémisses sont insuffisantes pour aboutir à une conclusion unique."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-4",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Critical reasoning",
+    "difficulty": "Medium",
+    "question": {
+      "en": "A study found that African regions with the fastest broadband adoption over the past five years also had the fastest growth in small business registrations. A commentator concludes: \"Expanding broadband access causes small business growth.\" What is the main weakness in this reasoning?",
+      "fr": "Une étude a montré que les régions africaines ayant connu l'adoption la plus rapide du haut débit ces cinq dernières années ont aussi connu la croissance la plus rapide du nombre d'entreprises enregistrées. Un commentateur en conclut : « L'extension de l'accès au haut débit provoque la croissance des petites entreprises. » Quelle est la principale faiblesse de ce raisonnement ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "It assumes broadband access is expensive",
+        "fr": "Il suppose que l'accès au haut débit est coûteux"
+      },
+      {
+        "key": "B",
+        "en": "It treats a correlation between two trends as proof that one causes the other",
+        "fr": "Il traite une corrélation entre deux tendances comme la preuve que l'une provoque l'autre"
+      },
+      {
+        "key": "C",
+        "en": "It assumes small businesses do not use broadband",
+        "fr": "Il suppose que les petites entreprises n'utilisent pas le haut débit"
+      },
+      {
+        "key": "D",
+        "en": "It only considers broadband, not mobile phone access",
+        "fr": "Il ne prend en compte que le haut débit, pas l'accès au téléphone mobile"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "This is a classic correlation-versus-causation error: the two trends moving together does not prove one caused the other. A third factor (e.g., overall regional economic growth or infrastructure investment) could be driving both, or the causal arrow could even run the other way.",
+      "fr": "C'est une erreur classique consistant à confondre corrélation et causalité : le fait que deux tendances évoluent ensemble ne prouve pas que l'une cause l'autre. Un troisième facteur (par exemple la croissance économique régionale globale ou l'investissement en infrastructures) pourrait expliquer les deux, ou le lien de causalité pourrait même être inverse."
+    },
+    "skill_tested": {
+      "en": "Distinguishing correlation from causation.",
+      "fr": "Distinction entre corrélation et causalité."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-5",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Critical reasoning",
+    "difficulty": "Medium",
+    "question": {
+      "en": "\"Our new grant application process cannot be slower than the old one, since we removed two approval steps.\" Which of the following, if true, would most weaken this argument?",
+      "fr": "« Notre nouveau processus de demande de subvention ne peut pas être plus lent que l'ancien, puisque nous avons supprimé deux étapes de validation. » Laquelle des propositions suivantes, si elle est vraie, affaiblirait le plus cet argument ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "The two removed steps were the fastest ones in the process, while a new, much slower step was added elsewhere",
+        "fr": "Les deux étapes supprimées étaient les plus rapides du processus, tandis qu'une nouvelle étape bien plus lente a été ajoutée ailleurs"
+      },
+      {
+        "key": "B",
+        "en": "Staff were informed of the change by email",
+        "fr": "Le personnel a été informé du changement par e-mail"
+      },
+      {
+        "key": "C",
+        "en": "The old process had been in place for ten years",
+        "fr": "L'ancien processus était en place depuis dix ans"
+      },
+      {
+        "key": "D",
+        "en": "The new process uses the same software as the old one",
+        "fr": "Le nouveau processus utilise le même logiciel que l'ancien"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "The argument assumes that removing two steps automatically makes the whole process faster. Option A directly undermines that assumption: if the removed steps were quick and a slower step was added elsewhere, total time could increase despite having fewer steps. The other options are irrelevant to overall speed.",
+      "fr": "L'argument suppose que la suppression de deux étapes rend automatiquement l'ensemble du processus plus rapide. L'option A remet directement en cause cette hypothèse : si les étapes supprimées étaient rapides et qu'une étape plus lente a été ajoutée ailleurs, la durée totale pourrait augmenter malgré un nombre d'étapes réduit. Les autres options sont sans rapport avec la rapidité globale du processus."
+    },
+    "skill_tested": {
+      "en": "Identifying the statement that most weakens an argument.",
+      "fr": "Identifier l'énoncé qui affaiblit le plus un argument."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-6",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Quantitative problem-solving",
+    "difficulty": "Easy",
+    "question": {
+      "en": "A project's total cost rose from $200,000 to $250,000. By what percentage did the cost increase?",
+      "fr": "Le coût total d'un projet est passé de 200 000 $ à 250 000 $. De quel pourcentage le coût a-t-il augmenté ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "20%",
+        "fr": "20 %"
+      },
+      {
+        "key": "B",
+        "en": "25%",
+        "fr": "25 %"
+      },
+      {
+        "key": "C",
+        "en": "30%",
+        "fr": "30 %"
+      },
+      {
+        "key": "D",
+        "en": "50%",
+        "fr": "50 %"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Percentage increase = (new − old) / old x 100 = (250,000 − 200,000) / 200,000 x 100 = 50,000 / 200,000 x 100 = 25%.",
+      "fr": "Pourcentage d'augmentation = (nouveau − ancien) / ancien x 100 = (250 000 − 200 000) / 200 000 x 100 = 50 000 / 200 000 x 100 = 25 %."
+    },
+    "skill_tested": {
+      "en": "Percentage change calculation.",
+      "fr": "Calcul de variation en pourcentage."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-7",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Scheduling & dependencies",
+    "difficulty": "Hard",
+    "question": {
+      "en": "A project has three tasks. Task B cannot start until Task A finishes (5 days). Task C cannot start until Task B finishes (3 days), and Task C takes 4 days. All tasks are done by a single team, one at a time. What is the earliest day the whole project can be completed (starting day 1)?",
+      "fr": "Un projet comporte trois tâches. La tâche B ne peut commencer qu'une fois la tâche A terminée (5 jours). La tâche C ne peut commencer qu'une fois la tâche B terminée (3 jours), et la tâche C dure 4 jours. Toutes les tâches sont réalisées par une seule équipe, une à la fois. Quel est le jour le plus tôt où l'ensemble du projet peut être achevé (en démarrant au jour 1) ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Day 9",
+        "fr": "Jour 9"
+      },
+      {
+        "key": "B",
+        "en": "Day 11",
+        "fr": "Jour 11"
+      },
+      {
+        "key": "C",
+        "en": "Day 12",
+        "fr": "Jour 12"
+      },
+      {
+        "key": "D",
+        "en": "Day 15",
+        "fr": "Jour 15"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Since the tasks are strictly sequential (A then B then C) and done by one team, total duration = 5 + 3 + 4 = 12 days. Starting on day 1, the project finishes at the end of day 12.",
+      "fr": "Les tâches étant strictement séquentielles (A puis B puis C) et réalisées par une seule équipe, la durée totale est de 5 + 3 + 4 = 12 jours. En démarrant au jour 1, le projet se termine à la fin du jour 12."
+    },
+    "skill_tested": {
+      "en": "Sequential task-dependency reasoning.",
+      "fr": "Raisonnement sur les dépendances séquentielles entre tâches."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-8",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Data interpretation",
+    "difficulty": "Medium",
+    "question": {
+      "en": "In a portfolio of 80 projects, 45 are in the energy sector and 20 are both in the energy sector and rated \"high performing.\" If 35 projects overall are rated \"high performing,\" how many high-performing projects are OUTSIDE the energy sector?",
+      "fr": "Dans un portefeuille de 80 projets, 45 relèvent du secteur de l'énergie et 20 relèvent à la fois du secteur de l'énergie et sont notés « haute performance ». Si 35 projets au total sont notés « haute performance », combien de projets à haute performance se situent EN DEHORS du secteur de l'énergie ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "10",
+        "fr": "10"
+      },
+      {
+        "key": "B",
+        "en": "15",
+        "fr": "15"
+      },
+      {
+        "key": "C",
+        "en": "20",
+        "fr": "20"
+      },
+      {
+        "key": "D",
+        "en": "25",
+        "fr": "25"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Of the 35 high-performing projects overall, 20 are in the energy sector. So the high-performing projects outside energy = 35 − 20 = 15.",
+      "fr": "Sur les 35 projets à haute performance au total, 20 relèvent du secteur de l'énergie. Les projets à haute performance en dehors de l'énergie sont donc 35 − 20 = 15."
+    },
+    "skill_tested": {
+      "en": "Set-based data interpretation.",
+      "fr": "Interprétation de données par ensembles."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-9",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Critical reasoning",
+    "difficulty": "Medium",
+    "question": {
+      "en": "A country's poverty rate fell over the same period that a major development bank increased its lending there. A report claims this proves the bank's lending reduced poverty. Which additional piece of information would be MOST useful to evaluate this claim?",
+      "fr": "Le taux de pauvreté d'un pays a baissé pendant la même période où une grande banque de développement y a augmenté ses prêts. Un rapport affirme que cela prouve que les prêts de la banque ont réduit la pauvreté. Quelle information supplémentaire serait la PLUS utile pour évaluer cette affirmation ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "The bank's total staff headcount that year",
+        "fr": "Les effectifs totaux de la banque cette année-là"
+      },
+      {
+        "key": "B",
+        "en": "Whether poverty also fell in comparable countries that did NOT receive increased lending",
+        "fr": "Si la pauvreté a également baissé dans des pays comparables n'ayant PAS bénéficié d'une hausse des prêts"
+      },
+      {
+        "key": "C",
+        "en": "The bank's headquarters address",
+        "fr": "L'adresse du siège de la banque"
+      },
+      {
+        "key": "D",
+        "en": "The exact wording of the bank's mission statement",
+        "fr": "Le libellé exact de la mission de la banque"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "To assess whether the lending actually caused the poverty reduction (rather than broader regional or global trends), the most useful comparison is a control: did similar countries without increased lending see the same improvement? If they did, the bank's lending is less likely to be the explanation.",
+      "fr": "Pour évaluer si les prêts ont réellement causé la baisse de la pauvreté (plutôt que des tendances régionales ou mondiales plus larges), la comparaison la plus utile est un groupe de contrôle : des pays comparables n'ayant pas bénéficié d'une hausse des prêts ont-ils connu la même amélioration ? Si c'est le cas, il est moins probable que les prêts de la banque expliquent la baisse."
+    },
+    "skill_tested": {
+      "en": "Identifying the evidence needed to test a causal claim.",
+      "fr": "Identifier les preuves nécessaires pour tester une affirmation causale."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-10",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Logical deduction",
+    "difficulty": "Medium",
+    "question": {
+      "en": "\"Every country that has fully implemented the AfCFTA tariff schedule has seen an increase in intra-African trade.\" Country Y has seen an increase in intra-African trade. Can you validly conclude that Country Y has fully implemented the AfCFTA tariff schedule?",
+      "fr": "« Tout pays ayant pleinement mis en œuvre le calendrier tarifaire de la ZLECAf a vu ses échanges intra-africains augmenter. » Le pays Y a vu ses échanges intra-africains augmenter. Peut-on en conclure valablement que le pays Y a pleinement mis en œuvre le calendrier tarifaire de la ZLECAf ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "Yes, this follows logically",
+        "fr": "Oui, cela découle logiquement des énoncés"
+      },
+      {
+        "key": "B",
+        "en": "No — the statement only says full implementation leads to a trade increase, not that a trade increase implies full implementation",
+        "fr": "Non — l'énoncé indique seulement que la pleine mise en œuvre entraîne une hausse des échanges, pas que la hausse des échanges implique une pleine mise en œuvre"
+      },
+      {
+        "key": "C",
+        "en": "Yes, because trade increases are always caused by tariff schedules",
+        "fr": "Oui, car les hausses d'échanges sont toujours causées par les calendriers tarifaires"
+      },
+      {
+        "key": "D",
+        "en": "No, because the statement is about exports only",
+        "fr": "Non, car l'énoncé ne porte que sur les exportations"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "This is the classic \"affirming the consequent\" logical error. \"If A then B\" does not mean \"if B then A.\" Country Y's trade increase could have other causes entirely — the original statement doesn't rule that out.",
+      "fr": "Il s'agit de l'erreur logique classique consistant à « affirmer le conséquent ». « Si A alors B » ne signifie pas « si B alors A ». La hausse des échanges du pays Y pourrait avoir d'autres causes — l'énoncé initial ne l'exclut pas."
+    },
+    "skill_tested": {
+      "en": "Avoiding the logical fallacy of affirming the consequent.",
+      "fr": "Éviter le sophisme logique consistant à affirmer le conséquent."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-11",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Quantitative problem-solving",
+    "difficulty": "Hard",
+    "question": {
+      "en": "A regional office aims to complete 60 field visits this quarter. By the end of week 6 of a 12-week quarter, it has completed 35 visits, at a steady weekly pace. If it keeps the same weekly pace, will it reach its target?",
+      "fr": "Un bureau régional vise à réaliser 60 visites de terrain ce trimestre. À la fin de la semaine 6 d'un trimestre de 12 semaines, il en a réalisé 35, à un rythme hebdomadaire constant. S'il maintient ce même rythme, atteindra-t-il son objectif ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "No, it will fall short — on pace for about 70 visits is wrong, the real pace gives only about 58",
+        "fr": "Non, il n'atteindra pas l'objectif — au rythme actuel, il n'atteindra qu'environ 58 visites"
+      },
+      {
+        "key": "B",
+        "en": "Yes, comfortably — on pace for about 70 visits",
+        "fr": "Oui, largement — au rythme actuel, il atteindra environ 70 visites"
+      },
+      {
+        "key": "C",
+        "en": "Exactly on target, at precisely 60 visits",
+        "fr": "Exactement dans l'objectif, à précisément 60 visites"
+      },
+      {
+        "key": "D",
+        "en": "There is not enough information to estimate this",
+        "fr": "Il n'y a pas assez d'informations pour l'estimer"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Weekly pace = 35 visits / 6 weeks ≈ 5.83 visits/week. Over 12 weeks at that pace: 5.83 x 12 ≈ 70 visits — comfortably above the target of 60.",
+      "fr": "Rythme hebdomadaire = 35 visites / 6 semaines ≈ 5,83 visites/semaine. Sur 12 semaines à ce rythme : 5,83 x 12 ≈ 70 visites — largement au-dessus de l'objectif de 60."
+    },
+    "skill_tested": {
+      "en": "Extrapolating a trend from a partial-period rate.",
+      "fr": "Extrapoler une tendance à partir d'un taux calculé sur une période partielle."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "ana-12",
+    "organization_scope": "General",
+    "category": "Analytical & Problem-Solving Reasoning",
+    "subcategory": "Critical reasoning",
+    "difficulty": "Medium",
+    "question": {
+      "en": "A colleague argues: \"We should approve this loan quickly because every other regional bank has already financed similar projects without issues.\" What kind of reasoning weakness does this argument show?",
+      "fr": "Un collègue affirme : « Nous devrions approuver ce prêt rapidement, car toutes les autres banques régionales ont déjà financé des projets similaires sans problème. » Quel type de faiblesse de raisonnement cet argument illustre-t-il ?"
+    },
+    "options": [
+      {
+        "key": "A",
+        "en": "It appeals to what others are doing rather than assessing this specific project's own risks",
+        "fr": "Il s'appuie sur ce que font les autres plutôt que d'évaluer les risques propres à ce projet précis"
+      },
+      {
+        "key": "B",
+        "en": "It relies on a false cause-and-effect claim",
+        "fr": "Il repose sur une fausse relation de cause à effet"
+      },
+      {
+        "key": "C",
+        "en": "It contradicts itself",
+        "fr": "Il se contredit lui-même"
+      },
+      {
+        "key": "D",
+        "en": "It uses a circular definition",
+        "fr": "Il utilise une définition circulaire"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "This is a version of the \"everyone else is doing it\" argument (sometimes called appeal to common practice): it substitutes what other institutions have done for an actual risk assessment of this specific project, which may have different circumstances.",
+      "fr": "Il s'agit d'une variante de l'argument « tout le monde le fait » (parfois appelé appel à la pratique courante) : il remplace une véritable évaluation des risques propres à ce projet par ce que d'autres institutions ont fait, alors que ce projet peut présenter des circonstances différentes."
+    },
+    "skill_tested": {
+      "en": "Recognizing the \"appeal to common practice\" reasoning weakness.",
+      "fr": "Reconnaître la faiblesse de raisonnement de l'« appel à la pratique courante »."
+    },
+    "source": "Original YPPReady practice question"
+  }
+]

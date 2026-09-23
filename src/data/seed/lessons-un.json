@@ -1,0 +1,271 @@
+[
+  {
+    "id": "un-1",
+    "category": "Organization Knowledge",
+    "org_scope": "UN",
+    "title": {
+      "en": "What is the United Nations?",
+      "fr": "Qu'est-ce que l'Organisation des Nations Unies ?"
+    },
+    "simple_definition": {
+      "en": "The United Nations is an intergovernmental organization founded in 1945, after the Second World War, to maintain international peace and security, develop friendly relations among nations, and promote cooperation on economic, social, humanitarian, and human rights problems. Its Charter was signed on 26 June 1945 in San Francisco and entered into force on 24 October 1945, now marked every year as UN Day.",
+      "fr": "L'Organisation des Nations Unies est une organisation intergouvernementale fondée en 1945, au lendemain de la Seconde Guerre mondiale, pour maintenir la paix et la sécurité internationales, développer des relations amicales entre les nations et favoriser la coopération face aux problèmes économiques, sociaux, humanitaires et relatifs aux droits de l'homme. Sa Charte a été signée le 26 juin 1945 à San Francisco et est entrée en vigueur le 24 octobre 1945, date célébrée chaque année comme la Journée des Nations Unies."
+    },
+    "why_it_matters": {
+      "en": [
+        "The UN Charter establishes six principal organs: the General Assembly, the Security Council, the Economic and Social Council (ECOSOC), the Secretariat, the International Court of Justice, and the Trusteeship Council (the latter suspended its operations in 1994 once all trust territories had achieved self-government or independence).",
+        "Article 1 of the Charter sets out the UN's core purposes: maintaining peace and security through collective action and peaceful settlement of disputes, developing friendly relations based on equal rights and self-determination, achieving international cooperation on economic, social, cultural and humanitarian problems while promoting human rights, and acting as a centre for harmonizing the actions of nations.",
+        "The UN today has 193 member states, each holding one seat in the General Assembly, making it the only forum where nearly every country in the world sits at the same table."
+      ],
+      "fr": [
+        "La Charte des Nations Unies institue six organes principaux : l'Assemblée générale, le Conseil de sécurité, le Conseil économique et social (ECOSOC), le Secrétariat, la Cour internationale de Justice et le Conseil de tutelle (ce dernier a suspendu ses activités en 1994, une fois tous les territoires sous tutelle devenus indépendants ou autonomes).",
+        "L'Article 1 de la Charte fixe les buts fondamentaux de l'Organisation : maintenir la paix et la sécurité internationales par une action collective et le règlement pacifique des différends, développer entre les nations des relations amicales fondées sur l'égalité des droits et l'autodétermination des peuples, réaliser la coopération internationale en résolvant les problèmes économiques, sociaux, culturels et humanitaires tout en promouvant les droits de l'homme, et être un centre où s'harmonisent les efforts des nations.",
+        "L'ONU compte aujourd'hui 193 États membres, chacun disposant d'un siège à l'Assemblée générale, ce qui en fait la seule enceinte où siègent quasiment tous les pays du monde."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Interviewers for YPP-style programmes routinely test basic institutional literacy — knowing when the UN was founded, why, and how it is structured shows you understand the system you want to join, not just the job description.",
+      "fr": "Les jurys des programmes de type YPP testent régulièrement la culture institutionnelle de base : savoir quand et pourquoi l'ONU a été créée, et comment elle est structurée, montre que vous comprenez le système que vous souhaitez rejoindre, et pas seulement la fiche de poste."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "According to the UN Charter, which of the following is NOT one of the six principal organs of the United Nations?",
+          "fr": "Selon la Charte des Nations Unies, lequel des éléments suivants ne fait PAS partie des six organes principaux de l'ONU ?"
+        },
+        "options": [
+          {"key": "A", "en": "The Security Council", "fr": "Le Conseil de sécurité"},
+          {"key": "B", "en": "The World Trade Organization", "fr": "L'Organisation mondiale du commerce"},
+          {"key": "C", "en": "The Economic and Social Council (ECOSOC)", "fr": "Le Conseil économique et social (ECOSOC)"},
+          {"key": "D", "en": "The International Court of Justice", "fr": "La Cour internationale de Justice"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The World Trade Organization is a separate, independent international organization, not a UN principal organ. The Charter establishes the General Assembly, the Security Council, ECOSOC, the Secretariat, the International Court of Justice, and the (now-suspended) Trusteeship Council.",
+          "fr": "L'Organisation mondiale du commerce est une organisation internationale distincte et indépendante, et non un organe principal de l'ONU. La Charte institue l'Assemblée générale, le Conseil de sécurité, l'ECOSOC, le Secrétariat, la Cour internationale de Justice et le Conseil de tutelle (aujourd'hui suspendu)."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "United Nations Charter (full text) | United Nations", "url": "https://www.un.org/en/about-us/un-charter/full-text"},
+      {"title": "Main Bodies | United Nations", "url": "https://www.un.org/en/about-us/main-bodies"},
+      {"title": "The San Francisco Conference | United Nations", "url": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "un-2",
+    "category": "Organization Knowledge",
+    "org_scope": "UN",
+    "title": {
+      "en": "What does the UN do, and where does it operate?",
+      "fr": "Que fait l'ONU, et où intervient-elle ?"
+    },
+    "simple_definition": {
+      "en": "The UN organizes its work around five overlapping areas: maintaining international peace and security, protecting human rights, delivering humanitarian aid, supporting sustainable development and climate action, and upholding international law. It operates worldwide, with roughly 52,000 peacekeepers deployed across around a dozen active operations and UN assistance reaching more than 120 countries and territories.",
+      "fr": "L'action de l'ONU s'articule autour de cinq domaines qui se recoupent : le maintien de la paix et de la sécurité internationales, la protection des droits de l'homme, l'aide humanitaire, l'appui au développement durable et à l'action climatique, et le respect du droit international. Elle intervient dans le monde entier, avec environ 52 000 Casques bleus déployés dans une dizaine d'opérations actives, et une assistance qui atteint plus de 120 pays et territoires."
+    },
+    "why_it_matters": {
+      "en": [
+        "Peace and security: the UN prevents and helps resolve conflicts through mediation, sanctions, and peacekeeping operations authorized mainly by the Security Council.",
+        "Human rights and humanitarian action: the UN promotes universal human rights standards embodied in more than 80 treaties and conventions, and coordinates emergency relief for people affected by conflict, disasters, and displacement.",
+        "Development: the UN supports sustainable development and climate action across nearly every country, working through its Secretariat departments as well as a wide family of funds, programmes, and specialized agencies with their own country presences."
+      ],
+      "fr": [
+        "Paix et sécurité : l'ONU prévient et contribue à résoudre les conflits par la médiation, les sanctions et des opérations de maintien de la paix autorisées principalement par le Conseil de sécurité.",
+        "Droits de l'homme et action humanitaire : l'ONU promeut des normes universelles en matière de droits de l'homme, consacrées par plus de 80 traités et conventions, et coordonne les secours d'urgence pour les populations touchées par les conflits, les catastrophes et les déplacements forcés.",
+        "Développement : l'ONU appuie le développement durable et l'action climatique dans la quasi-totalité des pays, à travers les départements du Secrétariat ainsi qu'une vaste famille de fonds, programmes et institutions spécialisées disposant de leurs propres présences sur le terrain."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP job families (political affairs, human rights, humanitarian affairs, economic and social development, etc.) map directly onto these five areas of work, so being able to place your target role within this framework strengthens both your application and your interview answers.",
+      "fr": "Les familles d'emplois du YPP (affaires politiques, droits de l'homme, affaires humanitaires, développement économique et social, etc.) correspondent directement à ces cinq domaines d'action ; savoir situer le poste visé dans ce cadre renforce à la fois votre candidature et vos réponses en entretien."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which of the following is one of the UN's five main areas of work, as described on the UN's own website?",
+          "fr": "Lequel des éléments suivants figure parmi les cinq grands domaines d'action de l'ONU, tels que présentés sur le site officiel de l'Organisation ?"
+        },
+        "options": [
+          {"key": "A", "en": "Managing global stock exchanges", "fr": "Gérer les marchés boursiers mondiaux"},
+          {"key": "B", "en": "Delivering humanitarian aid", "fr": "Fournir une aide humanitaire"},
+          {"key": "C", "en": "Setting international currency exchange rates", "fr": "Fixer les taux de change internationaux"},
+          {"key": "D", "en": "Operating national police forces", "fr": "Diriger les forces de police nationales"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Delivering humanitarian aid is one of the UN's five core areas of work, alongside maintaining peace and security, protecting human rights, supporting sustainable development and climate action, and upholding international law.",
+          "fr": "L'aide humanitaire fait partie des cinq grands domaines d'action de l'ONU, aux côtés du maintien de la paix et de la sécurité, de la protection des droits de l'homme, de l'appui au développement durable et à l'action climatique, et du respect du droit international."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "Our Work | United Nations", "url": "https://www.un.org/en/our-work"},
+      {"title": "The Essential UN | United Nations", "url": "https://www.un.org/en/essential-un/"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "un-3",
+    "category": "Organization Knowledge",
+    "org_scope": "UN",
+    "title": {
+      "en": "What are the UN's current priorities?",
+      "fr": "Quelles sont les priorités actuelles de l'ONU ?"
+    },
+    "simple_definition": {
+      "en": "The overarching priority guiding the UN system today is the 2030 Agenda for Sustainable Development, adopted by world leaders at UN Headquarters in September 2015. It sets out 17 Sustainable Development Goals (SDGs) and 169 targets — covering poverty, hunger, health, education, gender equality, climate, and more — that UN entities align their programming around through to the target year of 2030.",
+      "fr": "La priorité transversale qui guide aujourd'hui l'ensemble du système des Nations Unies est le Programme de développement durable à l'horizon 2030, adopté par les chefs d'État et de gouvernement au Siège de l'ONU en septembre 2015. Il définit 17 objectifs de développement durable (ODD) et 169 cibles — couvrant la pauvreté, la faim, la santé, l'éducation, l'égalité des sexes, le climat, etc. — sur lesquels les entités des Nations Unies alignent leurs programmes jusqu'à l'échéance de 2030."
+    },
+    "why_it_matters": {
+      "en": [
+        "The 17 SDGs are described by the UN as \"integrated and indivisible,\" meaning progress on one goal (e.g., education) is understood to reinforce progress on others (e.g., gender equality or decent work).",
+        "The SDGs replaced the earlier Millennium Development Goals and broadened the agenda to explicitly balance economic, social, and environmental dimensions of development, including climate action (SDG 13).",
+        "Beyond the SDGs, the UN Secretariat has also framed broader reform and forward-looking priorities (such as the Secretary-General's Our Common Agenda initiative) to strengthen multilateralism and adapt the UN to emerging global challenges."
+      ],
+      "fr": [
+        "Les 17 ODD sont présentés par l'ONU comme « intégrés et indissociables » : les progrès réalisés sur un objectif (par exemple l'éducation) sont censés renforcer les progrès sur d'autres (par exemple l'égalité des sexes ou le travail décent).",
+        "Les ODD ont succédé aux Objectifs du Millénaire pour le développement et ont élargi le programme pour équilibrer explicitement les dimensions économique, sociale et environnementale du développement, y compris l'action climatique (ODD 13).",
+        "Au-delà des ODD, le Secrétariat de l'ONU a également porté des priorités de réforme et de prospective plus larges (comme l'initiative « Notre Programme commun » du Secrétaire général) afin de renforcer le multilatéralisme et d'adapter l'Organisation aux défis mondiaux émergents."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Almost every YPP or early-career UN interview asks candidates to connect their background to one or more SDGs — being able to name the relevant goal(s) and explain how your target role contributes to them is a near-universal expectation.",
+      "fr": "Presque tous les entretiens YPP ou de recrutement de jeunes cadres à l'ONU demandent aux candidats de relier leur parcours à un ou plusieurs ODD : savoir nommer le ou les objectifs pertinents et expliquer en quoi le poste visé y contribue est une attente quasi systématique."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "How many Sustainable Development Goals (SDGs) were adopted as part of the 2030 Agenda in September 2015?",
+          "fr": "Combien d'objectifs de développement durable (ODD) ont été adoptés dans le cadre du Programme de développement durable à l'horizon 2030, en septembre 2015 ?"
+        },
+        "options": [
+          {"key": "A", "en": "8", "fr": "8"},
+          {"key": "B", "en": "17", "fr": "17"},
+          {"key": "C", "en": "25", "fr": "25"},
+          {"key": "D", "en": "10", "fr": "10"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The 2030 Agenda sets out 17 SDGs and 169 targets. (The earlier Millennium Development Goals, which the SDGs replaced, numbered 8.)",
+          "fr": "Le Programme 2030 définit 17 ODD et 169 cibles. (Les précédents Objectifs du Millénaire pour le développement, que les ODD ont remplacés, étaient au nombre de 8.)"
+        }
+      }
+    ],
+    "sources": [
+      {"title": "Transforming our world: the 2030 Agenda for Sustainable Development | UN Department of Economic and Social Affairs", "url": "https://sdgs.un.org/2030agenda"},
+      {"title": "THE 17 GOALS | Sustainable Development Goals", "url": "https://sdgs.un.org/goals"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "un-4",
+    "category": "Organization Knowledge",
+    "org_scope": "UN",
+    "title": {
+      "en": "How is the UN governed?",
+      "fr": "Comment l'ONU est-elle gouvernée ?"
+    },
+    "simple_definition": {
+      "en": "The UN is governed through a system of member-state bodies and an international civil service. The General Assembly (all 193 member states, decisions on major matters requiring a two-thirds majority) is the main deliberative and policymaking organ; the Security Council (15 members — 5 permanent with veto power, 10 elected for two-year terms) holds primary responsibility for international peace and security; and the Secretariat, headed by the Secretary-General, carries out the day-to-day work and decisions of the other organs.",
+      "fr": "L'ONU est gouvernée par un système d'organes intergouvernementaux et une fonction publique internationale. L'Assemblée générale (les 193 États membres, les décisions sur les questions importantes exigeant une majorité des deux tiers) est le principal organe délibérant et décisionnel ; le Conseil de sécurité (15 membres — 5 membres permanents disposant d'un droit de veto et 10 membres élus pour un mandat de deux ans) porte la responsabilité principale du maintien de la paix et de la sécurité internationales ; et le Secrétariat, dirigé par le Secrétaire général, met en œuvre le travail quotidien et les décisions des autres organes."
+    },
+    "why_it_matters": {
+      "en": [
+        "The Secretary-General is the chief administrative officer of the UN, appointed by the General Assembly on the recommendation of the Security Council. As of August 2026, the position is held by António Guterres of Portugal, whose second five-year term (2022–2026) runs through 31 December 2026; a selection process for his successor was underway in 2026, with the new Secretary-General expected to take office in January 2027.",
+        "The Security Council's five permanent members — China, France, the Russian Federation, the United Kingdom, and the United States — each hold veto power over substantive (non-procedural) resolutions, which gives the Council a distinctive governance dynamic compared with the one-country-one-vote General Assembly.",
+        "ECOSOC (54 member states, elected by the General Assembly) coordinates the economic, social, and environmental work of the UN system, serving as the central platform for reflection and partnership on sustainable development."
+      ],
+      "fr": [
+        "Le Secrétaire général est le plus haut fonctionnaire de l'ONU ; il est nommé par l'Assemblée générale sur recommandation du Conseil de sécurité. En août 2026, ce poste est occupé par António Guterres, du Portugal, dont le second mandat de cinq ans (2022-2026) s'achève le 31 décembre 2026 ; le processus de sélection de son successeur était en cours en 2026, le nouveau Secrétaire général devant prendre ses fonctions en janvier 2027.",
+        "Les cinq membres permanents du Conseil de sécurité — Chine, États-Unis, Fédération de Russie, France et Royaume-Uni — disposent chacun d'un droit de veto sur les résolutions de fond (non procédurales), ce qui confère au Conseil une dynamique de gouvernance bien différente de celle de l'Assemblée générale, où chaque État dispose d'une voix.",
+        "L'ECOSOC (54 États membres, élus par l'Assemblée générale) coordonne les travaux économiques, sociaux et environnementaux du système des Nations Unies et constitue la plateforme centrale de réflexion et de partenariat sur le développement durable."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Knowing who reports to whom — and who currently holds the top posts — signals that you follow the institution seriously; interviewers may also ask how a candidate's proposed work would be authorized or overseen (e.g., by the General Assembly, the Security Council, or ECOSOC), depending on the role.",
+      "fr": "Savoir qui rend compte à qui — et qui occupe actuellement les postes clés — montre que vous suivez sérieusement l'institution ; les jurys peuvent aussi demander, selon le poste, par quel organe le travail envisagé serait autorisé ou supervisé (Assemblée générale, Conseil de sécurité ou ECOSOC)."
+      },
+    "quiz": [
+      {
+        "question": {
+          "en": "How many permanent members with veto power does the UN Security Council have?",
+          "fr": "Combien de membres permanents disposant d'un droit de veto compte le Conseil de sécurité de l'ONU ?"
+        },
+        "options": [
+          {"key": "A", "en": "15", "fr": "15"},
+          {"key": "B", "en": "10", "fr": "10"},
+          {"key": "C", "en": "5", "fr": "5"},
+          {"key": "D", "en": "193", "fr": "193"}
+        ],
+        "correct_answer": "C",
+        "explanation": {
+          "en": "The Security Council has 15 members in total: 5 permanent members with veto power (China, France, Russia, the United Kingdom, and the United States) and 10 non-permanent members elected for two-year terms.",
+          "fr": "Le Conseil de sécurité compte 15 membres au total : 5 membres permanents disposant d'un droit de veto (Chine, États-Unis, Fédération de Russie, France et Royaume-Uni) et 10 membres non permanents élus pour un mandat de deux ans."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "Main Bodies | United Nations", "url": "https://www.un.org/en/about-us/main-bodies"},
+      {"title": "Update on Selection and Appointment of New UN Secretary-General | SDG Knowledge Hub", "url": "https://sdg.iisd.org/news/update-on-selection-and-appointment-of-new-un-secretary-general/"},
+      {"title": "Selection and Appointment of António Guterres | Secretary-General", "url": "https://www.un.org/sg/en/content/selection-and-appointment-of-antonio-guterres"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "un-5",
+    "category": "Organization Knowledge",
+    "org_scope": "UN",
+    "title": {
+      "en": "How is the UN system funded, and how does recruitment vary across agencies?",
+      "fr": "Comment le système des Nations Unies est-il financé, et comment le recrutement varie-t-il d'une entité à l'autre ?"
+    },
+    "simple_definition": {
+      "en": "The UN is funded mainly through two mechanisms: assessed contributions, which member states are legally obligated to pay (for the regular budget and for peacekeeping, under a formula based on each country's capacity to pay), and voluntary contributions, on which many UN funds, programmes, and agencies rely entirely. The General Assembly approved a regular budget of about $3.45 billion for 2026, while the peacekeeping budget was approved at about $5.6 billion for fiscal year 2024–2025 — separate envelopes funded and governed differently.",
+      "fr": "L'ONU est financée principalement par deux mécanismes : les contributions statutaires (obligatoires), que les États membres sont juridiquement tenus de verser (pour le budget ordinaire et pour le maintien de la paix, selon une formule fondée sur la capacité de paiement de chaque pays), et les contributions volontaires, dont dépendent entièrement de nombreux fonds, programmes et institutions des Nations Unies. L'Assemblée générale a approuvé un budget ordinaire d'environ 3,45 milliards de dollars pour 2026, tandis que le budget du maintien de la paix a été approuvé à environ 5,6 milliards de dollars pour l'exercice 2024-2025 — deux enveloppes distinctes, financées et régies différemment."
+    },
+    "why_it_matters": {
+      "en": [
+        "Assessed contributions fund the UN Secretariat's regular budget and peacekeeping operations; the scale of assessment is set by the General Assembly using a formula based on gross national income, population, and external debt, so larger, wealthier economies pay larger shares.",
+        "Many UN entities — including UNICEF, UNHCR, and the World Food Programme — are funded almost entirely through voluntary contributions from governments, and increasingly from private donors, rather than assessed dues, which shapes their budget planning and donor relations work.",
+        "\"The UN\" is really a family of distinct entities — the Secretariat plus separately governed funds, programmes, and specialized agencies (e.g., UNDP, UNICEF, UNHCR, UNESCO, the World Bank) — and each one runs its own recruitment process, including its own young-professional or early-career entry programme (for example, the UN Secretariat's Young Professionals Programme, UNICEF's New and Emerging Talent Initiative, and UNESCO's Young Professionals Programme)."
+      ],
+      "fr": [
+        "Les contributions statutaires financent le budget ordinaire du Secrétariat de l'ONU ainsi que les opérations de maintien de la paix ; le barème des quotes-parts est fixé par l'Assemblée générale selon une formule fondée sur le revenu national brut, la population et la dette extérieure, de sorte que les économies les plus riches et les plus grandes versent des parts plus importantes.",
+        "De nombreuses entités des Nations Unies — dont l'UNICEF, le HCR et le Programme alimentaire mondial — sont financées presque exclusivement par des contributions volontaires des gouvernements, et de plus en plus de donateurs privés, plutôt que par des quotes-parts obligatoires, ce qui influence leur planification budgétaire et leurs relations avec les donateurs.",
+        "« L'ONU » désigne en réalité une famille d'entités distinctes — le Secrétariat, ainsi que des fonds, programmes et institutions spécialisées dotés de leur propre gouvernance (par exemple le PNUD, l'UNICEF, le HCR, l'UNESCO, la Banque mondiale) — et chacune mène son propre processus de recrutement, y compris son propre programme d'entrée pour jeunes professionnels (par exemple le Programme des jeunes administrateurs du Secrétariat de l'ONU, l'Initiative pour les nouveaux talents émergents de l'UNICEF, ou le Programme des jeunes professionnels de l'UNESCO)."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Because each UN entity funds and recruits itself separately, preparing for \"the UN YPP\" is not one-size-fits-all: you should identify which specific entity's programme you are applying to and learn its particular eligibility rules, exam format, and timeline rather than assuming they are identical across the UN system.",
+      "fr": "Comme chaque entité des Nations Unies se finance et recrute de façon autonome, se préparer pour « le YPP de l'ONU » n'est pas une démarche uniforme : il convient d'identifier précisément le programme de l'entité visée et d'en connaître les règles d'éligibilité, le format des épreuves et le calendrier propres, plutôt que de supposer qu'ils sont identiques dans tout le système des Nations Unies."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which statement best describes recruitment across the UN system?",
+          "fr": "Quelle affirmation décrit le mieux le recrutement au sein du système des Nations Unies ?"
+        },
+        "options": [
+          {"key": "A", "en": "All UN entities share a single, identical Young Professionals Programme with one common exam.", "fr": "Toutes les entités des Nations Unies partagent un programme unique et identique de jeunes professionnels, avec un examen commun."},
+          {"key": "B", "en": "Only the UN Secretariat hires young professionals; other agencies do not recruit entry-level staff.", "fr": "Seul le Secrétariat de l'ONU recrute de jeunes professionnels ; les autres institutions ne recrutent pas de personnel débutant."},
+          {"key": "C", "en": "Distinct UN entities, such as the Secretariat, UNICEF, and UNESCO, each run their own separate early-career recruitment programmes with their own rules.", "fr": "Différentes entités des Nations Unies, comme le Secrétariat, l'UNICEF et l'UNESCO, gèrent chacune leur propre programme de recrutement pour jeunes professionnels, avec ses propres règles."},
+          {"key": "D", "en": "Recruitment for all UN entities is centralized and funded solely through assessed contributions.", "fr": "Le recrutement dans toutes les entités des Nations Unies est centralisé et financé uniquement par des contributions statutaires."}
+        ],
+        "correct_answer": "C",
+        "explanation": {
+          "en": "The UN system comprises many distinct, separately governed entities (the Secretariat, UNICEF, UNESCO, UNDP, and others), and each runs its own early-career/young-professional recruitment programme with its own eligibility rules, exam format, and timeline.",
+          "fr": "Le système des Nations Unies regroupe de nombreuses entités distinctes, dotées de leur propre gouvernance (le Secrétariat, l'UNICEF, l'UNESCO, le PNUD, etc.), et chacune gère son propre programme de recrutement pour jeunes professionnels, avec ses règles d'éligibilité, son format d'examen et son calendrier propres."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "How we are funded | UN Peacekeeping", "url": "https://peacekeeping.un.org/en/how-we-are-funded"},
+      {"title": "General Assembly approves $3.45 billion UN regular budget for 2026 | United Nations", "url": "https://www.un.org/en/delegate/general-assembly-approves-345-billion-regular-budget-2026"},
+      {"title": "UN Young Talent Programmes managed by JPOSC | UNDP", "url": "https://www.undp.org/jposc/un-young-talent-programmes-managed-jposc"},
+      {"title": "Young Professionals Programme | UN Careers", "url": "https://careers.un.org/young-professionals-programme"}
+    ],
+    "last_updated": "2026-08-25"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "log-1",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Sequences",
+    "difficulty": "Easy",
+    "question": {
+      "en": "What number comes next in the sequence? 2, 6, 12, 20, 30, ?",
+      "fr": "Quel nombre complète la suite suivante ? 2, 6, 12, 20, 30, ?"
+    },
+    "options": [
+      {"key": "A", "en": "36", "fr": "36"},
+      {"key": "B", "en": "40", "fr": "40"},
+      {"key": "C", "en": "42", "fr": "42"},
+      {"key": "D", "en": "48", "fr": "48"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Each term equals n x (n+1): 1x2=2, 2x3=6, 3x4=12, 4x5=20, 5x6=30, so the next term is 6x7=42. The gaps between terms also confirm this: they increase by 2 each time (4, 6, 8, 10, 12), so 30+12=42.",
+      "fr": "Chaque terme correspond à n x (n+1) : 1x2=2, 2x3=6, 3x4=12, 4x5=20, 5x6=30 ; le terme suivant est donc 6x7=42. Les écarts entre les termes le confirment aussi : ils augmentent de 2 à chaque fois (4, 6, 8, 10, 12), donc 30+12=42."
+    },
+    "skill_tested": {
+      "en": "Numerical pattern recognition",
+      "fr": "Reconnaissance de schémas numériques"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-2",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Sequences",
+    "difficulty": "Easy",
+    "question": {
+      "en": "What letter comes next in the sequence? A, D, G, J, ?",
+      "fr": "Quelle lettre complète la suite suivante ? A, D, G, J, ?"
+    },
+    "options": [
+      {"key": "A", "en": "K", "fr": "K"},
+      {"key": "B", "en": "L", "fr": "L"},
+      {"key": "C", "en": "M", "fr": "M"},
+      {"key": "D", "en": "N", "fr": "N"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "The sequence skips two letters each time: A (1st), D (4th), G (7th), J (10th), each jump adding 3 to the letter's position in the alphabet. The next position is 13, which is M.",
+      "fr": "La suite avance de trois lettres à chaque étape : A (1re), D (4e), G (7e), J (10e). La position suivante dans l'alphabet est donc la 13e, soit la lettre M."
+    },
+    "skill_tested": {
+      "en": "Alphabetical pattern recognition",
+      "fr": "Reconnaissance de schémas alphabétiques"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-3",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Syllogisms",
+    "difficulty": "Easy",
+    "question": {
+      "en": "All accredited auditors have completed the ethics training. All staff who have completed the ethics training have attended the compliance workshop. Based only on these two statements, which conclusion must be true?",
+      "fr": "Tous les auditeurs accrédités ont suivi la formation en éthique. Tout le personnel ayant suivi la formation en éthique a assisté à l'atelier de conformité. Sur la seule base de ces deux affirmations, quelle conclusion est nécessairement vraie ?"
+    },
+    "options": [
+      {"key": "A", "en": "All accredited auditors have attended the compliance workshop.", "fr": "Tous les auditeurs accrédités ont assisté à l'atelier de conformité."},
+      {"key": "B", "en": "Everyone who attended the compliance workshop is an accredited auditor.", "fr": "Toute personne ayant assisté à l'atelier de conformité est un auditeur accrédité."},
+      {"key": "C", "en": "Only accredited auditors completed the ethics training.", "fr": "Seuls les auditeurs accrédités ont suivi la formation en éthique."},
+      {"key": "D", "en": "No conclusion can be drawn from these statements.", "fr": "Aucune conclusion ne peut être tirée de ces affirmations."}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "This is a valid chain syllogism: accredited auditors are a subset of those who completed ethics training, who in turn are a subset of those who attended the compliance workshop. Therefore all accredited auditors necessarily attended the compliance workshop. Options B and C reverse the logic (affirming statements that were never made), and D is wrong because a valid conclusion does follow.",
+      "fr": "Il s'agit d'un syllogisme en chaîne valide : les auditeurs accrédités forment un sous-ensemble des personnes ayant suivi la formation en éthique, elles-mêmes sous-ensemble des personnes ayant assisté à l'atelier de conformité. Tous les auditeurs accrédités ont donc nécessairement assisté à l'atelier. Les options B et C inversent la logique (elles affirment des relations jamais énoncées), et D est incorrecte puisqu'une conclusion valide peut bien être tirée."
+    },
+    "skill_tested": {
+      "en": "Deductive reasoning (syllogisms)",
+      "fr": "Raisonnement déductif (syllogismes)"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-4",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Syllogisms",
+    "difficulty": "Medium",
+    "question": {
+      "en": "All members of the finance committee are certified accountants. Some certified accountants work in the audit department. Based only on these two statements, which conclusion is best supported?",
+      "fr": "Tous les membres du comité financier sont des comptables certifiés. Certains comptables certifiés travaillent au service d'audit. Sur la seule base de ces deux affirmations, quelle conclusion est la mieux étayée ?"
+    },
+    "options": [
+      {"key": "A", "en": "Some members of the finance committee work in the audit department.", "fr": "Certains membres du comité financier travaillent au service d'audit."},
+      {"key": "B", "en": "All certified accountants are members of the finance committee.", "fr": "Tous les comptables certifiés sont membres du comité financier."},
+      {"key": "C", "en": "It cannot be determined whether any finance committee member works in the audit department.", "fr": "On ne peut pas déterminer si un membre du comité financier travaille au service d'audit."},
+      {"key": "D", "en": "No members of the finance committee work in the audit department.", "fr": "Aucun membre du comité financier ne travaille au service d'audit."}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "The 'some certified accountants work in audit' group is not guaranteed to overlap with the finance committee subgroup - it could be entirely made up of accountants who are not on the committee. Since the two statements do not specify which certified accountants work in audit, no definite conclusion about the committee can be drawn. This is a classic trap where a plausible-sounding conclusion (A) does not actually follow logically.",
+      "fr": "Rien ne garantit que le groupe des « certains comptables certifiés » travaillant à l'audit chevauche le sous-groupe du comité financier : il pourrait être composé uniquement de comptables ne siégeant pas au comité. Comme les deux affirmations ne précisent pas quels comptables certifiés travaillent à l'audit, aucune conclusion certaine sur le comité ne peut être tirée. C'est un piège classique où une conclusion en apparence plausible (A) ne découle pas réellement de la logique."
+    },
+    "skill_tested": {
+      "en": "Identifying valid vs invalid conclusions",
+      "fr": "Distinction entre conclusions valides et non valides"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-5",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Deductive Puzzles",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Four colleagues - Dan, Elena, Farid, and Grace - are ranked 1st to 4th by how quickly they completed a data-cleaning exercise (1st = fastest). Clue 1: Dan finished immediately before Elena. Clue 2: Farid finished before Dan. Clue 3: Grace did not finish last. Who finished last?",
+      "fr": "Quatre collègues - Dan, Elena, Farid et Grace - sont classés du 1er au 4e selon la rapidité avec laquelle ils ont terminé un exercice de nettoyage de données (1er = le plus rapide). Indice 1 : Dan a terminé juste avant Elena. Indice 2 : Farid a terminé avant Dan. Indice 3 : Grace n'a pas terminé en dernier. Qui a terminé en dernier ?"
+    },
+    "options": [
+      {"key": "A", "en": "Dan", "fr": "Dan"},
+      {"key": "B", "en": "Elena", "fr": "Elena"},
+      {"key": "C", "en": "Farid", "fr": "Farid"},
+      {"key": "D", "en": "Grace", "fr": "Grace"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Since Dan finished immediately before Elena, they must occupy consecutive ranks with Dan first of the pair. Testing rank pairs (1,2), (2,3), (3,4) for Dan/Elena while requiring Farid to rank before Dan: if Dan=1, no rank exists before him for Farid; if Dan=2, Farid=1 and the last remaining rank (4) would go to Grace, violating clue 3. Only Dan=3, Elena=4 works, leaving ranks 1 and 2 for Farid and Grace in either order - both satisfy clue 3. In every valid arrangement, Elena is ranked 4th, so Elena finished last.",
+      "fr": "Puisque Dan a terminé juste avant Elena, ils occupent des rangs consécutifs, Dan précédant Elena. En testant les paires de rangs (1,2), (2,3) et (3,4) pour Dan/Elena, tout en exigeant que Farid soit classé avant Dan : si Dan=1er, aucun rang n'existe avant lui pour Farid ; si Dan=2e, Farid=1er et le rang restant (4e) reviendrait à Grace, ce qui viole l'indice 3. Seule la solution Dan=3e, Elena=4e fonctionne, laissant les rangs 1 et 2 à Farid et Grace dans un ordre ou l'autre - les deux respectent l'indice 3. Dans tous les arrangements valides, Elena est classée 4e, donc c'est elle qui a terminé en dernier."
+    },
+    "skill_tested": {
+      "en": "Logical deduction from ordering clues",
+      "fr": "Déduction logique à partir d'indices de classement"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-6",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Sequences",
+    "difficulty": "Medium",
+    "question": {
+      "en": "What number comes next in the sequence? 3, 7, 15, 31, 63, ?",
+      "fr": "Quel nombre complète la suite suivante ? 3, 7, 15, 31, 63, ?"
+    },
+    "options": [
+      {"key": "A", "en": "95", "fr": "95"},
+      {"key": "B", "en": "115", "fr": "115"},
+      {"key": "C", "en": "127", "fr": "127"},
+      {"key": "D", "en": "126", "fr": "126"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Each term is double the previous term plus 1: 3x2+1=7, 7x2+1=15, 15x2+1=31, 31x2+1=63, so the next term is 63x2+1=127.",
+      "fr": "Chaque terme correspond au double du précédent, plus 1 : 3x2+1=7, 7x2+1=15, 15x2+1=31, 31x2+1=63. Le terme suivant est donc 63x2+1=127."
+    },
+    "skill_tested": {
+      "en": "Numerical pattern recognition",
+      "fr": "Reconnaissance de schémas numériques"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-7",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Deductive Puzzles",
+    "difficulty": "Hard",
+    "question": {
+      "en": "Four interns - Ben, Farah, Ken, and Omar - each presented their project on a different day, Monday through Thursday, one per day. Clue 1: Farah presented immediately before Ken. Clue 2: Ben did not present first or last. Clue 3: Omar presented before Farah. On which day did Farah present?",
+      "fr": "Quatre stagiaires - Ben, Farah, Ken et Omar - ont chacun présenté leur projet un jour différent, du lundi au jeudi, un par jour. Indice 1 : Farah a présenté juste avant Ken. Indice 2 : Ben n'a présenté ni en premier ni en dernier. Indice 3 : Omar a présenté avant Farah. Quel jour Farah a-t-elle présenté ?"
+    },
+    "options": [
+      {"key": "A", "en": "Monday", "fr": "Lundi"},
+      {"key": "B", "en": "Tuesday", "fr": "Mardi"},
+      {"key": "C", "en": "Wednesday", "fr": "Mercredi"},
+      {"key": "D", "en": "Thursday", "fr": "Jeudi"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Farah and Ken must occupy consecutive slots, with Farah first (positions 1-2, 2-3, or 3-4). If Farah=1, Omar would need a slot before position 1, which is impossible. If Farah=2, Ken=3, then Omar (before Farah) must be 1, leaving Ben=4 - but clue 2 forbids Ben from being last, so this fails. That leaves Farah=3, Ken=4, with Omar taking position 1 or 2 (both satisfy 'before Farah') and Ben taking the other of position 1 or 2 - but since Ben cannot be first, Ben must be 2 and Omar must be 1. This gives Omar=Monday, Ben=Tuesday, Farah=Wednesday, Ken=Thursday, so Farah presented on Wednesday.",
+      "fr": "Farah et Ken doivent occuper des créneaux consécutifs, Farah en premier (positions 1-2, 2-3 ou 3-4). Si Farah=1, Omar aurait besoin d'un créneau avant la position 1, ce qui est impossible. Si Farah=2, Ken=3, alors Omar (avant Farah) doit être en position 1, laissant Ben en position 4 - mais l'indice 2 interdit à Ben d'être dernier, donc ce cas échoue. Il reste Farah=3, Ken=4, avec Omar en position 1 ou 2 (les deux respectent « avant Farah ») et Ben prenant l'autre position - mais comme Ben ne peut pas être premier, Ben doit être en position 2 et Omar en position 1. On obtient donc Omar=lundi, Ben=mardi, Farah=mercredi, Ken=jeudi : Farah a présenté mercredi."
+    },
+    "skill_tested": {
+      "en": "Multi-step deductive reasoning",
+      "fr": "Raisonnement déductif à plusieurs étapes"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-8",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Pattern Logic",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Complete the analogy: Report is to Findings as Meeting is to ___.",
+      "fr": "Complétez l'analogie : Rapport est à Constats ce que Réunion est à ___."
+    },
+    "options": [
+      {"key": "A", "en": "Room", "fr": "Salle"},
+      {"key": "B", "en": "Agenda", "fr": "Ordre du jour"},
+      {"key": "C", "en": "Minutes", "fr": "Compte rendu"},
+      {"key": "D", "en": "Attendees", "fr": "Participants"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "A report produces findings as its documented output or record of results. Similarly, a meeting produces minutes as its documented output or record of what took place. 'Agenda' and 'Attendees' relate to inputs or participants of a meeting rather than its output, and 'Room' is unrelated to content, so 'Minutes' is the closest functional match.",
+      "fr": "Un rapport produit des constats comme résultat documenté. De la même manière, une réunion produit un compte rendu comme trace écrite de ce qui s'y est passé. « Ordre du jour » et « Participants » se rapportent aux éléments en amont de la réunion plutôt qu'à son résultat, et « Salle » n'a aucun lien avec le contenu ; « Compte rendu » est donc l'équivalent fonctionnel le plus proche."
+    },
+    "skill_tested": {
+      "en": "Analogical reasoning",
+      "fr": "Raisonnement par analogie"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-9",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Deductive Puzzles",
+    "difficulty": "Hard",
+    "question": {
+      "en": "One of three colleagues - Aisha, Bruno, or Chen - submitted the quarterly budget report late. Aisha says: 'Bruno submitted late.' Bruno says: 'I did not submit late.' Chen says: 'Aisha submitted late.' Exactly one of the three is lying, and the other two are telling the truth. Who submitted the report late?",
+      "fr": "L'un de trois collègues - Aisha, Bruno ou Chen - a remis le rapport budgétaire trimestriel en retard. Aisha déclare : « Bruno l'a remis en retard. » Bruno déclare : « Je ne l'ai pas remis en retard. » Chen déclare : « Aisha l'a remis en retard. » Une seule de ces trois personnes ment, les deux autres disent la vérité. Qui a remis le rapport en retard ?"
+    },
+    "options": [
+      {"key": "A", "en": "Aisha", "fr": "Aisha"},
+      {"key": "B", "en": "Bruno", "fr": "Bruno"},
+      {"key": "C", "en": "Chen", "fr": "Chen"},
+      {"key": "D", "en": "It cannot be determined", "fr": "Impossible à déterminer"}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "Test each possibility. If Aisha is late: her statement ('Bruno late') is false, Bruno's statement ('I did not submit late') is true, and Chen's statement ('Aisha late') is true - exactly one lie, which fits. If Bruno is late: Aisha's statement becomes true, but Bruno's and Chen's both become false - two lies, which does not fit. If Chen is late: Aisha's statement is false, Bruno's is true, and Chen's is false - two lies, which also does not fit. Only 'Aisha is late' produces exactly one liar, so Aisha submitted the report late.",
+      "fr": "Testons chaque possibilité. Si Aisha est en retard : son affirmation (« Bruno en retard ») est fausse, celle de Bruno (« je ne suis pas en retard ») est vraie, et celle de Chen (« Aisha en retard ») est vraie - un seul mensonge, ce qui correspond. Si Bruno est en retard : l'affirmation d'Aisha devient vraie, mais celles de Bruno et de Chen deviennent fausses toutes les deux - deux mensonges, ce qui ne correspond pas. Si Chen est en retard : l'affirmation d'Aisha est fausse, celle de Bruno est vraie, celle de Chen est fausse - deux mensonges également, ce qui ne correspond pas. Seule l'hypothèse « Aisha est en retard » produit exactement un menteur ; c'est donc Aisha qui a remis le rapport en retard."
+    },
+    "skill_tested": {
+      "en": "Truth-teller/liar logic",
+      "fr": "Logique de véracité (vérité/mensonge)"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "log-10",
+    "organization_scope": "General",
+    "category": "Logical Reasoning",
+    "subcategory": "Sequences",
+    "difficulty": "Hard",
+    "question": {
+      "en": "What comes next in the sequence? Z, 4, Y, 8, X, 12, W, ?",
+      "fr": "Que trouve-t-on ensuite dans la suite suivante ? Z, 4, Y, 8, X, 12, W, ?"
+    },
+    "options": [
+      {"key": "A", "en": "14", "fr": "14"},
+      {"key": "B", "en": "15", "fr": "15"},
+      {"key": "C", "en": "16", "fr": "16"},
+      {"key": "D", "en": "V", "fr": "V"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "This sequence interleaves two independent patterns. The letters count backward through the alphabet: Z, Y, X, W (each preceded a number). The numbers are multiples of 4: 4, 8, 12, and following that pattern the next number is 16. Since the sequence just gave 'W' (a letter), the next element continues the number pattern, giving 16. Option D wrongly continues the letter pattern instead of the number pattern that is actually due next.",
+      "fr": "Cette suite entrelace deux schémas indépendants. Les lettres reculent dans l'alphabet : Z, Y, X, W (chacune suivie d'un nombre). Les nombres sont des multiples de 4 : 4, 8, 12, et en poursuivant ce schéma, le nombre suivant est 16. Comme la suite vient de donner « W » (une lettre), l'élément suivant doit poursuivre le schéma numérique, soit 16. L'option D poursuit à tort le schéma des lettres alors que c'est le schéma numérique qui est attendu à ce stade."
+    },
+    "skill_tested": {
+      "en": "Interleaved pattern recognition",
+      "fr": "Reconnaissance de schémas imbriqués"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-1",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Supervisor Relations",
+    "difficulty": "Easy",
+    "question": {
+      "en": "You disagree with your supervisor's chosen approach for an upcoming analysis, and you believe an alternative method would produce more accurate results. What is the most effective way to handle this?",
+      "fr": "Vous n'êtes pas d'accord avec l'approche choisie par votre supérieur hiérarchique pour une analyse à venir, et vous pensez qu'une autre méthode donnerait des résultats plus fiables. Quelle est la meilleure façon de gérer cette situation ?"
+    },
+    "options": [
+      {"key": "A", "en": "Raise your concern privately with your supervisor, explaining your reasoning and proposed alternative, while remaining open to their input.", "fr": "Faire part de votre préoccupation en privé à votre supérieur, en expliquant votre raisonnement et votre proposition alternative, tout en restant ouvert à son avis."},
+      {"key": "B", "en": "Quietly implement your own approach instead, since you are confident it is more accurate.", "fr": "Appliquer discrètement votre propre approche, puisque vous êtes convaincu qu'elle est plus fiable."},
+      {"key": "C", "en": "Raise the issue in the next team meeting to get colleagues' support before speaking with your supervisor.", "fr": "Soulever le problème lors de la prochaine réunion d'équipe afin d'obtenir le soutien de vos collègues avant d'en parler à votre supérieur."},
+      {"key": "D", "en": "Comply silently, since a supervisor's decisions should not be questioned.", "fr": "Vous conformer sans rien dire, considérant qu'il ne faut pas remettre en question les décisions d'un supérieur."}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "Respectfully sharing a well-reasoned concern in a private conversation allows your supervisor to consider your input without feeling undermined, and keeps the relationship collaborative. Acting unilaterally (B) risks confusion and shows poor judgment; rallying colleagues first (C) can appear as building opposition rather than resolving the issue directly; and silent compliance (D) forfeits potentially valuable insight and does not reflect the constructive communication expected of early-career professionals.",
+      "fr": "Faire part d'une préoccupation bien argumentée lors d'un échange privé permet à votre supérieur d'examiner votre point de vue sans se sentir remis en cause, tout en préservant une relation de travail constructive. Agir unilatéralement (B) risque de créer de la confusion et témoigne d'un manque de discernement ; chercher d'abord le soutien de collègues (C) peut donner l'impression de fédérer une opposition plutôt que de résoudre le problème directement ; et se conformer sans rien dire (D) prive l'équipe d'un apport potentiellement utile et ne reflète pas la communication constructive attendue d'un jeune professionnel."
+    },
+    "skill_tested": {
+      "en": "Constructive communication with supervisors",
+      "fr": "Communication constructive avec la hiérarchie"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-2",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Time Management",
+    "difficulty": "Easy",
+    "question": {
+      "en": "You are assigned two urgent tasks due on the same day by two different teams, and you realize you cannot complete both to a high standard in time. What should you do?",
+      "fr": "Deux équipes différentes vous confient chacune une tâche urgente à rendre le même jour, et vous réalisez que vous ne pourrez pas mener les deux à bien dans les temps avec un niveau de qualité satisfaisant. Que devez-vous faire ?"
+    },
+    "options": [
+      {"key": "A", "en": "Start with whichever task seems easier and deal with the other one once it becomes a problem.", "fr": "Commencer par la tâche qui semble la plus simple et s'occuper de l'autre seulement si un problème se présente."},
+      {"key": "B", "en": "Promptly inform both requesters of the conflict and ask for guidance on priority or possible flexibility on timing.", "fr": "Informer rapidement les deux équipes du conflit d'échéances et leur demander des indications sur la priorité à donner, ou une éventuelle flexibilité sur les délais."},
+      {"key": "C", "en": "Rush through both tasks to submit something on time, even if the quality is lower than usual.", "fr": "Expédier les deux tâches pour les rendre à temps, même si la qualité en pâtit."},
+      {"key": "D", "en": "Prioritize the request from the more senior person without telling the other requester.", "fr": "Donner la priorité à la demande de la personne la plus haut placée, sans en informer l'autre."}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Proactively flagging a scheduling conflict as soon as it is identified allows both parties to make an informed decision about priority, deadlines, or additional support - this is the professional standard for managing competing demands. Guessing which task is 'easier' (A) ignores actual business priority; lowering quality on both (C) risks poor outcomes for everyone; and silently prioritizing one requester (D) leaves the other unaware and unable to adjust their own plans.",
+      "fr": "Signaler proactivement un conflit d'échéances dès qu'il est identifié permet aux deux parties de décider en connaissance de cause de la priorité, des délais ou d'un éventuel appui supplémentaire - c'est la norme professionnelle attendue pour gérer des demandes concurrentes. Deviner quelle tâche est « plus simple » (A) ignore la priorité réelle de l'organisation ; bâcler les deux tâches (C) risque de produire un résultat médiocre pour tout le monde ; et prioriser silencieusement une des deux équipes (D) laisse l'autre dans l'ignorance et incapable d'ajuster ses propres plans."
+    },
+    "skill_tested": {
+      "en": "Prioritization and proactive communication",
+      "fr": "Priorisation et communication proactive"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-3",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Multicultural Teamwork",
+    "difficulty": "Easy",
+    "question": {
+      "en": "You notice that a colleague from a different cultural background rarely speaks up during team meetings, and you suspect the team may be missing out on their ideas. What is the most appropriate response?",
+      "fr": "Vous remarquez qu'un collègue d'une culture différente prend rarement la parole lors des réunions d'équipe, et vous soupçonnez que l'équipe passe à côté de ses idées. Quelle est la réponse la plus appropriée ?"
+    },
+    "options": [
+      {"key": "A", "en": "Assume they simply have nothing to add and move on.", "fr": "Supposer qu'il n'a simplement rien à ajouter et passer à autre chose."},
+      {"key": "B", "en": "Call them out in front of the team to pressure them into speaking.", "fr": "L'interpeller devant toute l'équipe pour le pousser à s'exprimer."},
+      {"key": "C", "en": "Invite their input directly during the meeting and also offer alternative ways to share ideas, such as written comments afterward.", "fr": "L'inviter directement à s'exprimer pendant la réunion, tout en proposant d'autres façons de partager ses idées, comme des commentaires écrits après coup."},
+      {"key": "D", "en": "Do nothing, since participation style is a personal choice that should not be addressed.", "fr": "Ne rien faire, car la façon de participer relève d'un choix personnel qu'il ne faut pas aborder."}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Different cultural norms around hierarchy and group communication can affect how comfortable someone feels speaking up in a meeting. Directly and respectfully inviting their input, while also offering alternative channels (like written follow-up), creates space for genuine participation without singling anyone out uncomfortably. Assuming disengagement (A) or ignoring the pattern (D) both risk losing valuable perspectives, while publicly pressuring the colleague (B) could cause embarrassment and further discourage participation.",
+      "fr": "Les normes culturelles relatives à la hiérarchie et à la communication en groupe peuvent influencer le degré d'aisance d'une personne à s'exprimer en réunion. Inviter directement et respectueusement cette personne à donner son avis, tout en proposant d'autres canaux (comme des commentaires écrits ensuite), crée un espace de participation authentique sans la mettre mal à l'aise. Supposer un désintérêt (A) ou ignorer la situation (D) risquent tous deux de priver l'équipe d'apports précieux, tandis que la mettre sous pression publiquement (B) pourrait la gêner et décourager encore davantage sa participation."
+    },
+    "skill_tested": {
+      "en": "Inclusive teamwork in multicultural settings",
+      "fr": "Travail d'équipe inclusif en contexte multiculturel"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-4",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Ethics & Integrity",
+    "difficulty": "Medium",
+    "question": {
+      "en": "You discover that a colleague slightly altered data in a report to make results appear more favorable to a donor. What is the most appropriate course of action?",
+      "fr": "Vous découvrez qu'un collègue a légèrement modifié des données dans un rapport afin de présenter des résultats plus favorables à un bailleur de fonds. Quelle est la démarche la plus appropriée ?"
+    },
+    "options": [
+      {"key": "A", "en": "Ignore it, since the report has already been submitted and it is not your responsibility.", "fr": "Ignorer le problème, car le rapport a déjà été soumis et que ce n'est pas de votre ressort."},
+      {"key": "B", "en": "Quietly correct the data yourself without telling anyone about what you found.", "fr": "Corriger discrètement les données vous-même, sans informer personne de ce que vous avez découvert."},
+      {"key": "C", "en": "Raise the concern directly with your colleague first, and if it remains unresolved or is serious, report it through the appropriate channel, such as your supervisor or the ethics/compliance office.", "fr": "Faire part de votre préoccupation directement à votre collègue dans un premier temps et, si la situation n'est pas résolue ou s'avère grave, la signaler par la voie appropriée, par exemple à votre supérieur ou au service de déontologie/conformité."},
+      {"key": "D", "en": "Report the colleague immediately to senior management without first discussing it with them.", "fr": "Signaler immédiatement le collègue à la direction sans lui en avoir parlé au préalable."}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Data integrity is a core professional and ethical standard at international organizations, so this issue cannot be ignored (A) or quietly patched over on your own (B), which would leave the underlying problem and its cause unaddressed. Addressing it directly with the colleague first is generally appropriate and respectful, but if the matter is unresolved or serious enough to affect stakeholder trust, escalating through proper channels such as a supervisor or ethics/compliance function is necessary. Skipping straight to senior management without any attempt at direct dialogue (D) is disproportionate for an initial step, though escalation would become appropriate if the issue persists or is severe.",
+      "fr": "L'intégrité des données constitue une norme professionnelle et éthique fondamentale dans les organisations internationales ; ce problème ne peut donc être ni ignoré (A) ni corrigé discrètement de sa propre initiative (B), ce qui laisserait le problème de fond et sa cause sans réponse. Aborder la question directement avec le collègue en premier lieu est généralement approprié et respectueux, mais si la situation n'est pas résolue ou est suffisamment grave pour affecter la confiance des parties prenantes, il devient nécessaire de la faire remonter par les voies appropriées, comme un supérieur ou le service de déontologie/conformité. Passer directement à la direction sans aucune tentative de dialogue direct (D) est disproportionné comme première étape, même si une escalade deviendrait justifiée si le problème persiste ou s'avère grave."
+    },
+    "skill_tested": {
+      "en": "Integrity and ethical decision-making",
+      "fr": "Intégrité et prise de décision éthique"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-5",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Feedback & Development",
+    "difficulty": "Medium",
+    "question": {
+      "en": "Your supervisor gives you critical feedback on a presentation you delivered, pointing out several weaknesses. What is the most professional response?",
+      "fr": "Votre supérieur vous donne un retour critique sur une présentation que vous avez faite, en soulignant plusieurs faiblesses. Quelle est la réaction la plus professionnelle ?"
+    },
+    "options": [
+      {"key": "A", "en": "Explain in detail all the reasons why you believe the feedback is unfair.", "fr": "Expliquer en détail pourquoi vous estimez que ce retour est injuste."},
+      {"key": "B", "en": "Listen carefully, ask clarifying questions if needed, and use the feedback to improve future work.", "fr": "Écouter attentivement, poser des questions de clarification si nécessaire, et utiliser ce retour pour améliorer votre travail futur."},
+      {"key": "C", "en": "Avoid your supervisor for a while to reduce the chance of further criticism.", "fr": "Éviter votre supérieur pendant quelque temps pour limiter le risque de nouvelles critiques."},
+      {"key": "D", "en": "Agree outwardly in the moment but privately dismiss the feedback as invalid.", "fr": "Acquiescer sur le moment tout en écartant intérieurement ce retour comme non fondé."}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Receiving feedback openly, seeking clarification where useful, and applying it constructively demonstrates professional maturity and a genuine growth mindset - qualities international organizations look for in young professionals. Becoming defensive (A) can damage the working relationship and block learning; avoidance (C) does not resolve the underlying issue and can appear unprofessional; and outwardly agreeing while privately dismissing the feedback (D) is a missed opportunity for improvement and is not authentic engagement.",
+      "fr": "Accueillir un retour avec ouverture d'esprit, demander des précisions si utile, et l'appliquer de façon constructive témoigne d'une maturité professionnelle et d'un véritable esprit de progression - des qualités recherchées chez les jeunes professionnels dans les organisations internationales. Se mettre sur la défensive (A) peut nuire à la relation de travail et freiner l'apprentissage ; éviter la personne (C) ne règle pas le problème de fond et peut paraître peu professionnel ; et acquiescer en surface tout en rejetant intérieurement le retour (D) fait perdre une occasion de progresser et ne relève pas d'un engagement sincère."
+    },
+    "skill_tested": {
+      "en": "Receptiveness to feedback",
+      "fr": "Réceptivité au feedback"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-6",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Confidentiality",
+    "difficulty": "Hard",
+    "question": {
+      "en": "An external partner you know informally asks you to share unpublished draft figures from a project you are working on, saying it would just be 'between us.' What is the most appropriate response?",
+      "fr": "Un partenaire externe que vous connaissez de manière informelle vous demande de lui communiquer des chiffres provisoires non publiés d'un projet sur lequel vous travaillez, en précisant que cela resterait « entre nous ». Quelle est la réponse la plus appropriée ?"
+    },
+    "options": [
+      {"key": "A", "en": "Share a brief summary of the figures informally, since the request seems harmless.", "fr": "Communiquer un bref résumé des chiffres de manière informelle, la demande paraissant sans conséquence."},
+      {"key": "B", "en": "Politely decline to share the information and direct the request to the appropriate official channel, such as your supervisor or the communications function.", "fr": "Décliner poliment la demande et l'orienter vers la voie officielle appropriée, par exemple votre supérieur ou le service de communication."},
+      {"key": "C", "en": "Share the figures but ask the partner to keep them confidential.", "fr": "Transmettre les chiffres tout en demandant au partenaire de les garder confidentiels."},
+      {"key": "D", "en": "Ignore the request entirely and do not respond at all.", "fr": "Ignorer complètement la demande et n'y répondre en aucune façon."}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Unpublished internal information should only be shared through official, authorized channels, regardless of how informal or low-risk the request may seem - this protects both the organization's credibility and the requester from being placed in an unfair position. Sharing the figures, even with a confidentiality request attached (A and C), still breaches proper protocol and can create real reputational or legal risk. Simply ignoring the request (D) is unprofessional and leaves the relationship and the request unresolved; a polite decline paired with a redirection to the correct channel is both respectful and appropriate.",
+      "fr": "Les informations internes non publiées ne doivent être communiquées que par des voies officielles et autorisées, quelle que soit l'apparente innocuité de la demande - cela protège à la fois la crédibilité de l'organisation et la personne qui demande l'information d'une situation inéquitable. Transmettre les chiffres, même en demandant la confidentialité (A et C), enfreint tout de même le protocole approprié et peut créer un véritable risque réputationnel ou juridique. Ignorer purement et simplement la demande (D) est peu professionnel et laisse la relation et la demande sans réponse ; un refus poli accompagné d'une orientation vers la voie appropriée est à la fois respectueux et adapté."
+    },
+    "skill_tested": {
+      "en": "Confidentiality and information management",
+      "fr": "Confidentialité et gestion de l'information"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-7",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Team Performance",
+    "difficulty": "Medium",
+    "question": {
+      "en": "You notice that a peer on your project team has consistently missed internal deadlines, which is starting to put the team's shared deliverable at risk. What should you do?",
+      "fr": "Vous constatez qu'un collègue de votre équipe projet ne respecte régulièrement pas les échéances internes, ce qui commence à mettre en péril le livrable commun de l'équipe. Que devez-vous faire ?"
+    },
+    "options": [
+      {"key": "A", "en": "Quietly complete their part of the work yourself to avoid any conflict.", "fr": "Terminer discrètement sa part du travail vous-même pour éviter tout conflit."},
+      {"key": "B", "en": "Speak with the colleague privately to understand the cause and see how you might help them meet deadlines; if the issue continues to affect the deliverable, flag it to your supervisor or team lead.", "fr": "Parler avec le collègue en privé pour comprendre la cause du problème et voir comment l'aider à respecter les délais ; si le problème persiste et continue d'affecter le livrable, en informer votre supérieur ou le chef d'équipe."},
+      {"key": "C", "en": "Report the colleague to the supervisor immediately, without speaking to them first.", "fr": "Signaler immédiatement le collègue à votre supérieur, sans lui en parler au préalable."},
+      {"key": "D", "en": "Say nothing and let the deliverable be late, since it is not your individual responsibility.", "fr": "Ne rien dire et laisser le livrable prendre du retard, considérant que ce n'est pas de votre responsabilité individuelle."}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "A supportive, direct conversation first respects the colleague and often surfaces a solvable underlying cause (workload, unclear expectations, personal circumstances), while escalating to a supervisor if the pattern continues protects the team's deliverable without bypassing the colleague unnecessarily. Silently absorbing their work (A) is unsustainable and does not solve the root problem; escalating immediately without direct conversation (C) can damage trust and skip a reasonable first step; and disengaging entirely (D) ignores your shared responsibility for a team outcome.",
+      "fr": "Un échange direct et bienveillant en premier lieu respecte le collègue et permet souvent de mettre au jour une cause sous-jacente qui peut être résolue (charge de travail, attentes peu claires, situation personnelle), tandis qu'une escalade vers le supérieur si le problème persiste protège le livrable de l'équipe sans court-circuiter inutilement le collègue. Assumer discrètement sa charge de travail (A) n'est pas viable dans la durée et ne règle pas le problème de fond ; escalader immédiatement sans discussion directe (C) peut nuire à la confiance et sauter une étape raisonnable ; et se désengager totalement (D) fait abstraction de votre responsabilité partagée dans le résultat de l'équipe."
+    },
+    "skill_tested": {
+      "en": "Supportive team accountability",
+      "fr": "Responsabilisation collaborative au sein de l'équipe"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-8",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Professional Recognition",
+    "difficulty": "Medium",
+    "question": {
+      "en": "You contributed significantly to an analysis, but in a meeting, a colleague presents it as entirely their own work. How should you respond?",
+      "fr": "Vous avez contribué de manière significative à une analyse, mais lors d'une réunion, un collègue la présente comme étant entièrement son propre travail. Comment devez-vous réagir ?"
+    },
+    "options": [
+      {"key": "A", "en": "Publicly correct the colleague in front of everyone during the meeting.", "fr": "Corriger publiquement le collègue devant tout le monde pendant la réunion."},
+      {"key": "B", "en": "Say nothing at all, even though it bothers you, to avoid seeming petty.", "fr": "Ne rien dire du tout, même si cela vous dérange, pour éviter de paraître mesquin."},
+      {"key": "C", "en": "Speak with the colleague privately afterward to clarify contributions, and if needed, ensure your manager is aware of your role going forward.", "fr": "Parler avec le collègue en privé par la suite pour clarifier les contributions et, si nécessaire, veiller à ce que votre manager soit informé de votre rôle à l'avenir."},
+      {"key": "D", "en": "Complain to other colleagues about the situation without addressing it directly with the person involved.", "fr": "Se plaindre de la situation auprès d'autres collègues sans en parler directement à la personne concernée."}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Addressing the situation calmly and privately gives the colleague a chance to clarify or correct the record and preserves a professional relationship, while also ensuring your contributions are visible to relevant stakeholders going forward. Public correction in the moment (A) can embarrass the colleague unnecessarily and appear confrontational; staying completely silent (B) allows a pattern of misattribution to continue and can affect your professional recognition; and venting to other colleagues instead of addressing it directly (D) does not resolve the issue and can create unnecessary office tension.",
+      "fr": "Aborder la situation calmement et en privé donne au collègue l'occasion de clarifier ou de rectifier les choses, tout en préservant une relation professionnelle et en veillant à ce que votre contribution soit visible auprès des parties concernées à l'avenir. Une correction publique sur le moment (A) peut inutilement mettre le collègue mal à l'aise et paraître conflictuelle ; garder le silence complet (B) laisse perdurer un schéma de mauvaise attribution et peut nuire à votre reconnaissance professionnelle ; et se plaindre auprès d'autres collègues sans aborder directement la personne concernée (D) ne règle pas le problème et peut créer des tensions inutiles."
+    },
+    "skill_tested": {
+      "en": "Professionalism and fair recognition",
+      "fr": "Professionnalisme et reconnaissance équitable"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-9",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Conflict Resolution",
+    "difficulty": "Hard",
+    "question": {
+      "en": "You are working on a joint project and receive contradictory instructions from two different supervisors, with the deadline approaching quickly. What is the best course of action?",
+      "fr": "Vous travaillez sur un projet conjoint et recevez des instructions contradictoires de la part de deux supérieurs différents, alors que l'échéance approche rapidement. Quelle est la meilleure marche à suivre ?"
+    },
+    "options": [
+      {"key": "A", "en": "Follow whichever supervisor gave instructions most recently, to keep things simple.", "fr": "Suivre les instructions du supérieur qui s'est exprimé le plus récemment, pour simplifier les choses."},
+      {"key": "B", "en": "Proceed based on your own judgment without informing either supervisor of the conflict.", "fr": "Avancer selon votre propre jugement sans informer aucun des deux supérieurs du conflit."},
+      {"key": "C", "en": "Inform both supervisors of the conflicting instructions and ask them to clarify or align on the priority, ideally through a brief joint conversation.", "fr": "Informer les deux supérieurs des instructions contradictoires et leur demander de clarifier ou d'harmoniser les priorités, idéalement lors d'un bref échange conjoint."},
+      {"key": "D", "en": "Delay the work entirely and wait for the conflict to resolve itself.", "fr": "Suspendre entièrement le travail et attendre que le conflit se résolve de lui-même."}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Conflicting instructions on a shared deadline are best resolved by surfacing the conflict transparently to both parties, since only they may have the full context to realign priorities - and a brief joint conversation is usually the fastest way to reach clarity. Guessing based on recency (A) or your own judgment alone (B) risks acting against one supervisor's actual priorities and can create friction later; passively waiting for the conflict to resolve itself (D) wastes valuable time as the deadline approaches and does not reflect proactive problem-solving.",
+      "fr": "Des instructions contradictoires sur une échéance commune se résolvent le mieux en signalant le conflit de façon transparente aux deux parties, car elles seules disposent peut-être du contexte complet nécessaire pour harmoniser les priorités - et un bref échange conjoint est généralement le moyen le plus rapide d'obtenir de la clarté. Se fier à l'ordre chronologique des instructions (A) ou à son propre jugement seul (B) risque d'aller à l'encontre des priorités réelles d'un des supérieurs et peut créer des tensions par la suite ; attendre passivement que le conflit se résolve de lui-même (D) gaspille un temps précieux à l'approche de l'échéance et ne traduit pas une démarche proactive de résolution de problème."
+    },
+    "skill_tested": {
+      "en": "Managing conflicting priorities",
+      "fr": "Gestion de priorités contradictoires"
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "sjt-10",
+    "organization_scope": "General",
+    "category": "Situational Judgment",
+    "subcategory": "Accountability",
+    "difficulty": "Hard",
+    "question": {
+      "en": "After a report has already been circulated to senior stakeholders, you realize you made a calculation error that could affect a decision based on the report. What should you do?",
+      "fr": "Après qu'un rapport a déjà été diffusé à des parties prenantes de haut niveau, vous réalisez que vous avez commis une erreur de calcul susceptible d'influencer une décision fondée sur ce rapport. Que devez-vous faire ?"
+    },
+    "options": [
+      {"key": "A", "en": "Wait to see if anyone notices the error before saying anything.", "fr": "Attendre de voir si quelqu'un remarque l'erreur avant d'en parler."},
+      {"key": "B", "en": "Quietly send a corrected version to stakeholders without explaining what changed or why.", "fr": "Envoyer discrètement une version corrigée aux parties prenantes, sans expliquer ce qui a changé ni pourquoi."},
+      {"key": "C", "en": "Immediately inform your supervisor of the error and work together to issue a timely, clear correction to all recipients.", "fr": "Informer immédiatement votre supérieur de l'erreur et travailler ensemble à diffuser rapidement une correction claire à tous les destinataires."},
+      {"key": "D", "en": "Correct the error only in your own personal files, since the report has already been sent out.", "fr": "Corriger l'erreur uniquement dans vos propres fichiers personnels, puisque le rapport a déjà été envoyé."}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Promptly disclosing an error that could affect a decision, and working with your supervisor to issue a clear, timely correction, reflects accountability and protects the integrity of the decision-making process - this is the standard expected of professionals at international organizations. Waiting silently (A) risks a flawed decision being made and looks worse if discovered later; sending a correction without explanation (B) can cause confusion about what changed; and only fixing your personal files (D) leaves stakeholders working from inaccurate information entirely.",
+      "fr": "Signaler rapidement une erreur susceptible d'affecter une décision, et travailler avec son supérieur pour diffuser une correction claire et rapide, témoigne d'un sens des responsabilités et protège l'intégrité du processus décisionnel - c'est la norme attendue des professionnels dans les organisations internationales. Attendre en silence (A) risque de laisser une décision erronée être prise et paraît pire si l'erreur est découverte plus tard ; envoyer une correction sans explication (B) peut créer de la confusion sur ce qui a changé ; et ne corriger que ses propres fichiers personnels (D) laisse les parties prenantes travailler entièrement sur la base d'informations inexactes."
+    },
+    "skill_tested": {
+      "en": "Accountability and transparency",
+      "fr": "Responsabilité et transparence"
+    },
+    "source": "Original YPPReady practice question"
+  }
+]

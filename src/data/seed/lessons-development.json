@@ -1,0 +1,522 @@
+[
+  {
+    "id": "dev-lesson-1",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "What is Financial Inclusion?",
+      "fr": "Qu'est-ce que l'inclusion financière ?"
+    },
+    "simple_definition": {
+      "en": "Financial inclusion means that individuals and businesses have access to useful, affordable financial products and services — payments, savings, credit, and insurance — delivered responsibly and sustainably, regardless of income level or location.",
+      "fr": "L'inclusion financière désigne le fait que les particuliers et les entreprises disposent d'un accès à des produits et services financiers utiles et abordables — paiements, épargne, crédit et assurance — fournis de manière responsable et durable, quel que soit leur niveau de revenu ou leur lieu de résidence."
+    },
+    "why_it_matters": {
+      "en": [
+        "Enables households to save, smooth consumption, and absorb financial shocks such as illness or crop failure.",
+        "Gives small businesses access to the credit they need to invest and create jobs.",
+        "Digital financial services (mobile money, agent banking) have rapidly expanded access in regions with limited bank branch networks.",
+        "Financial exclusion disproportionately affects women, rural populations, and the poor, reinforcing existing inequalities."
+      ],
+      "fr": [
+        "Permet aux ménages d'épargner, de lisser leur consommation et d'amortir les chocs financiers (maladie, mauvaise récolte, etc.).",
+        "Donne aux petites entreprises l'accès au crédit nécessaire pour investir et créer des emplois.",
+        "Les services financiers numériques (mobile money, banque par agents) ont considérablement élargi l'accès dans les régions où le réseau d'agences bancaires est limité.",
+        "L'exclusion financière touche de manière disproportionnée les femmes, les populations rurales et les plus pauvres, ce qui renforce les inégalités existantes."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP interviewers frequently probe candidates on financial inclusion because it sits at the intersection of poverty reduction, private-sector development, and digital innovation — core priorities for institutions like the World Bank Group, IFC, and regional development banks. Be ready to discuss trade-offs between expanding access and managing risks such as over-indebtedness or data privacy.",
+      "fr": "Les intervieweurs des programmes YPP interrogent fréquemment les candidats sur l'inclusion financière, car ce thème se situe à la croisée de la réduction de la pauvreté, du développement du secteur privé et de l'innovation numérique — des priorités centrales pour des institutions comme le Groupe de la Banque mondiale, la SFI ou les banques régionales de développement. Soyez prêt à discuter des arbitrages entre l'élargissement de l'accès et la gestion des risques associés, tels que le surendettement ou la protection des données."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which of the following is the best example of a factor that has expanded financial inclusion in many developing economies over the past decade?",
+          "fr": "Parmi les éléments suivants, lequel illustre le mieux un facteur ayant contribué à l'expansion de l'inclusion financière dans de nombreuses économies en développement au cours de la dernière décennie ?"
+        },
+        "options": [
+          {"key": "A", "en": "Higher minimum balance requirements at commercial banks", "fr": "Le relèvement des exigences de solde minimum dans les banques commerciales"},
+          {"key": "B", "en": "The spread of mobile money and digital payment platforms", "fr": "La diffusion du mobile money et des plateformes de paiement numérique"},
+          {"key": "C", "en": "Stricter collateral requirements for small loans", "fr": "Le durcissement des exigences de garantie pour les petits prêts"},
+          {"key": "D", "en": "A reduced number of bank branches in rural areas", "fr": "La réduction du nombre d'agences bancaires en zone rurale"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Mobile money and digital payment platforms have allowed people without easy access to traditional bank branches to store, send, and receive money using basic mobile phones, dramatically expanding access to financial services in many developing economies.",
+          "fr": "Le mobile money et les plateformes de paiement numérique ont permis aux populations n'ayant pas facilement accès aux agences bancaires traditionnelles de stocker, d'envoyer et de recevoir de l'argent via de simples téléphones portables, ce qui a considérablement élargi l'accès aux services financiers dans de nombreuses économies en développement."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-2",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Regional Integration and Africa's Development",
+      "fr": "L'intégration régionale et le développement de l'Afrique"
+    },
+    "simple_definition": {
+      "en": "Regional integration is the process by which neighboring countries agree to reduce and eventually eliminate barriers to trade, movement of people, capital, and services among themselves, and to coordinate policies, in order to boost economic growth and cooperation across a region.",
+      "fr": "L'intégration régionale est le processus par lequel des pays voisins s'accordent pour réduire, puis éliminer progressivement, les barrières aux échanges commerciaux, à la circulation des personnes, des capitaux et des services entre eux, et pour coordonner leurs politiques, afin de stimuler la croissance économique et la coopération à l'échelle régionale."
+    },
+    "why_it_matters": {
+      "en": [
+        "Many African economies are individually small; integration creates larger markets that attract investment and enable economies of scale.",
+        "Reducing tariffs and non-tariff barriers (e.g., customs delays, differing standards) lowers the cost of intra-regional trade.",
+        "Regional institutions (the African Union, regional economic communities, the African Continental Free Trade Area) coordinate infrastructure, trade rules, and policy harmonization.",
+        "Deeper integration can help diversify economies away from dependence on a narrow set of commodity exports to distant markets."
+      ],
+      "fr": [
+        "De nombreuses économies africaines sont individuellement de petite taille ; l'intégration crée des marchés plus vastes qui attirent l'investissement et permettent des économies d'échelle.",
+        "La réduction des droits de douane et des barrières non tarifaires (délais douaniers, normes divergentes, etc.) abaisse le coût des échanges intrarégionaux.",
+        "Les institutions régionales (Union africaine, communautés économiques régionales, Zone de libre-échange continentale africaine) coordonnent les infrastructures, les règles commerciales et l'harmonisation des politiques.",
+        "Une intégration plus poussée peut aider à diversifier des économies qui dépendent souvent d'un nombre restreint de produits d'exportation destinés à des marchés lointains."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Regional integration, especially the AfCFTA, is a flagship priority for the African Development Bank, the World Bank's Africa region, and the UN Economic Commission for Africa. YPP candidates targeting these institutions should be able to explain both the potential gains (larger markets, trade diversification) and the practical challenges (infrastructure gaps, differing regulations, political economy of tariff revenue loss).",
+      "fr": "L'intégration régionale, en particulier la ZLECAf, constitue une priorité phare pour la Banque africaine de développement, la région Afrique de la Banque mondiale et la Commission économique des Nations Unies pour l'Afrique. Les candidats aux programmes YPP visant ces institutions doivent pouvoir expliquer à la fois les gains potentiels (marchés plus vastes, diversification commerciale) et les défis pratiques (déficits d'infrastructure, réglementations divergentes, économie politique de la perte de recettes douanières)."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "What is a key practical challenge that can slow the benefits of regional integration in Africa, even after tariffs are formally reduced?",
+          "fr": "Quel est un défi pratique majeur susceptible de ralentir les bénéfices de l'intégration régionale en Afrique, même après une réduction formelle des droits de douane ?"
+        },
+        "options": [
+          {"key": "A", "en": "Excess foreign exchange reserves", "fr": "Un excès de réserves de change"},
+          {"key": "B", "en": "Gaps in transport and trade infrastructure (roads, ports, border crossings) that raise the real cost of moving goods", "fr": "Les déficits d'infrastructures de transport et de commerce (routes, ports, postes-frontières) qui augmentent le coût réel du transport des marchandises"},
+          {"key": "C", "en": "Too much foreign direct investment flowing into the region", "fr": "Un afflux excessif d'investissements directs étrangers dans la région"},
+          {"key": "D", "en": "Export baskets that are already too diversified", "fr": "Des paniers d'exportation déjà trop diversifiés"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Even where tariffs are lowered, poor roads, congested ports, and slow border crossings can keep the real cost and time of trading goods high, limiting the practical gains from regional trade agreements until infrastructure and trade facilitation measures improve.",
+          "fr": "Même lorsque les droits de douane sont abaissés, le mauvais état des routes, la congestion portuaire et la lenteur des passages aux frontières peuvent maintenir élevés le coût réel et le temps nécessaires aux échanges, limitant ainsi les gains concrets des accords commerciaux régionaux tant que les infrastructures et les mesures de facilitation des échanges ne s'améliorent pas."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-3",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Global Development and the Sustainable Development Goals (SDGs)",
+      "fr": "Le développement mondial et les Objectifs de développement durable (ODD)"
+    },
+    "simple_definition": {
+      "en": "The Sustainable Development Goals are a set of 17 interconnected global goals adopted by all United Nations member states in 2015, forming a shared blueprint for peace and prosperity for people and the planet, to be achieved by 2030, covering areas such as poverty, health, education, gender equality, climate, and inclusive institutions.",
+      "fr": "Les Objectifs de développement durable sont un ensemble de 17 objectifs mondiaux interconnectés, adoptés par tous les États membres des Nations Unies en 2015, qui constituent un cadre commun pour la paix et la prospérité des populations et de la planète, à atteindre d'ici 2030, couvrant des domaines tels que la pauvreté, la santé, l'éducation, l'égalité des genres, le climat et des institutions inclusives."
+    },
+    "why_it_matters": {
+      "en": [
+        "The SDGs provide a common language and set of targets used across governments, multilateral institutions, and civil society to track development progress.",
+        "They emphasize that goals are interconnected — progress on one (e.g., education) often depends on progress on others (e.g., health, gender equality).",
+        "The 2030 deadline creates urgency and a shared accountability framework, including regular country-level \"Voluntary National Reviews.\"",
+        "Many international organizations structure their strategies, indicators, and results frameworks explicitly around the SDGs."
+      ],
+      "fr": [
+        "Les ODD offrent un langage commun et un ensemble de cibles utilisés par les gouvernements, les institutions multilatérales et la société civile pour suivre les progrès en matière de développement.",
+        "Ils soulignent le caractère interconnecté des objectifs : les progrès dans un domaine (l'éducation, par exemple) dépendent souvent des progrès réalisés dans d'autres (la santé, l'égalité des genres, etc.).",
+        "L'échéance de 2030 crée un sentiment d'urgence et un cadre de responsabilisation partagé, notamment via les « Examens nationaux volontaires » réalisés par les pays.",
+        "De nombreuses organisations internationales structurent explicitement leurs stratégies, indicateurs et cadres de résultats autour des ODD."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Almost every YPP program — UN agencies, the World Bank Group, regional development banks — references the SDGs in its mission and asks candidates to connect their motivation and past experience to specific goals. Being able to name a few SDGs relevant to your background and discuss trade-offs between them (e.g., growth vs. environmental sustainability) signals genuine familiarity rather than a generic answer.",
+      "fr": "Presque tous les programmes YPP — agences des Nations Unies, Groupe de la Banque mondiale, banques régionales de développement — font référence aux ODD dans leur mission et demandent aux candidats de relier leur motivation et leur expérience à des objectifs précis. Être capable de citer quelques ODD pertinents pour votre parcours et de discuter des arbitrages entre eux (croissance et durabilité environnementale, par exemple) témoigne d'une véritable maîtrise du sujet, plutôt que d'une réponse générique."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which statement best describes a defining feature of the SDGs compared with their predecessor, the Millennium Development Goals (MDGs)?",
+          "fr": "Quelle affirmation décrit le mieux une caractéristique déterminante des ODD par rapport à leurs prédécesseurs, les Objectifs du Millénaire pour le développement (OMD) ?"
+        },
+        "options": [
+          {"key": "A", "en": "The SDGs apply only to low-income countries, while the MDGs applied globally", "fr": "Les ODD ne s'appliquent qu'aux pays à faible revenu, alors que les OMD s'appliquaient à l'échelle mondiale"},
+          {"key": "B", "en": "The SDGs are universal, applying to all countries (not only developing ones), and cover a broader, more interconnected set of economic, social, and environmental goals", "fr": "Les ODD sont universels, s'appliquant à tous les pays (et non aux seuls pays en développement), et couvrent un ensemble plus large et plus interconnecté d'objectifs économiques, sociaux et environnementaux"},
+          {"key": "C", "en": "The SDGs replaced all national development plans with a single global plan", "fr": "Les ODD ont remplacé l'ensemble des plans de développement nationaux par un plan mondial unique"},
+          {"key": "D", "en": "The SDGs focus exclusively on economic growth indicators", "fr": "Les ODD se concentrent exclusivement sur des indicateurs de croissance économique"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The MDGs (2000-2015) focused mainly on a narrower set of targets primarily concerning developing countries. The SDGs (2015-2030) are universal — applying to high-, middle-, and low-income countries alike — and integrate environmental sustainability alongside a broader and more interconnected set of social and economic goals.",
+          "fr": "Les OMD (2000-2015) portaient principalement sur un ensemble plus restreint de cibles concernant surtout les pays en développement. Les ODD (2015-2030) sont universels — s'appliquant aussi bien aux pays à revenu élevé, intermédiaire que faible — et intègrent la durabilité environnementale au sein d'un ensemble plus large et plus interconnecté d'objectifs sociaux et économiques."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-4",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Understanding Poverty and Inequality",
+      "fr": "Comprendre la pauvreté et les inégalités"
+    },
+    "simple_definition": {
+      "en": "Poverty refers to a lack of resources or capabilities needed to meet basic needs and participate fully in society, commonly measured against an income threshold (a poverty line) or through multidimensional indicators of deprivation. Inequality refers to the uneven distribution of income, wealth, or opportunity among individuals or groups within a society.",
+      "fr": "La pauvreté désigne le manque de ressources ou de capacités nécessaires pour satisfaire les besoins essentiels et participer pleinement à la vie de la société ; elle est généralement mesurée par rapport à un seuil de revenu (seuil de pauvreté) ou à travers des indicateurs multidimensionnels de privation. Les inégalités désignent la répartition inégale des revenus, du patrimoine ou des opportunités entre les individus ou les groupes au sein d'une société."
+    },
+    "why_it_matters": {
+      "en": [
+        "Reducing extreme poverty and boosting shared prosperity are the World Bank Group's two overarching institutional goals.",
+        "Income-based measures (e.g., the international poverty line) and multidimensional measures (e.g., health, education, living standards) can tell different stories about who is poor and why.",
+        "High inequality can slow poverty reduction even when average incomes grow, since the benefits of growth may bypass the poorest.",
+        "Inequality of opportunity (e.g., unequal access to education or healthcare based on circumstances of birth) is increasingly distinguished from inequality of outcomes in policy debates."
+      ],
+      "fr": [
+        "La réduction de l'extrême pauvreté et le partage de la prospérité constituent les deux objectifs institutionnels globaux du Groupe de la Banque mondiale.",
+        "Les mesures fondées sur le revenu (seuil de pauvreté international) et les mesures multidimensionnelles (santé, éducation, niveau de vie) peuvent donner des images différentes de qui est pauvre et pourquoi.",
+        "De fortes inégalités peuvent ralentir la réduction de la pauvreté même lorsque le revenu moyen augmente, car les bénéfices de la croissance peuvent ne pas atteindre les plus pauvres.",
+        "L'inégalité des chances (accès inégal à l'éducation ou à la santé selon les circonstances de naissance, par exemple) est de plus en plus distinguée de l'inégalité des résultats dans les débats de politique publique."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Poverty and inequality metrics (the poverty headcount ratio, the Gini coefficient, the shared prosperity premium) appear constantly in YPP case studies and technical tests. Understand not just the definitions but their limitations — for example, that a single monetary poverty line can mask large differences in access to health, education, or infrastructure.",
+      "fr": "Les indicateurs de pauvreté et d'inégalité (taux de pauvreté, coefficient de Gini, prime de prospérité partagée) reviennent constamment dans les études de cas et tests techniques des programmes YPP. Il est essentiel de comprendre non seulement leurs définitions, mais aussi leurs limites — par exemple, le fait qu'un seuil de pauvreté monétaire unique peut masquer d'importantes disparités d'accès à la santé, à l'éducation ou aux infrastructures."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "The Gini coefficient is a measure used to assess:",
+          "fr": "Le coefficient de Gini est un indicateur utilisé pour évaluer :"
+        },
+        "options": [
+          {"key": "A", "en": "The average income level of a country", "fr": "Le niveau de revenu moyen d'un pays"},
+          {"key": "B", "en": "The degree of income or wealth inequality within a population, ranging from 0 (perfect equality) to 1 (perfect inequality)", "fr": "Le degré d'inégalité de revenu ou de patrimoine au sein d'une population, allant de 0 (égalité parfaite) à 1 (inégalité parfaite)"},
+          {"key": "C", "en": "The total amount of foreign aid received by a country", "fr": "Le montant total de l'aide étrangère reçue par un pays"},
+          {"key": "D", "en": "The exchange rate volatility of a currency", "fr": "La volatilité du taux de change d'une monnaie"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The Gini coefficient summarizes the distribution of income or wealth across a population in a single number between 0 and 1: a value of 0 represents perfect equality (everyone has the same income), while a value of 1 represents perfect inequality (one person has all the income). It is not a measure of average income, aid flows, or currency volatility.",
+          "fr": "Le coefficient de Gini résume, en un seul chiffre compris entre 0 et 1, la répartition du revenu ou du patrimoine au sein d'une population : une valeur de 0 correspond à une égalité parfaite (tout le monde perçoit le même revenu), tandis qu'une valeur de 1 correspond à une inégalité parfaite (une seule personne détient tout le revenu). Ce n'est ni une mesure du revenu moyen, ni des flux d'aide, ni de la volatilité d'une monnaie."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-5",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "What is Climate Finance?",
+      "fr": "Qu'est-ce que le financement climatique ?"
+    },
+    "simple_definition": {
+      "en": "Climate finance refers to local, national, or transnational financing — drawn from public, private, and alternative sources — that supports mitigation (reducing or avoiding greenhouse gas emissions) and adaptation (adjusting to the effects of a changing climate) actions.",
+      "fr": "Le financement climatique désigne les financements locaux, nationaux ou transnationaux — issus de sources publiques, privées ou alternatives — destinés à soutenir des actions d'atténuation (réduction ou évitement des émissions de gaz à effet de serre) et d'adaptation (ajustement aux effets du changement climatique)."
+    },
+    "why_it_matters": {
+      "en": [
+        "Developing countries often face the greatest climate risks (droughts, floods, sea-level rise) while having contributed the least to historical emissions, raising equity questions in how climate finance is allocated.",
+        "Climate finance flows through multiple channels: multilateral climate funds, bilateral aid, development bank lending, and increasingly private capital and blended finance instruments.",
+        "Distinguishing mitigation finance from adaptation finance matters because they fund different types of projects (e.g., renewable energy vs. flood defenses) and are tracked separately in international commitments.",
+        "Mobilizing private capital at scale is seen as essential, since public and concessional finance alone cannot meet estimated investment needs."
+      ],
+      "fr": [
+        "Les pays en développement sont souvent les plus exposés aux risques climatiques (sécheresses, inondations, élévation du niveau de la mer) alors qu'ils ont le moins contribué aux émissions historiques, ce qui soulève des questions d'équité dans l'allocation du financement climatique.",
+        "Le financement climatique transite par plusieurs canaux : fonds climatiques multilatéraux, aide bilatérale, prêts des banques de développement et, de plus en plus, capitaux privés et instruments de financement mixte (« blended finance »).",
+        "La distinction entre financement de l'atténuation et financement de l'adaptation est importante, car ces deux volets financent des types de projets différents (énergies renouvelables contre ouvrages de protection contre les inondations, par exemple) et sont suivis séparément dans les engagements internationaux.",
+        "La mobilisation de capitaux privés à grande échelle est jugée indispensable, les financements publics et concessionnels ne pouvant, à eux seuls, couvrir les besoins d'investissement estimés."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Climate finance is one of the fastest-growing priorities across MDBs, UN agencies, and bilateral donors, and YPP interview panels frequently ask candidates to distinguish mitigation from adaptation, or to discuss how blended finance can de-risk private investment in climate projects.",
+      "fr": "Le financement climatique est l'une des priorités qui connaît la croissance la plus rapide au sein des banques multilatérales de développement, des agences des Nations Unies et des bailleurs bilatéraux. Les jurys d'entretien YPP demandent fréquemment aux candidats de distinguer atténuation et adaptation, ou de discuter de la manière dont le financement mixte peut réduire le risque pour l'investissement privé dans les projets climatiques."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "A national program that builds early-warning systems and drought-resistant irrigation for farmers is best classified as:",
+          "fr": "Un programme national mettant en place des systèmes d'alerte précoce et une irrigation résistante à la sécheresse pour les agriculteurs relève avant tout :"
+        },
+        "options": [
+          {"key": "A", "en": "Mitigation finance", "fr": "Du financement de l'atténuation"},
+          {"key": "B", "en": "Adaptation finance", "fr": "Du financement de l'adaptation"},
+          {"key": "C", "en": "Trade finance", "fr": "Du financement du commerce"},
+          {"key": "D", "en": "Monetary policy", "fr": "De la politique monétaire"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Early-warning systems and drought-resistant irrigation help farmers and communities cope with and adjust to the impacts of a changing climate, which is the defining feature of adaptation finance, as opposed to mitigation finance, which targets reducing greenhouse gas emissions.",
+          "fr": "Les systèmes d'alerte précoce et l'irrigation résistante à la sécheresse aident les agriculteurs et les communautés à faire face aux impacts du changement climatique et à s'y adapter, ce qui constitue la caractéristique du financement de l'adaptation, par opposition au financement de l'atténuation, qui vise à réduire les émissions de gaz à effet de serre."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-6",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Financing Infrastructure in Developing Countries",
+      "fr": "Financer les infrastructures dans les pays en développement"
+    },
+    "simple_definition": {
+      "en": "Infrastructure financing refers to the ways governments, development institutions, and private investors raise and structure capital to build and maintain physical infrastructure — such as roads, energy, water, and telecommunications — often through a mix of public budgets, concessional loans, and private investment, including public-private partnerships (PPPs).",
+      "fr": "Le financement des infrastructures désigne les modalités par lesquelles les gouvernements, les institutions de développement et les investisseurs privés mobilisent et structurent des capitaux pour construire et entretenir des infrastructures physiques — routes, énergie, eau, télécommunications — souvent au moyen d'une combinaison de budgets publics, de prêts concessionnels et d'investissements privés, notamment via des partenariats public-privé (PPP)."
+    },
+    "why_it_matters": {
+      "en": [
+        "Many developing countries face a substantial \"infrastructure gap\" between what is needed for growth and what is currently financed.",
+        "Public budgets alone are rarely sufficient, which is why blended finance and PPPs are used to attract private capital while managing fiscal constraints.",
+        "Well-structured PPPs allocate risks (construction, demand, currency, political) to the party best able to manage them, which affects project cost and sustainability.",
+        "Infrastructure investment has strong spillover effects on trade, health, education access, and productivity, making it a cross-cutting development priority."
+      ],
+      "fr": [
+        "De nombreux pays en développement sont confrontés à un « déficit d'infrastructures » important entre les besoins liés à la croissance et les financements actuellement disponibles.",
+        "Les budgets publics ne suffisent que rarement, ce qui explique le recours au financement mixte et aux PPP pour attirer des capitaux privés tout en maîtrisant les contraintes budgétaires.",
+        "Des PPP bien structurés répartissent les risques (construction, demande, change, risque politique) vers la partie la mieux placée pour les gérer, ce qui influence le coût et la pérennité du projet.",
+        "L'investissement dans les infrastructures génère d'importants effets d'entraînement sur le commerce, l'accès à la santé et à l'éducation, et la productivité, ce qui en fait une priorité de développement transversale."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Infrastructure financing is central to the mandates of the World Bank's IBRD/IDA, IFC, regional development banks, and specialized infrastructure funds. Candidates should be comfortable discussing why risk allocation, not just the amount of capital raised, determines whether an infrastructure project succeeds.",
+      "fr": "Le financement des infrastructures est au cœur des mandats de la BIRD/IDA du Groupe de la Banque mondiale, de la SFI, des banques régionales de développement et des fonds spécialisés en infrastructures. Les candidats doivent être à l'aise pour expliquer pourquoi c'est la répartition des risques, et non uniquement le montant des capitaux levés, qui détermine la réussite d'un projet d'infrastructure."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "In infrastructure PPPs, \"demand risk\" refers to the risk that:",
+          "fr": "Dans les PPP d'infrastructure, le « risque de demande » désigne le risque que :"
+        },
+        "options": [
+          {"key": "A", "en": "Construction costs will exceed the original budget", "fr": "Les coûts de construction dépassent le budget initial"},
+          {"key": "B", "en": "The actual usage of the infrastructure (e.g., toll road traffic) will be lower than forecast, reducing expected revenues", "fr": "L'utilisation réelle de l'infrastructure (le trafic sur une autoroute à péage, par exemple) soit inférieure aux prévisions, réduisant les revenus attendus"},
+          {"key": "C", "en": "The government will change environmental regulations during construction", "fr": "Le gouvernement modifie la réglementation environnementale en cours de construction"},
+          {"key": "D", "en": "The currency used for the project loan will depreciate", "fr": "La devise utilisée pour le prêt du projet se déprécie"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Demand risk is the risk that actual usage of an asset — such as traffic on a toll road or ridership on a rail line — falls short of forecasts, reducing the revenue available to repay investors. It is distinct from construction cost overruns, regulatory changes, or currency depreciation, which are separate risk categories in infrastructure finance.",
+          "fr": "Le risque de demande correspond au risque que l'utilisation réelle d'un actif — le trafic sur une autoroute à péage ou la fréquentation d'une ligne ferroviaire, par exemple — soit inférieure aux prévisions, réduisant ainsi les revenus disponibles pour rembourser les investisseurs. Il se distingue des dépassements de coûts de construction, des changements réglementaires ou de la dépréciation monétaire, qui constituent des catégories de risque distinctes dans le financement des infrastructures."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-7",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Digital Transformation for Development",
+      "fr": "La transformation numérique au service du développement"
+    },
+    "simple_definition": {
+      "en": "Digital transformation for development refers to the use of digital technologies — such as mobile connectivity, digital ID, e-government platforms, and data systems — to expand access to services, improve government efficiency, and create new economic opportunities, particularly for underserved populations.",
+      "fr": "La transformation numérique au service du développement désigne l'utilisation des technologies numériques — connectivité mobile, identité numérique, plateformes d'administration en ligne, systèmes de données — pour élargir l'accès aux services, améliorer l'efficacité de l'action publique et créer de nouvelles opportunités économiques, en particulier pour les populations mal desservies."
+    },
+    "why_it_matters": {
+      "en": [
+        "Digital infrastructure (broadband, mobile networks) is increasingly viewed as foundational infrastructure, similar to roads or electricity.",
+        "Digital ID and digital payment systems can improve the efficiency and targeting of social protection programs and reduce leakage.",
+        "E-government platforms can increase transparency and reduce opportunities for corruption in public service delivery.",
+        "The \"digital divide\" — unequal access to connectivity, devices, and digital skills — risks widening existing inequalities between and within countries if not addressed deliberately."
+      ],
+      "fr": [
+        "L'infrastructure numérique (haut débit, réseaux mobiles) est de plus en plus considérée comme une infrastructure fondamentale, au même titre que les routes ou l'électricité.",
+        "L'identité numérique et les systèmes de paiement numérique peuvent améliorer l'efficacité et le ciblage des programmes de protection sociale et réduire les pertes ou détournements.",
+        "Les plateformes d'administration en ligne peuvent accroître la transparence et réduire les risques de corruption dans la fourniture des services publics.",
+        "La « fracture numérique » — accès inégal à la connectivité, aux appareils et aux compétences numériques — risque d'aggraver les inégalités existantes, entre pays et en leur sein, si elle n'est pas traitée de manière volontariste."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Digital development has become a cross-cutting priority across nearly every YPP-hiring institution, from the World Bank's Digital Development Global Practice to UN agencies' digital transformation strategies. Be ready to discuss both the opportunities (efficiency, inclusion) and risks (data privacy, cybersecurity, digital exclusion) that come with scaling digital solutions.",
+      "fr": "Le développement numérique est devenu une priorité transversale pour presque toutes les institutions recrutant via des programmes YPP, de la pratique mondiale « Développement numérique » de la Banque mondiale aux stratégies de transformation numérique des agences onusiennes. Soyez prêt à discuter à la fois des opportunités (efficacité, inclusion) et des risques (protection des données, cybersécurité, exclusion numérique) liés au déploiement à grande échelle de solutions numériques."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "The term \"digital divide\" most accurately describes:",
+          "fr": "Le terme « fracture numérique » décrit le plus précisément :"
+        },
+        "options": [
+          {"key": "A", "en": "The difference in stock market performance between technology and non-technology firms", "fr": "L'écart de performance boursière entre les entreprises technologiques et non technologiques"},
+          {"key": "B", "en": "The gap between those who have affordable, reliable access to digital technology and skills, and those who do not", "fr": "L'écart entre ceux qui disposent d'un accès abordable et fiable aux technologies et compétences numériques, et ceux qui en sont dépourvus"},
+          {"key": "C", "en": "The process of digitizing paper government records", "fr": "Le processus de numérisation des archives papier de l'administration"},
+          {"key": "D", "en": "Competition between rival telecommunications companies", "fr": "La concurrence entre opérateurs de télécommunications rivaux"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The digital divide refers to the gap between individuals, households, businesses, or regions that have affordable and reliable access to digital technologies and the skills to use them, and those that do not — a gap that can reinforce existing social and economic inequalities if not deliberately addressed.",
+          "fr": "La fracture numérique désigne l'écart entre les individus, ménages, entreprises ou régions qui disposent d'un accès abordable et fiable aux technologies numériques et des compétences pour les utiliser, et ceux qui en sont dépourvus — un écart susceptible de renforcer les inégalités sociales et économiques existantes s'il n'est pas traité de manière volontariste."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-8",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Trade and Economic Integration",
+      "fr": "Commerce et intégration économique"
+    },
+    "simple_definition": {
+      "en": "Trade and economic integration refers to the process of reducing barriers between economies — through trade agreements, harmonized regulations, and shared institutions — to allow goods, services, capital, and sometimes labor to flow more freely, with the aim of raising efficiency and growth for participating economies.",
+      "fr": "Le commerce et l'intégration économique désignent le processus de réduction des barrières entre économies — par le biais d'accords commerciaux, de réglementations harmonisées et d'institutions communes — afin de permettre une circulation plus libre des biens, des services, des capitaux et, parfois, de la main-d'œuvre, dans le but d'accroître l'efficacité et la croissance des économies participantes."
+    },
+    "why_it_matters": {
+      "en": [
+        "Trade allows countries to specialize according to comparative advantage, generally raising overall efficiency and consumer welfare.",
+        "Deeper integration (customs unions, common markets) goes beyond tariff reduction to include harmonized standards, rules of origin, and sometimes free movement of labor or capital.",
+        "Trade openness can expose economies to external shocks (commodity price swings, global demand fluctuations), which is why diversification often accompanies integration strategies.",
+        "Trade policy interacts closely with domestic policy debates over job displacement, industrial policy, and the distribution of gains from trade."
+      ],
+      "fr": [
+        "Le commerce permet aux pays de se spécialiser selon leur avantage comparatif, ce qui accroît généralement l'efficacité globale et le bien-être des consommateurs.",
+        "Une intégration plus poussée (union douanière, marché commun) va au-delà de la simple réduction des droits de douane et inclut l'harmonisation des normes, les règles d'origine et, parfois, la libre circulation de la main-d'œuvre ou des capitaux.",
+        "L'ouverture commerciale peut exposer les économies à des chocs externes (variations des prix des matières premières, fluctuations de la demande mondiale), ce qui explique pourquoi les stratégies d'intégration s'accompagnent souvent d'efforts de diversification.",
+        "La politique commerciale interagit étroitement avec les débats de politique intérieure sur les pertes d'emplois, la politique industrielle et la répartition des gains issus du commerce."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Trade economics questions test whether candidates understand both the theory (comparative advantage, terms of trade) and the real-world political economy of trade policy — a recurring theme in YPP case studies involving export diversification or regional trade agreements.",
+      "fr": "Les questions d'économie du commerce visent à vérifier si les candidats comprennent à la fois la théorie (avantage comparatif, termes de l'échange) et l'économie politique concrète de la politique commerciale — un thème récurrent dans les études de cas YPP portant sur la diversification des exportations ou les accords commerciaux régionaux."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "According to the theory of comparative advantage, two countries can both gain from trade even if one is more efficient at producing every good than the other, as long as:",
+          "fr": "Selon la théorie de l'avantage comparatif, deux pays peuvent tous deux tirer profit du commerce même si l'un est plus efficace que l'autre dans la production de tous les biens, à condition que :"
+        },
+        "options": [
+          {"key": "A", "en": "They impose identical tariffs on each other", "fr": "Ils s'imposent mutuellement des droits de douane identiques"},
+          {"key": "B", "en": "Each specializes in producing the good(s) for which its relative (opportunity cost) advantage is greatest", "fr": "Chacun se spécialise dans la production du ou des biens pour lesquels son avantage relatif (en termes de coût d'opportunité) est le plus important"},
+          {"key": "C", "en": "They adopt the same currency", "fr": "Ils adoptent la même monnaie"},
+          {"key": "D", "en": "Their populations are of similar size", "fr": "Leurs populations sont de taille similaire"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Comparative advantage shows that mutual gains from trade arise from differences in relative opportunity costs, not absolute efficiency. Even a country that is less efficient at producing everything can still gain by specializing in the good(s) where its opportunity cost is relatively lowest and trading for the rest.",
+          "fr": "La théorie de l'avantage comparatif montre que les gains mutuels du commerce résultent des différences de coûts d'opportunité relatifs, et non de l'efficacité absolue. Même un pays moins efficace dans la production de tous les biens peut tirer profit du commerce en se spécialisant dans le ou les biens pour lesquels son coût d'opportunité est relativement le plus faible, et en échangeant le reste."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-9",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Gender and Inclusion in Development",
+      "fr": "Genre et inclusion dans le développement"
+    },
+    "simple_definition": {
+      "en": "Gender and inclusion in development refers to the deliberate effort to ensure that development policies, programs, and investments address the different needs, constraints, and opportunities faced by women, men, and marginalized groups, so that the benefits of growth and public services are shared equitably.",
+      "fr": "Le genre et l'inclusion dans le développement renvoient à l'effort délibéré visant à garantir que les politiques, programmes et investissements de développement tiennent compte des besoins, contraintes et opportunités différenciés des femmes, des hommes et des groupes marginalisés, afin que les bénéfices de la croissance et des services publics soient partagés de manière équitable."
+    },
+    "why_it_matters": {
+      "en": [
+        "Persistent gender gaps in labor force participation, asset ownership, and access to finance represent a significant loss of economic potential in many countries.",
+        "Gender-responsive policy design (e.g., accounting for unpaid care burdens, safety in transport, or legal barriers to women's employment) tends to improve program effectiveness, not just equity outcomes.",
+        "Inclusion extends beyond gender to groups facing exclusion due to disability, displacement, ethnicity, or geographic remoteness, all of which require deliberate attention in program design.",
+        "Many development institutions now require gender or social inclusion analysis as a standard part of project design and evaluation."
+      ],
+      "fr": [
+        "Les écarts persistants entre hommes et femmes en matière de participation au marché du travail, de possession d'actifs et d'accès au financement représentent une perte importante de potentiel économique dans de nombreux pays.",
+        "Une conception des politiques sensible au genre (prise en compte de la charge de travail de soins non rémunéré, de la sécurité dans les transports ou des obstacles juridiques à l'emploi des femmes) tend à améliorer l'efficacité des programmes, et pas seulement les résultats en matière d'équité.",
+        "L'inclusion dépasse la seule question du genre et concerne aussi les groupes exclus en raison d'un handicap, d'un déplacement forcé, de leur appartenance ethnique ou de leur éloignement géographique, autant de dimensions nécessitant une attention délibérée dans la conception des programmes.",
+        "De nombreuses institutions de développement exigent désormais une analyse de genre ou d'inclusion sociale dans le cadre standard de la conception et de l'évaluation des projets."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Gender and inclusion are cross-cutting priorities embedded in nearly every project cycle across the UN system, the World Bank Group, and regional development banks. YPP candidates should be able to give a concrete example of how ignoring gender or inclusion considerations can undermine a project's results — not just cite the concept abstractly.",
+      "fr": "Le genre et l'inclusion sont des priorités transversales intégrées dans presque tous les cycles de projet au sein du système des Nations Unies, du Groupe de la Banque mondiale et des banques régionales de développement. Les candidats aux programmes YPP doivent être capables de donner un exemple concret de la manière dont l'absence de prise en compte du genre ou de l'inclusion peut compromettre les résultats d'un projet, plutôt que de se contenter d'évoquer le concept de façon abstraite."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "\"Unpaid care work\" most directly affects development outcomes because it:",
+          "fr": "Le « travail de soins non rémunéré » affecte le plus directement les résultats de développement parce qu'il :"
+        },
+        "options": [
+          {"key": "A", "en": "Is fully compensated through informal community payments", "fr": "Est intégralement compensé par des paiements communautaires informels"},
+          {"key": "B", "en": "Disproportionately falls on women and girls, limiting their time for education, paid employment, and civic participation", "fr": "Repose de manière disproportionnée sur les femmes et les filles, ce qui limite le temps qu'elles peuvent consacrer à l'éducation, à un emploi rémunéré et à la participation civique"},
+          {"key": "C", "en": "Is evenly distributed between men and women in most societies", "fr": "Est réparti de manière égale entre hommes et femmes dans la plupart des sociétés"},
+          {"key": "D", "en": "Has no measurable economic value", "fr": "N'a aucune valeur économique mesurable"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Globally, unpaid care work is performed disproportionately by women and girls. This unequal burden reduces the time available for schooling, income-generating work, and participation in public and civic life, which is why it is treated as a central barrier to gender equality in development policy.",
+          "fr": "À l'échelle mondiale, le travail de soins non rémunéré est assumé de manière disproportionnée par les femmes et les filles. Cette charge inégale réduit le temps disponible pour la scolarisation, un travail générateur de revenus et la participation à la vie publique et civique, ce qui explique qu'il soit considéré comme un obstacle central à l'égalité des genres dans les politiques de développement."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "dev-lesson-10",
+    "category": "Development Knowledge",
+    "org_scope": null,
+    "title": {
+      "en": "Private-Sector Development",
+      "fr": "Le développement du secteur privé"
+    },
+    "simple_definition": {
+      "en": "Private-sector development refers to strategies and interventions aimed at strengthening the business environment and the capacity of private firms — from small enterprises to large corporations — to invest, create jobs, and contribute to economic growth, often by addressing market failures, improving regulations, and mobilizing private capital and financing.",
+      "fr": "Le développement du secteur privé désigne les stratégies et interventions visant à renforcer l'environnement des affaires et la capacité des entreprises privées — des petites structures aux grands groupes — à investir, créer des emplois et contribuer à la croissance économique, souvent en corrigeant les défaillances de marché, en améliorant la réglementation et en mobilisant des capitaux et financements privés."
+    },
+    "why_it_matters": {
+      "en": [
+        "The private sector is the main engine of job creation in most economies, making its health central to poverty reduction and shared prosperity.",
+        "Improving the business environment (e.g., simplifying business registration, strengthening property rights, improving access to credit) can unlock investment without requiring direct public spending.",
+        "Development finance institutions increasingly use blended finance and guarantees to mobilize private capital toward underserved markets or sectors seen as too risky for purely commercial investors.",
+        "Small and medium enterprises (SMEs) often face disproportionate barriers to finance and formalization, making them a frequent policy focus."
+      ],
+      "fr": [
+        "Le secteur privé est le principal moteur de la création d'emplois dans la plupart des économies, ce qui rend sa vitalité centrale pour la réduction de la pauvreté et le partage de la prospérité.",
+        "L'amélioration du climat des affaires (simplification de l'enregistrement des entreprises, renforcement des droits de propriété, meilleur accès au crédit, etc.) peut libérer l'investissement sans nécessiter de dépense publique directe.",
+        "Les institutions de financement du développement recourent de plus en plus au financement mixte et aux garanties pour mobiliser des capitaux privés vers des marchés ou secteurs mal desservis, jugés trop risqués pour des investisseurs purement commerciaux.",
+        "Les petites et moyennes entreprises (PME) sont souvent confrontées à des obstacles disproportionnés en matière de financement et de formalisation, ce qui en fait une cible fréquente des politiques publiques."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Private-sector development is the core mandate of institutions like IFC, and a growing priority across MDBs pursuing a \"cascade\" approach that seeks private solutions before using public or concessional finance. Candidates should understand how blended finance and guarantees function as tools to de-risk private investment.",
+      "fr": "Le développement du secteur privé constitue le mandat central d'institutions comme la SFI, et une priorité croissante pour les banques multilatérales de développement qui adoptent une approche dite « en cascade », cherchant des solutions privées avant de recourir au financement public ou concessionnel. Les candidats doivent comprendre comment le financement mixte et les garanties fonctionnent comme des outils de réduction du risque pour l'investissement privé."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "In development finance, \"blended finance\" refers to:",
+          "fr": "En financement du développement, le « financement mixte » (« blended finance ») désigne :"
+        },
+        "options": [
+          {"key": "A", "en": "Mixing several currencies within a single loan", "fr": "Le mélange de plusieurs devises au sein d'un même prêt"},
+          {"key": "B", "en": "The strategic use of public or philanthropic (concessional) capital to mobilize additional private investment toward development objectives", "fr": "L'utilisation stratégique de capitaux publics ou philanthropiques (concessionnels) pour mobiliser des investissements privés supplémentaires au service d'objectifs de développement"},
+          {"key": "C", "en": "Merging two private companies to reduce competition", "fr": "La fusion de deux entreprises privées afin de réduire la concurrence"},
+          {"key": "D", "en": "Converting private debt into government bonds", "fr": "La conversion d'une dette privée en obligations d'État"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Blended finance strategically combines concessional public or philanthropic capital with commercial capital to improve the risk-return profile of a project, thereby mobilizing private investment toward development objectives that would otherwise be seen as too risky or insufficiently profitable on purely commercial terms.",
+          "fr": "Le financement mixte combine de manière stratégique des capitaux publics ou philanthropiques concessionnels avec des capitaux commerciaux afin d'améliorer le profil risque-rendement d'un projet, mobilisant ainsi des investissements privés au service d'objectifs de développement qui seraient autrement jugés trop risqués ou insuffisamment rentables selon des critères purement commerciaux."
+        }
+      }
+    ],
+    "sources": [],
+    "last_updated": "2026-08-25"
+  }
+]

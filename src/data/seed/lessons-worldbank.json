@@ -1,0 +1,267 @@
+[
+  {
+    "id": "wb-1",
+    "category": "Organization Knowledge",
+    "org_scope": "World Bank",
+    "title": {
+      "en": "What is the World Bank Group?",
+      "fr": "Qu'est-ce que le Groupe de la Banque mondiale ?"
+    },
+    "simple_definition": {
+      "en": "The World Bank Group (WBG) is not a single bank but a partnership of five institutions — IBRD, IDA, IFC, MIGA, and ICSID — that work together to end extreme poverty and boost shared prosperity on a livable planet. Each institution has a distinct mandate, from public-sector lending to private-sector investment to investment dispute resolution.",
+      "fr": "Le Groupe de la Banque mondiale (GBM) n'est pas une banque unique mais un ensemble de cinq institutions — la BIRD, l'IDA, l'IFC, la MIGA et le CIRDI — qui œuvrent conjointement pour mettre fin à l'extrême pauvreté et promouvoir une prospérité partagée sur une planète vivable. Chaque institution a un mandat distinct, allant du financement du secteur public à l'investissement dans le secteur privé, en passant par le règlement des différends relatifs aux investissements."
+    },
+    "why_it_matters": {
+      "en": [
+        "IBRD (International Bank for Reconstruction and Development) lends to middle-income and creditworthy low-income country governments.",
+        "IDA (International Development Association) provides concessional credits and grants to the world's poorest countries.",
+        "IFC (International Finance Corporation) invests directly in private companies and projects in emerging markets, while MIGA (Multilateral Investment Guarantee Agency) issues political-risk guarantees and ICSID (International Centre for Settlement of Investment Disputes) arbitrates investor-state disputes."
+      ],
+      "fr": [
+        "La BIRD (Banque internationale pour la reconstruction et le développement) prête aux gouvernements des pays à revenu intermédiaire et à certains pays à faible revenu solvables.",
+        "L'IDA (Association internationale de développement) accorde des crédits concessionnels et des dons aux pays les plus pauvres du monde.",
+        "L'IFC (Société financière internationale) investit directement dans des entreprises et projets privés sur les marchés émergents, tandis que la MIGA (Agence multilatérale de garantie des investissements) émet des garanties contre le risque politique et le CIRDI (Centre international pour le règlement des différends relatifs aux investissements) arbitre les litiges entre investisseurs et États."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP recruiters expect candidates to know which institution does what, since your assigned rotation, business unit, or interview panel may sit within IBRD/IDA, IFC, or MIGA specifically.",
+      "fr": "Les recruteurs du YPP attendent des candidats qu'ils sachent qui fait quoi, car votre affectation, votre unité ou votre jury d'entretien peut relever spécifiquement de la BIRD/IDA, de l'IFC ou de la MIGA."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which institution of the World Bank Group focuses on financing and investing directly in private-sector companies in developing countries?",
+          "fr": "Quelle institution du Groupe de la Banque mondiale se concentre sur le financement et l'investissement direct dans des entreprises du secteur privé dans les pays en développement ?"
+        },
+        "options": [
+          {"key": "A", "en": "IDA", "fr": "IDA"},
+          {"key": "B", "en": "IFC", "fr": "IFC"},
+          {"key": "C", "en": "ICSID", "fr": "CIRDI"},
+          {"key": "D", "en": "IBRD", "fr": "BIRD"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "IFC (International Finance Corporation) is the WBG's private-sector arm, providing loans, equity, guarantees, and advisory services to companies and projects in emerging markets.",
+          "fr": "L'IFC (Société financière internationale) est le bras « secteur privé » du GBM : elle fournit prêts, prises de participation, garanties et services de conseil à des entreprises et projets sur les marchés émergents."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "Who We Are | The World Bank Group", "url": "https://www.worldbank.org/ext/en/who-we-are"},
+      {"title": "One World Bank Group", "url": "https://www.worldbank.org/en/about/annual-report/one-world-bank-group"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "wb-2",
+    "category": "Organization Knowledge",
+    "org_scope": "World Bank",
+    "title": {
+      "en": "What does the World Bank Group do, and where does it operate?",
+      "fr": "Que fait le Groupe de la Banque mondiale, et où intervient-il ?"
+    },
+    "simple_definition": {
+      "en": "The World Bank Group finances development projects, provides policy advice, and generates data and research across almost every developing country in the world. IBRD counts 189 member countries, while IDA — the fund for the poorest — currently supports 78 eligible countries, and the WBG operates through staff based in around 140 country and regional offices.",
+      "fr": "Le Groupe de la Banque mondiale finance des projets de développement, fournit des conseils de politique publique et produit des données et des travaux de recherche dans la quasi-totalité des pays en développement. La BIRD compte 189 pays membres, tandis que l'IDA — le fonds destiné aux pays les plus pauvres — soutient actuellement 78 pays éligibles ; le GBM opère grâce à un personnel présent dans environ 140 bureaux de pays et bureaux régionaux."
+    },
+    "why_it_matters": {
+      "en": [
+        "The WBG's reach spans virtually all regions — Africa, East Asia and Pacific, Europe and Central Asia, Latin America and the Caribbean, the Middle East and North Africa, and South Asia.",
+        "It works across nearly every sector of development: infrastructure, health, education, agriculture, energy, digital development, governance, and climate resilience.",
+        "A significant share of its work targets fragile and conflict-affected states and the world's poorest, IDA-eligible countries."
+      ],
+      "fr": [
+        "La portée du GBM couvre pratiquement toutes les régions du monde : Afrique, Asie de l'Est et Pacifique, Europe et Asie centrale, Amérique latine et Caraïbes, Moyen-Orient et Afrique du Nord, et Asie du Sud.",
+        "Il intervient dans presque tous les secteurs du développement : infrastructures, santé, éducation, agriculture, énergie, transformation numérique, gouvernance et résilience climatique.",
+        "Une part importante de son action cible les États fragiles ou touchés par des conflits, ainsi que les pays les plus pauvres éligibles à l'IDA."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP roles can require relocation to any regional or country office, and interviewers often probe whether candidates understand the operational breadth and geographic scope of the institution they are applying to.",
+      "fr": "Les postes du YPP peuvent impliquer une relocalisation dans n'importe quel bureau régional ou national, et les jurys d'entretien vérifient souvent que les candidats comprennent l'étendue opérationnelle et géographique de l'institution à laquelle ils postulent."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "How many countries are currently eligible for IDA (concessional) financing?",
+          "fr": "Combien de pays sont actuellement éligibles au financement concessionnel de l'IDA ?"
+        },
+        "options": [
+          {"key": "A", "en": "189", "fr": "189"},
+          {"key": "B", "en": "40", "fr": "40"},
+          {"key": "C", "en": "78", "fr": "78"},
+          {"key": "D", "en": "25", "fr": "25"}
+        ],
+        "correct_answer": "C",
+        "explanation": {
+          "en": "As of fiscal 2025, 78 low-income countries are eligible for IDA's concessional credits and grants, compared with 189 member countries in IBRD.",
+          "fr": "Depuis l'exercice 2025, 78 pays à faible revenu sont éligibles aux crédits et dons concessionnels de l'IDA, contre 189 pays membres pour la BIRD."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "World Bank (IBRD/IDA) — Annual Report", "url": "https://www.worldbank.org/en/about/annual-report/world-bank"},
+      {"title": "One World Bank Group", "url": "https://www.worldbank.org/en/about/annual-report/one-world-bank-group"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "wb-3",
+    "category": "Organization Knowledge",
+    "org_scope": "World Bank",
+    "title": {
+      "en": "What are the World Bank Group's strategic priorities?",
+      "fr": "Quelles sont les priorités stratégiques du Groupe de la Banque mondiale ?"
+    },
+    "simple_definition": {
+      "en": "The WBG's mission is to end extreme poverty and boost shared prosperity on a livable planet. Under President Ajay Banga, the institution has sharpened its focus around jobs as the central driver of development, alongside inclusion, resilience to shocks (climate, pandemics, fragility), and mobilizing more private capital toward development goals.",
+      "fr": "La mission du GBM est de mettre fin à l'extrême pauvreté et de promouvoir une prospérité partagée sur une planète vivable. Sous la présidence d'Ajay Banga, l'institution a recentré son action autour de la création d'emplois comme moteur central du développement, tout en mettant l'accent sur l'inclusion, la résilience face aux chocs (climat, pandémies, fragilité) et la mobilisation accrue de capitaux privés au service des objectifs de développement."
+    },
+    "why_it_matters": {
+      "en": [
+        "President Banga has stated that 'job creation is the most powerful driver of development,' framing jobs as a cross-cutting priority across all WBG institutions.",
+        "The WBG has set headline development targets, such as connecting 300 million Africans to electricity by 2030, alongside expanding health-care access for over a billion people.",
+        "The Private Sector Investment Lab, launched under Banga, reflects a strategic push to mobilize far more private capital toward emerging-market development."
+      ],
+      "fr": [
+        "Le président Banga a affirmé que « la création d'emplois est le moteur le plus puissant du développement », faisant de l'emploi une priorité transversale pour l'ensemble des institutions du GBM.",
+        "Le GBM s'est fixé des objectifs phares, comme raccorder 300 millions d'Africains à l'électricité d'ici 2030, tout en élargissant l'accès aux soins de santé pour plus d'un milliard de personnes.",
+        "Le Private Sector Investment Lab, lancé sous la présidence de Banga, illustre une volonté stratégique de mobiliser bien davantage de capitaux privés au service du développement des marchés émergents."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Interviewers frequently ask candidates to articulate the institution's current priorities and how their own skills or experience connect to them, so being able to speak concretely about the jobs agenda and the 'livable planet' mission is valuable.",
+      "fr": "Les recruteurs demandent fréquemment aux candidats d'expliciter les priorités actuelles de l'institution et le lien avec leur propre expérience ; savoir évoquer concrètement l'agenda « emplois » et la mission « planète vivable » constitue donc un atout."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "According to World Bank Group President Ajay Banga, what is described as 'the most powerful driver of development'?",
+          "fr": "Selon le président du Groupe de la Banque mondiale, Ajay Banga, quel élément est décrit comme « le moteur le plus puissant du développement » ?"
+        },
+        "options": [
+          {"key": "A", "en": "Foreign aid budgets", "fr": "Les budgets d'aide étrangère"},
+          {"key": "B", "en": "Job creation", "fr": "La création d'emplois"},
+          {"key": "C", "en": "Sovereign debt relief", "fr": "L'allègement de la dette souveraine"},
+          {"key": "D", "en": "Trade tariffs", "fr": "Les droits de douane"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "Banga has emphasized that job creation offers 'not just income, but dignity and purpose,' making it a central pillar of the WBG's current strategic direction.",
+          "fr": "Banga a souligné que la création d'emplois offre « non seulement un revenu, mais aussi dignité et sens », en faisant un pilier central de l'orientation stratégique actuelle du GBM."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "Ajay Banga | The World Bank Group", "url": "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"},
+      {"title": "Who We Are | The World Bank Group", "url": "https://www.worldbank.org/ext/en/who-we-are"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "wb-4",
+    "category": "Organization Knowledge",
+    "org_scope": "World Bank",
+    "title": {
+      "en": "How is the World Bank Group governed?",
+      "fr": "Comment le Groupe de la Banque mondiale est-il gouverné ?"
+    },
+    "simple_definition": {
+      "en": "The WBG's top governing body is its Board of Governors, made up of one Governor and one Alternate (usually each country's finance minister) per member country. Governors delegate most day-to-day oversight to a Board of 25 Executive Directors, and the President — currently Ajay Banga, the 14th WBG President — chairs the Boards and leads management.",
+      "fr": "L'organe de gouvernance suprême du GBM est son Conseil des Gouverneurs, composé d'un Gouverneur et d'un Gouverneur suppléant (généralement le ministre des Finances) par pays membre. Les Gouverneurs délèguent l'essentiel de la supervision quotidienne à un Conseil de 25 Administrateurs, et le Président — actuellement Ajay Banga, 14e président du GBM — préside les Conseils et dirige la direction générale."
+    },
+    "why_it_matters": {
+      "en": [
+        "For IBRD, the five members with the largest number of shares each appoint an Executive Director directly, while the remaining member countries elect the other Executive Directors, typically in regional groupings.",
+        "Voting power on the Boards is weighted by each country's capital subscription (shareholding), which is why the largest shareholders hold proportionally greater influence.",
+        "IDA and IFC share the same Executive Directors as IBRD, while MIGA has its own Board (largely the same individuals), and ICSID is overseen separately by an Administrative Council chaired by the WBG President."
+      ],
+      "fr": [
+        "Pour la BIRD, les cinq pays détenant le plus grand nombre de parts nomment chacun directement un Administrateur, tandis que les autres pays membres élisent les autres Administrateurs, généralement par groupes régionaux.",
+        "Le pouvoir de vote au sein des Conseils est pondéré par la souscription au capital de chaque pays, ce qui explique l'influence proportionnellement plus importante des principaux actionnaires.",
+        "L'IDA et l'IFC partagent les mêmes Administrateurs que la BIRD, tandis que la MIGA dispose de son propre Conseil (composé en grande partie des mêmes personnes), et le CIRDI est supervisé séparément par un Conseil administratif présidé par le Président du GBM."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "Understanding the governance chain — from member-country shareholders to the Board of Executive Directors to the President — helps candidates explain how the institution is accountable to its shareholding governments, a common interview theme.",
+      "fr": "Comprendre la chaîne de gouvernance — des pays actionnaires au Conseil des Administrateurs jusqu'au Président — aide les candidats à expliquer la redevabilité de l'institution envers ses gouvernements actionnaires, un thème récurrent en entretien."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "How many Executive Directors sit on the World Bank's Board, representing its member countries?",
+          "fr": "Combien d'Administrateurs siègent au Conseil de la Banque mondiale pour représenter ses pays membres ?"
+        },
+        "options": [
+          {"key": "A", "en": "5", "fr": "5"},
+          {"key": "B", "en": "25", "fr": "25"},
+          {"key": "C", "en": "78", "fr": "78"},
+          {"key": "D", "en": "189", "fr": "189"}
+        ],
+        "correct_answer": "B",
+        "explanation": {
+          "en": "The Board of Governors delegates most powers to 25 resident Executive Directors, five of whom are appointed directly by the largest shareholders and the rest elected by the remaining member countries.",
+          "fr": "Le Conseil des Gouverneurs délègue l'essentiel de ses pouvoirs à 25 Administrateurs résidents, dont cinq sont nommés directement par les principaux actionnaires, les autres étant élus par les pays membres restants."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "Board Facts | The World Bank", "url": "https://www.worldbank.org/en/about/leadership/directors/board-facts"},
+      {"title": "Ajay Banga | The World Bank Group", "url": "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"}
+    ],
+    "last_updated": "2026-08-25"
+  },
+  {
+    "id": "wb-5",
+    "category": "Organization Knowledge",
+    "org_scope": "World Bank",
+    "title": {
+      "en": "How does the World Bank Group finance development?",
+      "fr": "Comment le Groupe de la Banque mondiale finance-t-il le développement ?"
+    },
+    "simple_definition": {
+      "en": "Each WBG institution uses a different financial instrument suited to its clients: IBRD offers loans and guarantees to creditworthy governments, IDA provides concessional credits and grants to the poorest countries, IFC invests through loans, equity, and guarantees in private companies, and MIGA issues political-risk guarantees to encourage foreign investment. Combined, the WBG committed roughly $162 billion across these instruments in fiscal year 2025.",
+      "fr": "Chaque institution du GBM utilise un instrument financier adapté à ses clients : la BIRD propose des prêts et des garanties aux gouvernements solvables, l'IDA accorde des crédits concessionnels et des dons aux pays les plus pauvres, l'IFC investit via des prêts, des prises de participation et des garanties dans des entreprises privées, et la MIGA émet des garanties contre le risque politique pour encourager l'investissement étranger. Au total, le GBM a engagé environ 162 milliards de dollars à travers ces instruments au cours de l'exercice 2025."
+    },
+    "why_it_matters": {
+      "en": [
+        "In FY2025, IBRD committed about $40.9 billion in new lending across 139 operations to middle-income and creditworthy lower-income country governments.",
+        "IDA committed about $39.9 billion across 303 operations, split roughly into $31.1 billion in credits, $8.2 billion in grants, and $0.6 billion in guarantees for the poorest countries.",
+        "IDA also leverages donor contributions heavily: the institution states that every $1 of donor contribution generates around $4 in programming through capital markets, transfers, and repayments — while IFC and MIGA separately mobilize additional private capital through equity, blended finance, and guarantee instruments."
+      ],
+      "fr": [
+        "Au cours de l'exercice 2025, la BIRD a engagé environ 40,9 milliards de dollars de nouveaux prêts répartis sur 139 opérations, destinés aux gouvernements de pays à revenu intermédiaire et à certains pays à faible revenu solvables.",
+        "L'IDA a engagé environ 39,9 milliards de dollars sur 303 opérations, répartis approximativement en 31,1 milliards de dollars de crédits, 8,2 milliards de dollars de dons et 0,6 milliard de dollars de garanties destinés aux pays les plus pauvres.",
+        "L'IDA mobilise aussi fortement les contributions des donateurs : l'institution indique que chaque dollar de contribution génère environ 4 dollars de financements programmés grâce aux marchés de capitaux, aux transferts et aux remboursements — tandis que l'IFC et la MIGA mobilisent séparément des capitaux privés supplémentaires via des prises de participation, la finance mixte et des garanties."
+      ]
+    },
+    "why_you_should_know": {
+      "en": "YPP candidates should be able to distinguish between market-rate lending (IBRD), concessional finance (IDA), private-sector investment (IFC), and risk guarantees (MIGA), since these instruments define how projects at each institution are structured and evaluated.",
+      "fr": "Les candidats au YPP doivent être capables de distinguer le financement à taux de marché (BIRD), le financement concessionnel (IDA), l'investissement dans le secteur privé (IFC) et les garanties de risque (MIGA), car ces instruments déterminent la manière dont les projets sont structurés et évalués au sein de chaque institution."
+    },
+    "quiz": [
+      {
+        "question": {
+          "en": "Which World Bank Group institution provides concessional credits and grants specifically to the world's poorest countries?",
+          "fr": "Quelle institution du Groupe de la Banque mondiale accorde des crédits concessionnels et des dons spécifiquement destinés aux pays les plus pauvres du monde ?"
+        },
+        "options": [
+          {"key": "A", "en": "IBRD", "fr": "BIRD"},
+          {"key": "B", "en": "MIGA", "fr": "MIGA"},
+          {"key": "C", "en": "IDA", "fr": "IDA"},
+          {"key": "D", "en": "IFC", "fr": "IFC"}
+        ],
+        "correct_answer": "C",
+        "explanation": {
+          "en": "IDA (International Development Association) is the WBG's fund for the poorest countries, offering financing on concessional terms — including credits, grants, and some guarantees — unlike IBRD's market-rate loans.",
+          "fr": "L'IDA (Association internationale de développement) est le fonds du GBM destiné aux pays les plus pauvres ; elle propose un financement à des conditions concessionnelles — crédits, dons et certaines garanties — contrairement aux prêts à taux de marché de la BIRD."
+        }
+      }
+    ],
+    "sources": [
+      {"title": "World Bank (IBRD/IDA) — Annual Report", "url": "https://www.worldbank.org/en/about/annual-report/world-bank"},
+      {"title": "Global Commitments — Financial Summary | World Bank", "url": "https://www.worldbank.org/en/about/annual-report/financial-summary"}
+    ],
+    "last_updated": "2026-08-25"
+  }
+]

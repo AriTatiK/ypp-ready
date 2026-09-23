@@ -1,0 +1,272 @@
+[
+  {
+    "id": "dev-1",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Macroeconomics",
+    "difficulty": "Easy",
+    "question": {
+      "en": "What does Gross Domestic Product (GDP) measure?",
+      "fr": "Que mesure le Produit intérieur brut (PIB) ?"
+    },
+    "options": [
+      {"key": "A", "en": "The total value of a country's exports minus its imports", "fr": "La valeur totale des exportations d'un pays diminuée de ses importations"},
+      {"key": "B", "en": "The total market value of all final goods and services produced within a country's borders during a given period", "fr": "La valeur marchande totale de tous les biens et services finaux produits sur le territoire d'un pays au cours d'une période donnée"},
+      {"key": "C", "en": "The total income earned by a country's citizens and firms, whether located at home or abroad", "fr": "Le revenu total perçu par les citoyens et les entreprises d'un pays, qu'ils se trouvent sur le territoire national ou à l'étranger"},
+      {"key": "D", "en": "The total amount of government spending in a given year", "fr": "Le montant total des dépenses publiques au cours d'une année donnée"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "GDP measures the total market value of final goods and services produced within a country's borders in a given period, regardless of who owns the factors of production. This distinguishes it from Gross National Income (GNI), which measures income earned by a country's residents and firms regardless of where production takes place.",
+      "fr": "Le PIB mesure la valeur marchande totale des biens et services finaux produits sur le territoire d'un pays au cours d'une période donnée, quel que soit le propriétaire des facteurs de production utilisés. Cela le distingue du Revenu national brut (RNB), qui mesure le revenu perçu par les résidents et les entreprises d'un pays, où que la production ait effectivement lieu."
+    },
+    "skill_tested": {
+      "en": "Understanding of basic macroeconomic indicators and national accounts concepts.",
+      "fr": "Compréhension des indicateurs macroéconomiques de base et des concepts de comptabilité nationale."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-2",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Macroeconomics",
+    "difficulty": "Easy",
+    "question": {
+      "en": "Which of the following best describes inflation?",
+      "fr": "Parmi les propositions suivantes, laquelle décrit le mieux l'inflation ?"
+    },
+    "options": [
+      {"key": "A", "en": "A sustained increase in the general level of prices in an economy over time", "fr": "Une hausse durable du niveau général des prix dans une économie au fil du temps"},
+      {"key": "B", "en": "A one-time increase in the price of a single specific good", "fr": "Une hausse ponctuelle du prix d'un bien spécifique"},
+      {"key": "C", "en": "A decrease in the national unemployment rate", "fr": "Une baisse du taux de chômage national"},
+      {"key": "D", "en": "An increase in the value of a country's currency relative to other currencies", "fr": "Une hausse de la valeur de la monnaie d'un pays par rapport aux autres devises"}
+    ],
+    "correct_answer": "A",
+    "explanation": {
+      "en": "Inflation refers to a sustained, broad-based rise in the general price level of an economy over time, which erodes the purchasing power of money. A one-time price change for a single good is a relative price movement, not inflation, and inflation is distinct from unemployment or exchange rate movements, even though the three can interact.",
+      "fr": "L'inflation désigne une hausse durable et généralisée du niveau général des prix dans une économie au fil du temps, qui érode le pouvoir d'achat de la monnaie. La hausse ponctuelle du prix d'un seul bien correspond à une variation de prix relatif, et non à de l'inflation ; par ailleurs, l'inflation est distincte du chômage ou du taux de change, même si ces variables peuvent interagir entre elles."
+    },
+    "skill_tested": {
+      "en": "Ability to distinguish general price-level changes from relative price changes.",
+      "fr": "Capacité à distinguer les variations du niveau général des prix des variations de prix relatifs."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-3",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Financial Inclusion",
+    "difficulty": "Easy",
+    "question": {
+      "en": "Financial inclusion primarily refers to:",
+      "fr": "L'inclusion financière désigne avant tout :"
+    },
+    "options": [
+      {"key": "A", "en": "Maximizing the profits of commercial banks", "fr": "La maximisation des profits des banques commerciales"},
+      {"key": "B", "en": "Ensuring that individuals and businesses have access to useful and affordable financial products and services, delivered responsibly", "fr": "Le fait de garantir aux particuliers et aux entreprises un accès à des produits et services financiers utiles et abordables, fournis de manière responsable"},
+      {"key": "C", "en": "Raising interest rates across the banking sector to attract more deposits", "fr": "Le relèvement des taux d'intérêt dans l'ensemble du secteur bancaire pour attirer davantage de dépôts"},
+      {"key": "D", "en": "Restricting access to credit in order to prevent household over-indebtedness", "fr": "La restriction de l'accès au crédit afin de prévenir le surendettement des ménages"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Financial inclusion means individuals and businesses have access to useful and affordable financial products and services — such as payments, savings, credit, and insurance — delivered in a responsible and sustainable way, regardless of income level or location. It is a means to broader development goals, not an end centered on bank profitability or credit restriction.",
+      "fr": "L'inclusion financière signifie que les particuliers et les entreprises ont accès à des produits et services financiers utiles et abordables — paiements, épargne, crédit, assurance — fournis de manière responsable et durable, quel que soit leur niveau de revenu ou leur lieu de résidence. Il s'agit d'un moyen au service d'objectifs de développement plus larges, et non d'une fin centrée sur la rentabilité bancaire ou la restriction du crédit."
+    },
+    "skill_tested": {
+      "en": "Knowledge of core financial inclusion concepts and their role in development.",
+      "fr": "Connaissance des concepts fondamentaux de l'inclusion financière et de leur rôle dans le développement."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-4",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Gender and Inclusion",
+    "difficulty": "Easy",
+    "question": {
+      "en": "In development economics, the term \"unpaid care work\" refers to:",
+      "fr": "En économie du développement, le terme « travail de soins non rémunéré » désigne :"
+    },
+    "options": [
+      {"key": "A", "en": "Volunteer work performed by NGOs that do not charge fees for their services", "fr": "Le travail bénévole réalisé par des ONG qui ne facturent pas leurs services"},
+      {"key": "B", "en": "Domestic and caregiving tasks — such as childcare, cooking, and fetching water — performed without direct pay, disproportionately by women and girls", "fr": "Les tâches domestiques et de soins — garde d'enfants, cuisine, corvée d'eau, par exemple — accomplies sans rémunération directe, de manière disproportionnée par les femmes et les filles"},
+      {"key": "C", "en": "Unpaid internships offered by international organizations", "fr": "Les stages non rémunérés proposés par les organisations internationales"},
+      {"key": "D", "en": "Cash transfers paid by governments to households below the poverty line", "fr": "Les transferts monétaires versés par les gouvernements aux ménages situés sous le seuil de pauvreté"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Unpaid care work covers domestic and caregiving activities performed without direct compensation, such as childcare, cooking, cleaning, and collecting water or fuel. Globally, this work is performed disproportionately by women and girls, which limits their time available for education, paid employment, and civic participation, making it a central concept in gender-responsive development policy.",
+      "fr": "Le travail de soins non rémunéré recouvre les activités domestiques et de soins accomplies sans compensation directe, telles que la garde d'enfants, la cuisine, le ménage ou la collecte d'eau et de combustible. À l'échelle mondiale, ce travail est assumé de manière disproportionnée par les femmes et les filles, ce qui limite le temps qu'elles peuvent consacrer à l'éducation, à un emploi rémunéré ou à la participation civique — un concept central des politiques de développement sensibles au genre."
+    },
+    "skill_tested": {
+      "en": "Understanding of gender-related concepts central to inclusive development policy.",
+      "fr": "Compréhension des concepts liés au genre, centraux pour des politiques de développement inclusives."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-5",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Climate Finance",
+    "difficulty": "Medium",
+    "question": {
+      "en": "In climate finance terminology, \"adaptation finance\" is used to:",
+      "fr": "Dans la terminologie du financement climatique, le « financement de l'adaptation » sert à :"
+    },
+    "options": [
+      {"key": "A", "en": "Reduce or avoid greenhouse gas emissions at their source", "fr": "Réduire ou éviter les émissions de gaz à effet de serre à la source"},
+      {"key": "B", "en": "Help communities and systems adjust to, and manage the impacts of, climate change that is already occurring or expected", "fr": "Aider les communautés et les systèmes à s'ajuster aux effets du changement climatique déjà en cours ou attendus, et à en gérer les impacts"},
+      {"key": "C", "en": "Fund new fossil fuel exploration projects in developing countries", "fr": "Financer de nouveaux projets d'exploration de combustibles fossiles dans les pays en développement"},
+      {"key": "D", "en": "Compensate wealthy nations for the cost of reducing their own emissions", "fr": "Indemniser les pays riches pour le coût de la réduction de leurs propres émissions"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Adaptation finance supports actions that help people, infrastructure, and ecosystems adjust to current or expected climate impacts — for example, drought-resistant agriculture, flood defenses, or early-warning systems. This is distinct from mitigation finance, which funds efforts to reduce or avoid greenhouse gas emissions, such as renewable energy or energy efficiency projects.",
+      "fr": "Le financement de l'adaptation soutient des actions permettant aux populations, aux infrastructures et aux écosystèmes de s'ajuster aux impacts climatiques actuels ou attendus — par exemple, une agriculture résistante à la sécheresse, des ouvrages de protection contre les inondations ou des systèmes d'alerte précoce. Il se distingue du financement de l'atténuation, qui finance les efforts visant à réduire ou éviter les émissions de gaz à effet de serre, comme les projets d'énergies renouvelables ou d'efficacité énergétique."
+    },
+    "skill_tested": {
+      "en": "Ability to distinguish mitigation finance from adaptation finance in climate policy.",
+      "fr": "Capacité à distinguer le financement de l'atténuation de celui de l'adaptation dans les politiques climatiques."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-6",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Regional Integration",
+    "difficulty": "Medium",
+    "question": {
+      "en": "A primary objective of the African Continental Free Trade Area (AfCFTA) is to:",
+      "fr": "Un objectif principal de la Zone de libre-échange continentale africaine (ZLECAf) est de :"
+    },
+    "options": [
+      {"key": "A", "en": "Impose a single uniform tax rate across all African countries", "fr": "Imposer un taux d'imposition unique et uniforme à tous les pays africains"},
+      {"key": "B", "en": "Progressively eliminate tariffs and reduce non-tariff barriers to boost trade among African countries", "fr": "Éliminer progressivement les droits de douane et réduire les barrières non tarifaires afin de stimuler le commerce entre pays africains"},
+      {"key": "C", "en": "Merge the national currencies of member states into a single continental currency", "fr": "Fusionner les monnaies nationales des États membres en une monnaie continentale unique"},
+      {"key": "D", "en": "Restrict foreign direct investment flowing into African economies", "fr": "Restreindre les flux d'investissements directs étrangers vers les économies africaines"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The AfCFTA aims to create a single continental market for goods and services by progressively eliminating tariffs on intra-African trade and reducing non-tariff barriers, such as inconsistent standards and slow border procedures. It does not create a common currency or restrict foreign investment; its focus is on deepening trade integration among African economies.",
+      "fr": "La ZLECAf vise à créer un marché continental unique des biens et des services en éliminant progressivement les droits de douane sur les échanges intra-africains et en réduisant les barrières non tarifaires, telles que les normes incohérentes ou la lenteur des procédures douanières. Elle ne crée pas de monnaie commune et ne restreint pas l'investissement étranger ; son objectif est d'approfondir l'intégration commerciale entre économies africaines."
+    },
+    "skill_tested": {
+      "en": "Knowledge of regional integration initiatives and their objectives in Africa.",
+      "fr": "Connaissance des initiatives d'intégration régionale et de leurs objectifs en Afrique."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-7",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Infrastructure Financing",
+    "difficulty": "Medium",
+    "question": {
+      "en": "In a well-structured Public-Private Partnership (PPP) for infrastructure, risks should generally be allocated to:",
+      "fr": "Dans un partenariat public-privé (PPP) d'infrastructure bien structuré, les risques doivent en général être répartis vers :"
+    },
+    "options": [
+      {"key": "A", "en": "The government, regardless of the type of risk involved", "fr": "Le gouvernement, quel que soit le type de risque en cause"},
+      {"key": "B", "en": "The private partner only, in order to minimize the government's exposure", "fr": "Le partenaire privé uniquement, afin de minimiser l'exposition du gouvernement"},
+      {"key": "C", "en": "Whichever party is best able to manage and bear a given risk at the lowest cost", "fr": "La partie la mieux placée pour gérer et supporter un risque donné, au moindre coût"},
+      {"key": "D", "en": "An equal 50/50 split between the public and private partners on every project, regardless of risk type", "fr": "Une répartition strictement égale de 50/50 entre les partenaires public et privé sur chaque projet, quel que soit le type de risque"}
+    ],
+    "correct_answer": "C",
+    "explanation": {
+      "en": "Sound PPP design allocates each risk — construction, demand, currency, regulatory, or political — to whichever party (public or private) is best positioned to manage it at the lowest cost. Misallocating risk, such as forcing a private operator to bear demand risk it cannot control, tends to raise the overall cost of the project or contribute to contract renegotiation and failure.",
+      "fr": "Une bonne conception des PPP consiste à répartir chaque risque — construction, demande, change, réglementation ou risque politique — vers la partie (publique ou privée) la mieux placée pour le gérer au moindre coût. Une mauvaise répartition des risques, par exemple en imposant à un opérateur privé un risque de demande qu'il ne maîtrise pas, tend à augmenter le coût global du projet ou à provoquer une renégociation, voire un échec du contrat."
+    },
+    "skill_tested": {
+      "en": "Understanding of risk allocation principles in infrastructure public-private partnerships.",
+      "fr": "Compréhension des principes de répartition des risques dans les partenariats public-privé en matière d'infrastructures."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-8",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Poverty Measurement",
+    "difficulty": "Hard",
+    "question": {
+      "en": "The Multidimensional Poverty Index (MPI) differs from a monetary poverty line chiefly because it:",
+      "fr": "L'Indice de pauvreté multidimensionnelle (IPM) se distingue d'un seuil de pauvreté monétaire principalement parce qu'il :"
+    },
+    "options": [
+      {"key": "A", "en": "Is calculated using purchasing power parity exchange rates instead of market exchange rates", "fr": "Est calculé à l'aide de taux de change en parité de pouvoir d'achat plutôt qu'en taux de change du marché"},
+      {"key": "B", "en": "Captures overlapping deprivations across dimensions such as health, education, and living standards, rather than relying on income or consumption alone", "fr": "Capture les privations qui se recoupent dans des dimensions telles que la santé, l'éducation et le niveau de vie, plutôt que de se fonder uniquement sur le revenu ou la consommation"},
+      {"key": "C", "en": "Is calculated only for high-income OECD countries", "fr": "N'est calculé que pour les pays à revenu élevé membres de l'OCDE"},
+      {"key": "D", "en": "Has fully replaced GDP per capita as the main indicator used to classify countries by income level", "fr": "A totalement remplacé le PIB par habitant comme principal indicateur de classification des pays par niveau de revenu"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The MPI identifies how people experience poverty across multiple, overlapping dimensions simultaneously — for example, a household lacking adequate nutrition, schooling, and access to clean water, cooking fuel, or sanitation — rather than relying solely on whether income or consumption falls below a monetary threshold. This can reveal deprivation patterns that a purely monetary poverty line would miss, and the two measures are generally used to complement, not replace, one another. The MPI is applied mainly in low- and middle-income countries, and countries continue to be classified by income primarily using GNI per capita, not the MPI.",
+      "fr": "L'IPM identifie la manière dont les individus vivent simultanément plusieurs privations qui se recoupent — par exemple, un ménage souffrant à la fois d'une nutrition insuffisante, d'un faible niveau de scolarisation et d'un accès limité à l'eau potable, à un combustible de cuisson ou à l'assainissement — plutôt que de se fonder uniquement sur le fait que le revenu ou la consommation se situe sous un seuil monétaire. Cela permet de mettre en évidence des formes de privation qu'un seuil de pauvreté purement monétaire ne détecterait pas ; les deux mesures sont généralement complémentaires plutôt que substituables. L'IPM est appliqué principalement dans les pays à revenu faible ou intermédiaire, tandis que la classification des pays par niveau de revenu continue de reposer principalement sur le RNB par habitant, et non sur l'IPM."
+    },
+    "skill_tested": {
+      "en": "Understanding of multidimensional approaches to measuring poverty beyond income.",
+      "fr": "Compréhension des approches multidimensionnelles de la mesure de la pauvreté au-delà du revenu."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-9",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Trade",
+    "difficulty": "Hard",
+    "question": {
+      "en": "A country experiences a \"deterioration in its terms of trade\" when:",
+      "fr": "Un pays connaît une « détérioration de ses termes de l'échange » lorsque :"
+    },
+    "options": [
+      {"key": "A", "en": "The volume of its exports grows faster than the volume of its imports", "fr": "Le volume de ses exportations croît plus vite que le volume de ses importations"},
+      {"key": "B", "en": "The price of its exports falls relative to the price of its imports", "fr": "Le prix de ses exportations baisse par rapport au prix de ses importations"},
+      {"key": "C", "en": "It signs a new free trade agreement with a neighboring country", "fr": "Il signe un nouvel accord de libre-échange avec un pays voisin"},
+      {"key": "D", "en": "Its currency appreciates against the currencies of its main trading partners", "fr": "Sa monnaie s'apprécie face aux devises de ses principaux partenaires commerciaux"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "The terms of trade are the ratio of a country's export prices to its import prices. A deterioration means export prices fall relative to import prices, so the country must export a larger volume of goods to pay for the same volume of imports. Many commodity-exporting developing economies are vulnerable to terms-of-trade shocks when global prices for their key export commodities fall while the prices of manufactured imports remain stable or rise, which is a distinct concept from trade volumes, trade agreements, or exchange rate movements alone.",
+      "fr": "Les termes de l'échange correspondent au ratio entre le prix des exportations d'un pays et le prix de ses importations. Une détérioration signifie que le prix des exportations baisse par rapport à celui des importations, obligeant le pays à exporter un volume plus important de biens pour financer le même volume d'importations. De nombreuses économies en développement exportatrices de matières premières sont vulnérables aux chocs sur les termes de l'échange lorsque les prix mondiaux de leurs principaux produits d'exportation chutent alors que le prix des importations manufacturées reste stable ou augmente — un phénomène distinct des simples volumes échangés, des accords commerciaux ou des seules variations de change."
+    },
+    "skill_tested": {
+      "en": "Understanding of trade concepts, including terms of trade and their economic implications.",
+      "fr": "Compréhension des concepts commerciaux, notamment les termes de l'échange et leurs implications économiques."
+    },
+    "source": "Original YPPReady practice question"
+  },
+  {
+    "id": "dev-10",
+    "organization_scope": "General",
+    "category": "Development Knowledge",
+    "subcategory": "Public Policy",
+    "difficulty": "Hard",
+    "question": {
+      "en": "Debt sustainability analysis primarily assesses whether:",
+      "fr": "L'analyse de soutenabilité de la dette évalue principalement si :"
+    },
+    "options": [
+      {"key": "A", "en": "A government's total debt stock is below a single fixed ceiling that applies universally to all countries", "fr": "L'encours total de la dette d'un gouvernement est inférieur à un plafond fixe unique, applicable universellement à tous les pays"},
+      {"key": "B", "en": "A country can meet its current and future debt service obligations without unduly compromising economic stability or requiring exceptional financing or restructuring", "fr": "Un pays est en mesure d'honorer ses obligations actuelles et futures de service de la dette sans compromettre indûment sa stabilité économique ni nécessiter un financement exceptionnel ou une restructuration"},
+      {"key": "C", "en": "A country's central bank holds sufficient foreign exchange reserves to defend a fixed exchange rate", "fr": "La banque centrale d'un pays détient des réserves de change suffisantes pour défendre un taux de change fixe"},
+      {"key": "D", "en": "A country's private-sector debt exceeds its public-sector debt", "fr": "La dette du secteur privé d'un pays dépasse celle du secteur public"}
+    ],
+    "correct_answer": "B",
+    "explanation": {
+      "en": "Debt sustainability analysis examines whether a country can service its existing and projected debt obligations under realistic macroeconomic scenarios without needing debt relief, default, or disruptive fiscal adjustment. It considers factors such as debt levels relative to GDP or exports, growth and interest rate projections, and the composition of debt (currency, maturity, concessionality) — rather than relying on a single universal debt ceiling, reserve adequacy, or the public-private debt split alone.",
+      "fr": "L'analyse de soutenabilité de la dette examine si un pays est en mesure d'honorer ses obligations de dette actuelles et projetées, dans des scénarios macroéconomiques réalistes, sans avoir besoin d'un allègement de dette, d'un défaut de paiement ou d'un ajustement budgétaire brutal. Elle prend en compte des facteurs tels que le niveau de la dette rapporté au PIB ou aux exportations, les projections de croissance et de taux d'intérêt, ainsi que la composition de la dette (devise, échéance, degré de concessionnalité) — plutôt que de se fonder sur un plafond de dette universel unique, l'adéquation des réserves de change, ou la seule répartition entre dette publique et dette privée."
+    },
+    "skill_tested": {
+      "en": "Understanding of fiscal and debt sustainability concepts in public policy analysis.",
+      "fr": "Compréhension des concepts de soutenabilité budgétaire et de la dette dans l'analyse des politiques publiques."
+    },
+    "source": "Original YPPReady practice question"
+  }
+]
